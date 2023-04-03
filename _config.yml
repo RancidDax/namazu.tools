@@ -9,15 +9,15 @@ aux_links:
   Github: https://github.com/The-Seat-of-Namazu/namazu.tools
 
 callouts:
-  note:
-    title: Note
-    color: purple
-  healers:
-    title: Healers
-    color: green
   tanks:
     title: Tanks
     color: blue
-  dps:
-    title: DPS
+  healers:
+    title: Healers
+    color: green
+  note:
+    title: Note
+    color: purple
+  damage:
+    title: Damage
     color: red
