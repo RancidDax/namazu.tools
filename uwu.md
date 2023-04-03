@@ -50,12 +50,12 @@ Party should ALL move WEST to avoid the tornado spawning under Healers.
 
 ### Plumes
 
-Plumes will spawn around the arena. 
+1. Plumes will spawn around the arena. 
 
 {: .warning } 
 STOP AOE IMMEDIATELY. The Spiny plume will become fixated on the first person to deal damage to it, this MUST be the OT.
 
-Once the plumes have gathered on the party, AOE them down leaving the Spiny plume with some health left (aim for 25%ish)
+2. Once the plumes have gathered on the party, AOE them down leaving the Spiny plume with some health left (aim for 25%ish)
 
 MT dodge **Slipstream**, then move back in and take Downburst (Heavy Phys Tankbuster)
 
@@ -100,6 +100,7 @@ MT and OT dodge Wicked Wheel (PBAOE) and stand on a cardinal in-front of each si
 > Intercept Priority
 > 
 > MT = NORTH > EAST
+>
 > OT = SOUTH > WEST
 
 **Feather Rain**: Listen for Garuda Shriek, when you hear the noise, move.
