@@ -6,8 +6,6 @@ parent: Ultimates
 
 MUR Standard 
 {: .label .label-purple }
-PF Standard 
-{: .label .label-green }
 
 # The Weapons Refrain
 
@@ -47,7 +45,7 @@ Party should ALL move WEST to avoid the tornado spawning under Healers.
 
 Plumes will spawn around the arena. 
 
-{: .important } 
+{: .warning } 
 STOP AOE IMMEDIATELY. The Spiny plume will become fixated on the first person to deal damage to it, this MUST be the OT.
 
 Once the plumes have gathered on the party, AOE them down leaving the Spiny plume with some health left (aim for 25%ish)
@@ -73,7 +71,7 @@ The following is a mechanic where we will take turns to gain and cleanse stacks 
 {: .healers } 
 This is one of the biggest damage checks in this phase, use your big mits/CDs and don't be afraid to spam heal.
 
-{: .important }
+{: .warning }
 Stay relatively stacked during this mechanic, friction is a small range and can miss people if you are too spread out.
 
 {: .note }
@@ -81,7 +79,15 @@ If you did this mechanic correctly, the boss will now have 3 stacks of awakened.
 
 **Feather Rain**: Listen for Garuda Shriek, when you hear the noise, move.
 
-**Aerial Blast**: Heavy Raidwide. Party stack tightly south of **WM1**.
+**Aerial Blast**: Heavy Raidwide. Party stack tightly slightly south of mid.
+
+Sisters will spawn.
+
+**Feather Rain**: Listen for Garuda Shriek, when you hear the noise, move.
+
+Party to stack on **Waymark 4**
+
+MT and OT dodge Wicked Wheel (PBAOE)
 
 {: .healers } 
 Start this phase on the No.2 Marker on the Right-side of the boss, you will have a mechanic straight away.
