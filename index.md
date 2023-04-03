@@ -16,5 +16,10 @@ MUR Standard
 
 We hope you can find this site useful in your adventures in FF14, you can join the conversation at our discord server with the link below or start contributing to this open-source project following the github link.
 
-[The Seat of Namazu Discord Server](https://discord.gg/Cv5zgPRbby){: .btn .btn-purple }
-[Github repository](https://github.com/The-Seat-of-Namazu/namazu.tools){: .btn }
+## Get started...
+
+[UWU](/UWU){: .btn .btn-green }
+[UCOB](/UCOB){: .btn .btn-green }
+[TEA](/TEA){: .btn .btn-green }
+[DSR](/DSR){: .btn .btn-green }
+[TOP](/TOP){: .btn .btn-green }
