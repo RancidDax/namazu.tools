@@ -33,8 +33,11 @@ UWU has multiple Toolboxes, each are listed here in order of phases in the fight
 
 ## Phase 1: Garuda
 
-{: .healers } Start this phase on the No.2 Marker on the Right-side of the boss, you will have a mechanic straight away.
+{: .healers } 
+Start this phase on the No.2 Marker on the Right-side of the boss, you will have a mechanic straight away.
 
-{: .tanks } Pull the boss to the center and face it north immediately.
+{: .tanks } 
+Pull the boss to the center and face it north immediately.
 
-{: .damage } Stay south of the boss at almost all times in this phase.
+{: .damage } 
+Stay south of the boss at almost all times in this phase.
