@@ -4,7 +4,9 @@ title: UWU
 parent: Ultimates
 ---
 MUR Standard {: .label .label-purple }
+
 PF Standard {: .label .label-green }
+
 # The Weapons Refrain
 
 The Weapons Refrain is a multi-phase fight that covers an alternative retelling of the Warrior of Light's fight against the Primals and the Ultima Weapon.
