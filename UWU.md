@@ -21,10 +21,10 @@ Toolboxes are an interactive guide that allows you to click through each phase i
 
 UWU has multiple Toolboxes, each are listed here in order of phases in the fight.
 
-[Garuda](https://ff14.toolboxgaming.space/?id=882261013862561&preview=1){: .btn .btn-blue .mr-4 }
-[Ifrit](https://ff14.toolboxgaming.space/?id=562530446784261&preview=1){: .btn .btn-blue .mr-4 }
-[Titan](https://ff14.toolboxgaming.space/?id=982261963862561&preview=1){: .btn .btn-blue .mr-4 }
-[Lahabrea](https://ff14.toolboxgaming.space/?id=430631425646261&preview=1){: .btn .btn-blue .mr-4 }
-[Predation](https://ff14.toolboxgaming.space/?id=530635345646261&preview=1){: .btn .btn-blue .mr-4 }
-[Annihilation](https://ff14.toolboxgaming.space/?id=930637786646261&preview=1){: .btn .btn-blue .mr-4 }
-[Suppression](https://ff14.toolboxgaming.space/?id=192261294862561&preview=1){: .btn .btn-blue .mr-4 }
+[Garuda](https://ff14.toolboxgaming.space/?id=882261013862561&preview=1){: .btn .btn-blue }
+[Ifrit](https://ff14.toolboxgaming.space/?id=562530446784261&preview=1){: .btn .btn-blue }
+[Titan](https://ff14.toolboxgaming.space/?id=982261963862561&preview=1){: .btn .btn-blue }
+[Lahabrea](https://ff14.toolboxgaming.space/?id=430631425646261&preview=1){: .btn .btn-blue }
+[Predation](https://ff14.toolboxgaming.space/?id=530635345646261&preview=1){: .btn .btn-blue }
+[Annihilation](https://ff14.toolboxgaming.space/?id=930637786646261&preview=1){: .btn .btn-blue }
+[Suppression](https://ff14.toolboxgaming.space/?id=192261294862561&preview=1){: .btn .btn-blue }
