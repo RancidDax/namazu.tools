@@ -57,7 +57,6 @@ Throughout the first 3 phases, you will be aiming to complete special requiremen
 - Party should ALL move WEST to avoid the tornado spawning under Healers.
 
 ## Plumes
-
 - Plumes will spawn around the arena.
 
 {: .warning }
@@ -121,8 +120,8 @@ If Tornadoes are on SOUTH and EAST, ranged can dodge out towards wall for safety
 - Enrage
 
 **Enrage Timer is 2:55**
-When you kill Garuda, DPS and Tanks stack middle, Healer grab the Glowing Puddle (Candy) for later.
 
+When you kill Garuda, DPS and Tanks stack middle, Healer grab the Glowing Puddle (Candy) for later.
 
 
 # Credits
