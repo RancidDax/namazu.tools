@@ -50,16 +50,21 @@ Party should ALL move WEST to avoid the tornado spawning under Healers.
 
 ### Plumes
 
-1. Plumes will spawn around the arena. 
-    {: .warning } 
+1. Plumes will spawn around the arena.
+    
+    {: .warning }
     STOP AOE IMMEDIATELY. The Spiny plume will become fixated on the first person to deal damage to it, this MUST be the OT.
+    
 1. Once the plumes have gathered on the party, AOE them down leaving the Spiny plume with some health left (aim for 25%ish)
 1. MT dodge **Slipstream**, then move back in and take Downburst (Heavy Phys Tankbuster)
 1. **Feather Rain**: Listen for Garuda Shriek, when you hear the noise, move.
+    
     {: .note }
     Feather Rain occurs many times in this fight, get familiar with the sound of Garuda Shrieking and react accordingly.
+    
     ### Cleanses
     The following is a mechanic where we will take turns to gain and cleanse stacks by entering and leaving bubble, the order is very precise and required to be able to clear the fight, if you fail the order but survive the mechanic, you will fail later mechanics.
+    
 1. Kill spiny plume, everyone except OT move into bubble.
 1. After Raidwide, OT enter bubble and cleanse stacks.
 1. OT and Melee leave bubble and wait outside.
@@ -67,12 +72,16 @@ Party should ALL move WEST to avoid the tornado spawning under Healers.
 1. Friction 2: Heavy party damage, Stacks applied to everyone, Party leaves bubble.
 1. Wait for party to be healed, First Melee cleanses stacks (Enter and exit bubble)
 1. Wait for party to be healed, Second Melee cleanses stacks (Enter and exit bubble)
-    {: .healers } 
+    
+    {: .healers }
     This is one of the biggest damage checks in this phase, use your big mits/CDs and don't be afraid to spam heal.
+    
     {: .warning }
     Stay relatively stacked during this mechanic, friction is a small range and can miss people if you are too spread out.
+    
     {: .note }
     If you did this mechanic correctly, the boss will now have 3 stacks of awakened. The last stack to Awaken the boss will apply later.
+
 1. **Feather Rain**: Listen for Garuda Shriek, when you hear the noise, move.
 
 **Aerial Blast**: Heavy Raidwide. Party stack tightly slightly south of mid.
