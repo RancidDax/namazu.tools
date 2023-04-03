@@ -49,14 +49,14 @@ Throughout the first 3 phases, you will be aiming to complete special requiremen
 ## Mechanics Writeup
 
 ### Table of Contents
-[Phase 1: Garuda](/uwu#phase-1-garuda)
-[Phase 2: Ifrit](/uwu#phase-2-ifrit)
-[Phase 3: Titan](/uwu#phase-3-titan)
-[Phase 4: Lahabrea](/uwu#phase-4-lahabread)
-[Phase 5.1: Predation](/uwu#phase-51-predation)
-[Phase 5.2: Annihilation](/uwu#phase-52-annihilation)
-[Phase 5.3: Suppression](/uwu#phase-53-suppression)
-[Phase 5.4: Roulette](/uwu#phase-54-roulette)
+- [Phase 1: Garuda](/uwu#phase-1-garuda)
+- [Phase 2: Ifrit](/uwu#phase-2-ifrit)
+- [Phase 3: Titan](/uwu#phase-3-titan)
+- [Phase 4: Lahabrea](/uwu#phase-4-lahabread)
+- [Phase 5.1: Predation](/uwu#phase-51-predation)
+- [Phase 5.2: Annihilation](/uwu#phase-52-annihilation)
+- [Phase 5.3: Suppression](/uwu#phase-53-suppression)
+- [Phase 5.4: Roulette](/uwu#phase-54-roulette)
 
 ### Phase 1: Garuda
 - The phase starts with the MT pulling boss to mid and facing boss north. DPS should be behind boss and OT and Healers stay east with the OT between Healers and the boss. 
