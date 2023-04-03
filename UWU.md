@@ -3,8 +3,6 @@ layout: default
 title: UWU
 parent: Ultimates
 ---
-MUR Standard
-{: .label .label-purple }
 
 # The Weapons Refrain
 
@@ -15,7 +13,10 @@ This fight is commonly referred to as **UWU** for *Ultima Weapon: Ultimate*, and
 
 The fight will see you squaring off against Garuda, Ifrit and Titan before completing a LB3-filled intermission with Lahabrea before facing the Ultima Weapon itself, angrier than ever.
 
-## Toolboxes
+MUR Standard
+{: .label .label-purple }
+
+## Toolboxes 
 
 Toolboxes are an interactive guide that allows you to click through each phase indiviudally and review the mechanics in a easy to understand manner.
 UWU has multiple Toolboxes, each are listed here in order of phases in the fight.
