@@ -44,87 +44,89 @@ Throughout the first 3 phases, you will be aiming to complete special requiremen
 
 ## Phase 1: Garuda
 
-1. The phase starts with the MT pulling boss to mid and facing boss north. DPS should be behind boss and OT and Healers stay east with the OT between Healers and the boss. 
+- The phase starts with the MT pulling boss to mid and facing boss north. DPS should be behind boss and OT and Healers stay east with the OT between Healers and the boss. 
     
-1. MT to dodge the Cleave attack (**Slipstream**)
+- MT to dodge the Cleave attack (**Slipstream**)
     
-1. One Healer will get Mistral Song, the boss will send a ranged attacked to Healers and OT will soak the hit with Healers (first hit takes more damage)
+- One Healer will get Mistral Song, the boss will send a ranged attacked to Healers and OT will soak the hit with Healers (first hit takes more damage)
     
-1. Party should ALL move WEST to avoid the tornado spawning under Healers.
+- Party should ALL move WEST to avoid the tornado spawning under Healers.
+
+## Plumes
     
-1. Plumes will spawn around the arena.
+- Plumes will spawn around the arena.
     
-    {: .warning }
-    STOP AOE IMMEDIATELY. The Spiny plume will become fixated on the first person to deal damage to it, this MUST be the OT.
+{: .warning }
+STOP AOE IMMEDIATELY. The Spiny plume will become fixated on the first person to deal damage to it, this MUST be the OT.
     
-1. Once the plumes have gathered on the party, AOE them down leaving the Spiny plume with some health left (aim for 25%ish)
-1. MT dodge **Slipstream**, then move back in and take Downburst (Heavy Phys Tankbuster)
-1. **Feather Rain**: Listen for Garuda Shriek, when you hear the noise, move.
+- Once the plumes have gathered on the party, AOE them down leaving the Spiny plume with some health left (aim for 25%ish)
+- MT dodge **Slipstream**, then move back in and take Downburst (Heavy Phys Tankbuster)
+- **Feather Rain**: Listen for Garuda Shriek, when you hear the noise, move.
     
-    {: .note }
-    Feather Rain occurs many times in this fight, get familiar with the sound of Garuda Shrieking and react accordingly.
+{: .note }
+Feather Rain occurs many times in this fight, get familiar with the sound of Garuda Shrieking and react accordingly.
     
-    **Cleanses**
-    The following is a mechanic where we will take turns to gain and cleanse stacks by entering and leaving bubble, the order is very precise and required to be able to clear the fight, if you fail the order but survive the mechanic, you will fail later mechanics.
+## Cleanses
+The following is a mechanic where we will take turns to gain and cleanse stacks by entering and leaving bubble, the order is very precise and required to be able to clear the fight, if you fail the order but survive the mechanic, you will fail later mechanics.
     
-1. Kill spiny plume, everyone except OT move into bubble.
-1. After Raidwide, OT enter bubble and cleanse stacks.
-1. OT and Melee leave bubble and wait outside.
-1. Friction 1: Heavy party damage, Stacks applied to OT and Melee, Party leaves bubble.
-1. Friction 2: Heavy party damage, Stacks applied to everyone, Party leaves bubble.
-1. Wait for party to be healed, First Melee cleanses stacks (Enter and exit bubble)
-1. Wait for party to be healed, Second Melee cleanses stacks (Enter and exit bubble)
+- Kill spiny plume, everyone except OT move into bubble.
+- After Raidwide, OT enter bubble and cleanse stacks.
+- OT and Melee leave bubble and wait outside.
+- Friction 1: Heavy party damage, Stacks applied to OT and Melee, Party leaves bubble.
+- Friction 2: Heavy party damage, Stacks applied to everyone, Party leaves bubble.
+- Wait for party to be healed, First Melee cleanses stacks (Enter and exit bubble)
+- Wait for party to be healed, Second Melee cleanses stacks (Enter and exit bubble)
     
-    {: .healers }
-    This is one of the biggest damage checks in this phase, use your big mits/CDs and don't be afraid to spam heal.
+{: .healers }
+This is one of the biggest damage checks in this phase, use your big mits/CDs and don't be afraid to spam heal.
+
+{: .warning }
+Stay relatively stacked during this mechanic, friction is a small range and can miss people if you are too spread out.
+
+{: .note }
+If you did this mechanic correctly, the boss will now have 3 stacks of awakened. The last stack to Awaken the boss will apply later.
     
-    {: .warning }
-    Stay relatively stacked during this mechanic, friction is a small range and can miss people if you are too spread out.
+- **Feather Rain**: Listen for Garuda Shriek, when you hear the noise, move.
     
-    {: .note }
-    If you did this mechanic correctly, the boss will now have 3 stacks of awakened. The last stack to Awaken the boss will apply later.
+- **Aerial Blast**: Heavy Raidwide. Party stack tightly slightly south of mid.
     
-1. **Feather Rain**: Listen for Garuda Shriek, when you hear the noise, move.
+- Sisters will spawn.
     
-1. **Aerial Blast**: Heavy Raidwide. Party stack tightly slightly south of mid.
+- **Feather Rain**: Listen for Garuda Shriek, when you hear the noise, move.
     
-1. Sisters will spawn.
+- Party to stack on **Waymark 4**, Mistral Songs will target two non-tanks from sisters.
     
-1. **Feather Rain**: Listen for Garuda Shriek, when you hear the noise, move.
+- MT and OT dodge Wicked Wheel (PBAOE) and stand on a cardinal in-front of each sister against edge of blue circle, intercepting one of the Mistral Songs each.
     
-1. Party to stack on **Waymark 4**, Mistral Songs will target two non-tanks from sisters.
+{: .tanks }
+> Intercept Priority
+> 
+> MT = NORTH > EAST
+>
+> OT = SOUTH > WEST
     
-1. MT and OT dodge Wicked Wheel (PBAOE) and stand on a cardinal in-front of each sister against edge of blue circle, intercepting one of the Mistral Songs each.
+- **Feather Rain**: Listen for Garuda Shriek, when you hear the noise, move.
     
-    {: .tanks }
-    > Intercept Priority
-    > 
-    > MT = NORTH > EAST
-    >
-    > OT = SOUTH > WEST
+- Party and Tanks to dodge Tornadoes (Spawning on tank locations)
     
-1. **Feather Rain**: Listen for Garuda Shriek, when you hear the noise, move.
+{: .note }
+If Tornadoes are on SOUTH and EAST, ranged can dodge out towards wall for safety.
     
-1. Party and Tanks to dodge Tornadoes (Spawning on tank locations)
+- Party to stack behind boss.
     
-    {: .note }
-    If Tornadoes are on SOUTH and EAST, ranged can dodge out towards wall for safety.
+- Second plumes spawn, wait for them to gather and AOE them down as fast as possible.
     
-1. Party to stack behind boss.
+- OT takes EAST Tether, Caster take WEST Tether, walk Tether to edge of blue circle.
     
-1. Second plumes spawn, wait for them to gather and AOE them down as fast as possible.
+- Heavy Raidwide and **Downburst** on MT, followed by **Feather Rain**: Listen for Garuda Shriek, when you hear the noise, move.
     
-1. OT takes EAST Tether, Caster take WEST Tether, walk Tether to edge of blue circle.
+- Party stack behind Garuda, burn down boss, should phase at this point.
     
-1. Heavy Raidwide and **Downburst** on MT, followed by **Feather Rain**: Listen for Garuda Shriek, when you hear the noise, move.
-    
-1. Party stack behind Garuda, burn down boss, should phase at this point.
-    
-1. Slipstream
-1. Wicked Wheel (Dodge out of AOE and then in IMMEDIATELY)
-1. Downburst
-1. Slipstream
-1. Enrage
+- Slipstream
+- Wicked Wheel (Dodge out of AOE and then in IMMEDIATELY)
+- Downburst
+- Slipstream
+- Enrage
 
 **Enrage Timer is 2:55**
 
