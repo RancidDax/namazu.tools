@@ -18,6 +18,8 @@ The fight will see you squaring off against Garuda, Ifrit and Titan before compl
 
 ## General Notes & Resources
 
+### Toolboxes
+
 Toolboxes are an interactive guide that allows you to click through each phase indiviudally and review the mechanics in a easy to understand manner.
 UWU has multiple Toolboxes, each are listed here in order of phases in the fight.
 
@@ -34,13 +36,12 @@ These can be imported using an XIV Launcher Plugin.
 
 [Waymarks Pastebin](https://pastebin.com/KvHDCE6e){: .btn .btn-outline }
 
-> ### PoV Videos
-> by Kur Rumi
-> 
-> [DPS](https://www.youtube.com/watch?v=tD4w2xntOaI){: .btn .btn-outline }
-> [Healer](https://www.youtube.com/watch?v=HuRlYz-McMI){: .btn .btn-outline }
-> [Tank](https://www.youtube.com/watch?v=vcBajEouNNI&t){: .btn .btn-outline }
-{: .float-right	}
+### PoV Videos
+by Kur Rumi
+
+[DPS](https://www.youtube.com/watch?v=tD4w2xntOaI){: .btn .btn-outline }
+[Healer](https://www.youtube.com/watch?v=HuRlYz-McMI){: .btn .btn-outline }
+[Tank](https://www.youtube.com/watch?v=vcBajEouNNI&t){: .btn .btn-outline }
 
 ### Puddles (Candy)
 Throughout the first 3 phases, you will be aiming to complete special requirements to **Awaken** all three primals, once awoken their mechanics may change and they will drop a puddle (Candy) when they die, this must be picked up in a specific order, these will give you extra LB3's later which are required to clear the fight.
