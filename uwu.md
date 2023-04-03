@@ -16,11 +16,9 @@ This fight is commonly referred to as **UWU** for *Ultima Weapon: Ultimate*, and
 
 The fight will see you squaring off against Garuda, Ifrit and Titan before completing a LB3-filled intermission with Lahabrea before facing the Ultima Weapon itself, angrier than ever.
 
-## Table of Contents
 
-[Phase 1: Garuda](/uwu#phase-1-garuda)
 
-## Toolboxes & Resources
+## General Notes & Resources
 
 Toolboxes are an interactive guide that allows you to click through each phase indiviudally and review the mechanics in a easy to understand manner.
 UWU has multiple Toolboxes, each are listed here in order of phases in the fight.
@@ -35,14 +33,12 @@ UWU has multiple Toolboxes, each are listed here in order of phases in the fight
 
 [Waymarks Pastebin](https://pastebin.com/KvHDCE6e) (These can be imported using an XIV Launcher Plugin)
 
-## PoVs
+### PoVs
 by Kur Rumi
 
 [DPS](https://www.youtube.com/watch?v=tD4w2xntOaI){: .btn .btn-outline }
 [Healer](https://www.youtube.com/watch?v=HuRlYz-McMI){: .btn .btn-outline }
 [Tank](https://www.youtube.com/watch?v=vcBajEouNNI&t){: .btn .btn-outline }
-
-## Special Notes
 
 ### Puddles (Candy)
 Throughout the first 3 phases, you will be aiming to complete special requirements to **Awaken** all three primals, once awoken their mechanics may change and they will drop a puddle (Candy) when they die, this must be picked up in a specific order, these will give you extra LB3's later which are required to clear the fight.
@@ -50,6 +46,16 @@ Throughout the first 3 phases, you will be aiming to complete special requiremen
 **Healer > Caster > Melee**
 
 ## Mechanics Writeup
+
+### Table of Contents
+[Phase 1: Garuda](/uwu#phase-1-garuda)
+[Phase 2: Ifrit](/uwu#phase-2-ifrit)
+[Phase 3: Titan](/uwu#phase-3-titan)
+[Phase 4: Lahabrea](/uwu#phase-4-lahabread)
+[Phase 5.1: Predation](/uwu#phase-51-predation)
+[Phase 5.2: Annihilation](/uwu#phase-52-annihilation)
+[Phase 5.3: Suppression](/uwu#phase-53-suppression)
+[Phase 5.4: Roulette](/uwu#phase-54-roulette)
 
 ### Phase 1: Garuda
 - The phase starts with the MT pulling boss to mid and facing boss north. DPS should be behind boss and OT and Healers stay east with the OT between Healers and the boss. 
