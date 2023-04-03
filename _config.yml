@@ -21,6 +21,6 @@ callouts:
   damage:
     title: Damage
     color: red
-  important:
-    title: Important
-    color: yellow
+  warning:
+    title: Warning
+    color: red
