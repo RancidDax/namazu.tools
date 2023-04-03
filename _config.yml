@@ -12,3 +12,12 @@ callouts:
   note:
     title: Note
     color: purple
+  healers:
+    title: Healers
+    color: green
+  tanks:
+    title: Tanks
+    color: blue
+  dps:
+    title: DPS
+    color: red
