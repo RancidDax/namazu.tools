@@ -1,4 +1,4 @@
 ---
 layout: default
-title: ultimates
+title: Ultimates
 ---
