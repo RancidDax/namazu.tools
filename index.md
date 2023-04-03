@@ -12,7 +12,7 @@ This site was put together to help combine various resources and guides into one
 Please note throughout this website you will see various labels used to identify which type of strategy or where it originates from. As this is primarily a **Materia** community, we typically use what is referred to as **MUR Strats** *(Materia Ultimate Raiding)* so you will often see this label to indicate this around the website.
 
 MUR Standard
-{: .label .label-green }
+{: .label .label-purple }
 
 We hope you can find this site useful in your adventures in FF14, you can join the conversation at our discord server with the link below or start contributing to this open-source project following the github link.
 
