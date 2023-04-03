@@ -29,7 +29,9 @@ UWU has multiple Toolboxes, each are listed here in order of phases in the fight
 [Annihilation](https://ff14.toolboxgaming.space/?id=930637786646261&preview=1){: .btn .btn-blue }
 [Suppression](https://ff14.toolboxgaming.space/?id=192261294862561&preview=1){: .btn .btn-blue }
 
-[Waymarks Pastebin](https://pastebin.com/KvHDCE6e) (These can be imported using an XIV Launcher Plugin)
+### Waymarks
+These can be imported using an XIV Launcher Plugin.
+[Waymarks Pastebin](https://pastebin.com/KvHDCE6e){: .btn .btn-outline }
 
 ### PoVs
 by Kur Rumi
