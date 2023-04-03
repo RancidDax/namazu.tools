@@ -19,8 +19,8 @@ We hope you can find this site useful in your adventures in FF14, you can join t
 ## Get started...
 
 ### Ultimates
-[UWU](/UWU){: .btn .btn-green }
-[UCOB](/UCOB){: .btn .btn-green }
-[TEA](/TEA){: .btn .btn-green }
-[DSR](/DSR){: .btn .btn-green }
-[TOP](/TOP){: .btn .btn-green }
+[UWU](/uwu){: .btn .btn-green }
+[UCOB](/ucob){: .btn .btn-green }
+[TEA](/tea){: .btn .btn-green }
+[DSR](/dsr){: .btn .btn-green }
+[TOP](/top){: .btn .btn-green }
