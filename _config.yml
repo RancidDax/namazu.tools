@@ -7,3 +7,8 @@ url: https://namazu.tools
 aux_links:
   Discord: https://discord.gg/Cv5zgPRbby
   Github: https://github.com/The-Seat-of-Namazu/namazu.tools
+
+callouts:
+  note:
+    title: Note
+    color: purple
