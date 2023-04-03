@@ -35,6 +35,14 @@ UWU has multiple Toolboxes, each are listed here in order of phases in the fight
 
 [Waymarks Pastebin](https://pastebin.com/KvHDCE6e) (These can be imported using an XIV Launcher Plugin)
 
+### PoVs
+
+[DPS](https://www.youtube.com/watch?v=tD4w2xntOaI)
+[Healer](https://www.youtube.com/watch?v=HuRlYz-McMI)
+[Tank](https://www.youtube.com/watch?v=vcBajEouNNI&t)
+
+PoVs by Kur Rumi!
+
 ## Special Notes
 
 ### Candy
@@ -114,3 +122,9 @@ If Tornadoes are on SOUTH and EAST, ranged can dodge out towards wall for safety
 
 **Enrage Timer is 2:55**
 When you kill Garuda, DPS and Tanks stack middle, Healer grab the Glowing Puddle (Candy) for later.
+
+
+
+# Credits
+- MUR Discord for Toolboxes
+- Kur Rumi for PoVs
