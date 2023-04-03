@@ -31,6 +31,7 @@ UWU has multiple Toolboxes, each are listed here in order of phases in the fight
 
 ### Waymarks
 These can be imported using an XIV Launcher Plugin.
+
 [Waymarks Pastebin](https://pastebin.com/KvHDCE6e){: .btn .btn-outline }
 
 ### PoVs
