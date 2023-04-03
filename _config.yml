@@ -6,3 +6,8 @@ url: https://namazu.tools
 
 aux_links:
   Template Repository: https://github.com/just-the-docs/just-the-docs-template
+
+just_the_docs:
+  collections:
+    ultimates:
+      name: ultimates
