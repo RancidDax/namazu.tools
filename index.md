@@ -24,3 +24,14 @@ We hope you can find this site useful in your adventures in FF14, you can join t
 [TEA](/tea){: .btn .btn-green }
 [DSR](/dsr){: .btn .btn-green }
 [TOP](/top){: .btn .btn-green }
+
+## Important Links
+
+[Seat of Namazu Discord](https://discord.gg/Cv5zgPRbby){: .btn .btn-blue }
+The home of this website.
+
+[Materia Ultimate Raiding Discord](https://discord.gg/ArZz3b8PZV){: .btn .btn-blue }
+Where Materia Strats are born, also great for finding Parties in their PF channels.
+
+[The Balance](https://discord.gg/thebalanceffxiv){: .btn .btn-blue }
+Learn how to play your job good.
