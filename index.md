@@ -18,6 +18,7 @@ We hope you can find this site useful in your adventures in FF14, you can join t
 
 ## Get started...
 
+### Ultimates
 [UWU](/UWU){: .btn .btn-green }
 [UCOB](/UCOB){: .btn .btn-green }
 [TEA](/TEA){: .btn .btn-green }
