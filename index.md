@@ -33,5 +33,5 @@ The home of this website.
 ### [Materia Ultimate Raiding Discord](https://discord.gg/ArZz3b8PZV)
 Where Materia Strats are born, also great for finding Parties in their PF channels.
 
-### [The Balance](https://discord.gg/thebalanceffxiv)
+### [The Balance](https://www.thebalanceffxiv.com/)
 Learn how to play your job good.
