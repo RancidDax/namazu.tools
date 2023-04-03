@@ -27,11 +27,11 @@ We hope you can find this site useful in your adventures in FF14, you can join t
 
 ## Important Links
 
-[Seat of Namazu Discord](https://discord.gg/Cv5zgPRbby){: .btn .btn-blue }
+### [Seat of Namazu Discord](https://discord.gg/Cv5zgPRbby)
 The home of this website.
 
-[Materia Ultimate Raiding Discord](https://discord.gg/ArZz3b8PZV){: .btn .btn-blue }
+### [Materia Ultimate Raiding Discord](https://discord.gg/ArZz3b8PZV)
 Where Materia Strats are born, also great for finding Parties in their PF channels.
 
-[The Balance](https://discord.gg/thebalanceffxiv){: .btn .btn-blue }
+### [The Balance](https://discord.gg/thebalanceffxiv)
 Learn how to play your job good.
