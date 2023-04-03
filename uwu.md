@@ -34,7 +34,7 @@ These can be imported using an XIV Launcher Plugin.
 
 [Waymarks Pastebin](https://pastebin.com/KvHDCE6e){: .btn .btn-outline }
 
-### PoVs
+### PoV Videos
 by Kur Rumi
 
 [DPS](https://www.youtube.com/watch?v=tD4w2xntOaI){: .btn .btn-outline }
