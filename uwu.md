@@ -36,7 +36,7 @@ UWU has multiple Toolboxes, each are listed here in order of phases in the fight
 [Waymarks Pastebin](https://pastebin.com/KvHDCE6e) (These can be imported using an XIV Launcher Plugin)
 
 ### PoVs
-POVs by Kur Rumi
+by Kur Rumi
 
 [DPS](https://www.youtube.com/watch?v=tD4w2xntOaI){: .btn .btn-outline }
 [Healer](https://www.youtube.com/watch?v=HuRlYz-McMI){: .btn .btn-outline }
