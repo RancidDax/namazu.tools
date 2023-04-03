@@ -3,6 +3,8 @@ layout: default
 title: UWU
 parent: Ultimates
 ---
+MUR Standard
+{: .label .label-purple }
 
 # The Weapons Refrain
 
