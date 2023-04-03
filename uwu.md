@@ -122,6 +122,19 @@ If Tornadoes are on SOUTH and EAST, ranged can dodge out towards wall for safety
 
 When you kill Garuda, DPS and Tanks stack middle, Healer grab the Glowing Puddle (Candy) for later.
 
+## Phase 2: Ifrit
+
+## Phase 3: Titan
+
+## Phase 4: Lahabread
+
+## Phase 5.1: Predation
+
+## Phase 5.2: Annihilation
+
+## Phase 5.3: Suppression
+
+## Phase 5.4: Roulette
 
 # Credits
 - MUR Discord for Toolboxes
