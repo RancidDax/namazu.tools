@@ -49,6 +49,7 @@ Throughout the first 3 phases, you will be aiming to complete special requiremen
 - Party should ALL move WEST to avoid the tornado spawning under Healers.
 
 ## Plumes
+
 - Plumes will spawn around the arena.
 
 {: .warning }
@@ -93,6 +94,7 @@ If you did this mechanic correctly, the boss will now have 3 stacks of awakened.
 > 
 > - MT = NORTH > EAST
 > - OT = SOUTH > WEST
+
 - **Feather Rain**: Listen for Garuda Shriek, when you hear the noise, move.
 - Party and Tanks to dodge Tornadoes (Spawning on tank locations)
 
