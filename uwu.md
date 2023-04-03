@@ -3,9 +3,11 @@ layout: default
 title: UWU
 parent: Ultimates
 ---
-MUR Standard {: .label .label-purple }
 
-PF Standard {: .label .label-green }
+MUR Standard 
+{: .label .label-purple }
+PF Standard 
+{: .label .label-green }
 
 # The Weapons Refrain
 
