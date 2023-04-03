@@ -31,6 +31,15 @@ UWU has multiple Toolboxes, each are listed here in order of phases in the fight
 
 [Waymarks Pastebin](https://pastebin.com/KvHDCE6e) (These can be imported using an XIV Launcher Plugin)
 
+## Special Notes
+
+### Candy
+Throughout the first 3 phases, you will be aiming to complete special requirements to **Awaken** all three primals, once awoken their mechanics may change and they will drop a puddle (Candy) when they die, this must be picked up in a specific order, these will give you extra LB3's later which are required to clear the fight.
+
+Garuda Candy: **Healer**
+Ifrit Candy: **Caster**
+Titan Candy: **Melee**
+
 ## Phase 1: Garuda
 
 The phase starts with the MT pulling boss to mid and facing boss north. DPS should be behind boss and OT and Healers stay east with the OT between Healers and the boss. 
@@ -85,15 +94,40 @@ Sisters will spawn.
 
 **Feather Rain**: Listen for Garuda Shriek, when you hear the noise, move.
 
-Party to stack on **Waymark 4**
+Party to stack on **Waymark 4**, Mistral Songs will target two non-tanks from sisters.
 
-MT and OT dodge Wicked Wheel (PBAOE)
+MT and OT dodge Wicked Wheel (PBAOE) and stand on a cardinal in-front of each sister against edge of blue circle, intercepting one of the Mistral Songs each.
 
-{: .healers } 
-Start this phase on the No.2 Marker on the Right-side of the boss, you will have a mechanic straight away.
+{: .tanks }
+> Intercept Priority
+> 
+> MT = NORTH > EAST
+> OT = SOUTH > WEST
 
-{: .tanks } 
-Pull the boss to the center and face it north immediately.
+**Feather Rain**: Listen for Garuda Shriek, when you hear the noise, move.
 
-{: .damage } 
-Stay south of the boss at almost all times in this phase.
+Party and Tanks to dodge Tornadoes (Spawning on tank locations)
+
+{: .note }
+If Tornadoes are on SOUTH and EAST, ranged can dodge out towards wall for safety.
+
+Party to stack behind boss.
+
+Second plumes spawn, wait for them to gather and AOE them down as fast as possible.
+
+OT takes EAST Tether, Caster take WEST Tether, walk Tether to edge of blue circle.
+
+Heavy Raidwide and **Downburst** on MT, followed by **Feather Rain**: Listen for Garuda Shriek, when you hear the noise, move.
+
+Party stack behind Garuda, burn down boss, should phase at this point.
+
+Otherwise: 
+1. Slipstream
+2. Wicked Wheel (Dodge out of AOE and then in IMMEDIATELY)
+3. Downburst
+4. Slipstream
+5. Enrage
+
+**Enrage Timer is 2:55**
+
+When you kill Garuda, DPS and Tanks stack middle, Healer grab the Glowing Puddle (Candy) for later.
