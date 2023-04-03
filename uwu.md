@@ -36,9 +36,7 @@ UWU has multiple Toolboxes, each are listed here in order of phases in the fight
 ### Candy
 Throughout the first 3 phases, you will be aiming to complete special requirements to **Awaken** all three primals, once awoken their mechanics may change and they will drop a puddle (Candy) when they die, this must be picked up in a specific order, these will give you extra LB3's later which are required to clear the fight.
 
-Garuda Candy: **Healer**
-Ifrit Candy: **Caster**
-Titan Candy: **Melee**
+**Healer > Caster > Melee**
 
 ## Phase 1: Garuda
 
