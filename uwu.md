@@ -16,6 +16,11 @@ This fight is commonly referred to as **UWU** for *Ultima Weapon: Ultimate*, and
 
 The fight will see you squaring off against Garuda, Ifrit and Titan before completing a LB3-filled intermission with Lahabrea before facing the Ultima Weapon itself, angrier than ever.
 
+### Credits
+- MUR Discord for Toolboxes and Strats
+- Kur Rumi for PoVs
+- Notes by Em'gram
+
 ## Table of Contents
 
 [Phase 1: Garuda](/uwu#phase-1-garuda)
@@ -135,7 +140,3 @@ When you kill Garuda, DPS and Tanks stack middle, Healer grab the Glowing Puddle
 ## Phase 5.3: Suppression
 
 ## Phase 5.4: Roulette
-
-# Credits
-- MUR Discord for Toolboxes
-- Kur Rumi for PoVs
