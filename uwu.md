@@ -4,8 +4,6 @@ title: UWU
 parent: Ultimates
 ---
 
-{% include assets\css\jekyll-glossary_tooltip.scss %}
-
 MUR Standard 
 {: .label .label-purple }
 
