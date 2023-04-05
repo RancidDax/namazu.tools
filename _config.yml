@@ -8,6 +8,9 @@ aux_links:
   Discord: https://discord.gg/Cv5zgPRbby
   Github: https://github.com/The-Seat-of-Namazu/namazu.tools
 
+plugins:
+  - jekyll-glossary_tooltip
+
 callouts:
   tanks:
     title: Tanks

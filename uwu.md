@@ -62,7 +62,7 @@ Throughout the first 3 phases, you will be aiming to complete special requiremen
 
 ### Phase 1: Garuda
 - The phase starts with the MT pulling boss to mid and facing boss north. DPS should be behind boss and OT and Healers stay east with the OT between Healers and the boss. 
-- MT to dodge the Cleave attack (**Slipstream**)
+- MT to dodge the Cleave attack {% glossary slipstream %}.
 - One Healer will get Mistral Song, the boss will send a ranged attacked to Healers and OT will soak the hit with Healers (first hit takes more damage)
 - Party should ALL move WEST to avoid the tornado spawning under Healers.
 
@@ -73,7 +73,7 @@ Throughout the first 3 phases, you will be aiming to complete special requiremen
 STOP AOE IMMEDIATELY. The Spiny plume will become fixated on the first person to deal damage to it, this MUST be the OT.
 
 - Once the plumes have gathered on the party, AOE them down leaving the Spiny plume with some health left (aim for 25%ish)
-- MT dodge **Slipstream**, then move back in and take Downburst (Heavy Phys Tankbuster)
+- MT dodge {% glossary slipstream %}, then move back in and take Downburst (Heavy Phys Tankbuster)
 - **Feather Rain**: Listen for Garuda Shriek, when you hear the noise, move.
 
 {: .note }
