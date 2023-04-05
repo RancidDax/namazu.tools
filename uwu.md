@@ -4,7 +4,7 @@ title: UWU
 parent: Ultimates
 ---
 
-{% include assets/css.html %}
+{% include tooltip.html %}
 
 MUR Standard 
 {: .label .label-purple }
