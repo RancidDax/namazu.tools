@@ -4,6 +4,8 @@ title: UWU
 parent: Ultimates
 ---
 
+{% include assets/css.html %}
+
 MUR Standard 
 {: .label .label-purple }
 
