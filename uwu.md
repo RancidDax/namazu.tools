@@ -160,6 +160,26 @@ Ranged will split and bait eruptions at SE and SW, moving up to hit each nail tw
 
 ![](./assets/images/nails.png)
 
+If this is done correctly, the boss will now be awakened.
+
+Get ready for heavy raidwides. 
+
+Tanks now pull the boss between the two raid markers closest to relative north against the wall. Ranged will go SE relative boss and begin baits for Eruptions rejoining the group counter-clockwise on the wall.
+
+One Healer will get Searing, go to WEST relative party and party to burn down boss. Healer to rejoin party when debuff drops.
+
+If DPS is good, you will phase just as the second healer gets searing. Second Searing should be run-out of the party either south or east if you are about to skip dashes.
+
+### Dashes
+
+If you do not phase the boss, party to stack on boss, with second searing healer opposite the party.
+
+When Ifrit spawns, rotate if needed to ensure you have empty spot to your right (No ifrit), you will see one ifrit glowing. If this is on a cardinal relative to party, you will dodge 2 places to the right, otherwise just one.
+
+Kill the boss as quickly as you can after, there will be more eruptions coming which you want to skip if possible.
+
+Move to the wall, ready for Titan to spawn.
+
 ## Phase 3: Titan
 
 ## Phase 4: Lahabread
