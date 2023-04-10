@@ -28,7 +28,7 @@ We hope you can find this site useful in your adventures in FF14, you can join t
 [DSR](/dsr){: .btn .btn-green }
 [TOP](/top){: .btn .btn-green }
 
-### Savage
+### Pandaemonium (Savage)
 [P1S](/){: .btn .btn-green }
 [P2S](/){: .btn .btn-green }
 [P3S](/){: .btn .btn-green }
