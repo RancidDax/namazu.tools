@@ -8,6 +8,8 @@ aux_links:
   Discord: https://discord.gg/Cv5zgPRbby
   Github: https://github.com/The-Seat-of-Namazu/namazu.tools
 
+favicon_ico: "/assets/images/favicon.ico"
+
 plugins:
   - jekyll-glossary_tooltip
 
