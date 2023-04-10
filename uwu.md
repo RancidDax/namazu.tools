@@ -13,12 +13,12 @@ MUR Standard
 
 The Weapons Refrain is a multi-phase fight that covers an alternative retelling of the Warrior of Light's fight against the Primals and the Ultima Weapon.
 
-{: .n{% glossary OT %}e }
+{: .note }
 This fight is commonly referred to as **UWU** for *Ultima Weapon: Ultimate*, and frankly I agree its a better abbreviation than **TWR** too...
 
 The fight will see you squaring off against Garuda, Ifrit and Titan before completing a LB3-filled intermission with Lahabrea before facing the Ultima Weapon itself, angrier than ever.
 
-## General N{% glossary OT %}es & Resources
+## General Notes & Resources
 
 ### Toolboxes
 
