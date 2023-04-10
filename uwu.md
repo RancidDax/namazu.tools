@@ -156,6 +156,7 @@ Start the phase by stacking mid, orient to Ifrit and dodge left/right based on s
 
 Four nails will spawn, orient yourself so the closest two nails are north. One Healer will get Searing wind, take this to relative south and stay on the wall, top yourself up as necessary and focus boss.
 
+{: .damage }
 Ranged will split and bait eruptions at SE and SW, moving up to hit each nail twice with an eruption, this will cause the nails to grow. Once the nails have been hit twice, destroy them in the following order.
 
 ![](./assets/images/nails.png)
@@ -167,6 +168,7 @@ Get ready for heavy raidwides.
 
 Tanks now pull the boss between the two raid markers closest to relative north against the wall. Ranged will go SE relative boss and begin baits for Eruptions rejoining the group counter-clockwise on the wall.
 
+{: .healers }
 One Healer will get Searing, go to WEST relative party and party to burn down boss. Healer to rejoin party when debuff drops.
 
 If DPS is good, you will phase just as the second healer gets searing. Second Searing should be run-out of the party either south or east if you are about to skip dashes.
