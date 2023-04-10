@@ -160,6 +160,7 @@ Ranged will split and bait eruptions at SE and SW, moving up to hit each nail tw
 
 ![](./assets/images/nails.png)
 
+{: .note }
 If this is done correctly, the boss will now be awakened.
 
 Get ready for heavy raidwides. 
@@ -178,7 +179,7 @@ When Ifrit spawns, rotate if needed to ensure you have empty spot to your right 
 
 Kill the boss as quickly as you can after, there will be more eruptions coming which you want to skip if possible.
 
-Move to the wall, ready for Titan to spawn.
+Move to the wall, ready for Titan to spawn. After titan drops, **Caster** to grab the candy from where ifrit died.
 
 ## Phase 3: Titan
 
