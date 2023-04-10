@@ -68,12 +68,12 @@ Throughout the first 3 phases, you will be aiming to complete special requiremen
 ### Important Mechanics
 
 {: .warning }
-{% glossary Feather Rain %} - Garuda will make a shriek sound and without any castbar, feathers will drop on all players, this will happen many times during the fight.
+> {% glossary Feather Rain %} Garuda will make a shriek sound and without any castbar, feathers will drop on all players, this will happen many times during the fight.
 
 {: .tanks }
-> {% glossary Slipstream %} - A dodge-able cleave, be careful not to face this into the party.
+> {% glossary Slipstream %} A dodge-able cleave, be careful not to face this into the party.
 > 
-> {% glossary Downburst %} - A heavy physical Tankbuster which will require mitigation.
+> {% glossary Downburst %} A heavy physical Tankbuster which will require mitigation.
 
 This summary is written to accompany the above toolbox, use it as a reference.
 
@@ -140,15 +140,15 @@ When you kill Garuda, DPS and Tanks stack middle, Healer grab the Glowing Puddle
 ### Important Mechanics
 
 {: .tanks }
-{% glossary Incinerate %} - Untelegraphed Tankbuster, Triple tankbuster with no broadcast, typically use invlun, darkness damage.
+> {% glossary Incinerate %} Untelegraphed Tankbuster, Triple tankbuster with no broadcast, typically use invlun, darkness damage.
 
 {: .healers }
-> {% glossary Searing Wind %} - One of the two healers will be targetted with a debuff, this will last for some time and cause periodic explosions around you, anyone caught in this will die. When you have this, watch the debuff and ensure you are out of the party stack.
+> {% glossary Searing Wind %} One of the two healers will be targetted with a debuff, this will last for some time and cause periodic explosions around you, anyone caught in this will die. When you have this, watch the debuff and ensure you are out of the party stack.
 >
-> {% glossary Vulcan Burst %} - Large Low-Damage {% glossary AOE %} with knockback, needs to be mitigated by applying shields.
+> {% glossary Vulcan Burst %} Large Low-Damage {% glossary AOE %} with knockback, needs to be mitigated by applying shields.
 
 {: .damage }
-{% glossary Eruptions %} - Ifrit will target the furthest players and cast a series of large explosions, these will be baited by ranged players and need to be baited away from the party. During Nails, you will use these to buff the nails for awakening.
+> {% glossary Eruptions %} Ifrit will target the furthest players and cast a series of large explosions, these will be baited by ranged players and need to be baited away from the party. During Nails, you will use these to buff the nails for awakening.
 
 Start the phase by stacking mid, orient to face Ifrit and dodge left or right based on safe-spot (use sprint if you need more time to identify the safe spot). 
 
