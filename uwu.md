@@ -48,7 +48,7 @@ by Kur Rumi
 ### Puddles (Candy)
 Throughout the first 3 phases, you will be aiming to complete special requirements to **Awaken** all three primals, once awoken their mechanics may change and they will drop a puddle (Candy) when they die, this must be picked up in a specific order, these will give you extra LB3's later which are required to clear the fight.
 
-**Healer > Caster > Melee**
+**Healer (Garuda) > Caster (Ifrit) > Melee (Titan)**
 
 # Phase Summaries
 
@@ -87,7 +87,7 @@ STOP AOE IMMEDIATELY. The Spiny plume will become fixated on the first person to
 
 Once the plumes have gathered on the party, AOE them down leaving the Spiny plume with some health left (aim for 25%ish).
 
-After Feather Rain, kill the spiny plume to spawn a bubble, party can then move into this ready for cleanses.
+After Feather Rain, wait for OT to take second hit from Spiny Plume, then kill the plume to spawn a bubble, party can then move into this ready for cleanses.
 
 ### Cleanses
 The following is a mechanic where we will take turns to gain and cleanse stacks by entering and leaving bubble, the order is very precise and required to be able to clear the fight, if you fail the order but survive the mechanic, you will fail later mechanics.
@@ -124,7 +124,7 @@ After feather rain, Party and Tanks to dodge Tornadoes (Spawning on tank locatio
 If Tornadoes are on SOUTH and EAST, ranged can dodge out towards wall for safety.
 
 ### Tethers
-Second plumes spawn, wait for them to gather and AOE them down as fast as possible. OT takes EAST Tether, Caster take WEST Tether, walk Tether to edge of blue circle. Heavy Raidwide and **Downburst** on MT, followed by feather rain.
+Second plumes spawn, wait for them to gather and AOE them down as fast as possible. OT takes WEST Tether, Caster take EAST Tether, walk Tether to edge of blue circle. Heavy Raidwide and **Downburst** on MT, followed by feather rain.
 
 Party stack behind Garuda and burn down the boss, you should phase at this point.
 
