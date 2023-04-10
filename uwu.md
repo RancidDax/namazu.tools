@@ -71,9 +71,9 @@ Throughout the first 3 phases, you will be aiming to complete special requiremen
 **Feather Rain** - Garuda will make a shriek sound and without any castbar, feathers will drop on all players, this will happen many times during the fight.
 
 {: .tanks }
-> **Slipstream** is a dodge-able cleave, be careful not to face this into the party.
+> **Slipstream** - A dodge-able cleave, be careful not to face this into the party.
 > 
-> **Downburst**, a heavy physical Tankbuster which will require mitigation.
+> **Downburst** - A heavy physical Tankbuster which will require mitigation.
 
 This summary is written to accompany the above toolbox, use it as a reference.
 
@@ -143,10 +143,11 @@ When you kill Garuda, DPS and Tanks stack middle, Healer grab the Glowing Puddle
 **Incinerate** - Untelegraphed Tankbuster, Triple tankbuster with no broadcast, typically use invlun, darkness damage.
 
 {: .healers }
-**Searing Wind** - One of the two healers will be targetted with a debuff, this will last for some time and cause periodic explosions around you, anyone caught in this will die. When you have this, watch the debuff and ensure you are out of the party stack.
-**Vulcan Burst** - Large Low-Damage AOE with knockback, needs to be mitigated by applying shields.
+> **Searing Wind** - One of the two healers will be targetted with a debuff, this will last for some time and cause periodic explosions around you, anyone caught in this will die. When you have this, watch the debuff and ensure you are out of the party stack.
+>
+> **Vulcan Burst** - Large Low-Damage AOE with knockback, needs to be mitigated by applying shields.
 
-{: .dps }
+{: .damage }
 **Eruptions** - Ifrit will target the furthest players and cast a series of large explosions, these will be baited by ranged players and need to be baited away from the party. During Nails, you will use these to buff the nails for awakening.
 
 Start the phase by stacking mid, orient to Ifrit and dodge left/right based on safe-spot. Shield healer prepare for Vulcan Burst with shields and Tanks prepare for Incinerate with a vuln.
