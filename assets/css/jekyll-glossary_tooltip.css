@@ -2,13 +2,14 @@
 .jekyll-glossary {
   position: relative;
   display: inline-block;
-  border-bottom: 2px dotted #0074bd;
   cursor: help;
+  font-weight: bold;
+  color: #7253ed;
 }
 
 .jekyll-glossary .jekyll-glossary-tooltip {
   visibility: hidden;
-  width: 120px;
+  width: 180px;
   background-color: black;
   color: #fff;
   text-align: center;
