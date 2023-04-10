@@ -29,20 +29,20 @@ We hope you can find this site useful in your adventures in FF14, you can join t
 [TOP](/top){: .btn .btn-green }
 
 ### Pandaemonium (Savage)
-[P1S](/){: .btn .btn-purple }
-[P2S](/){: .btn .btn-purple }
-[P3S](/){: .btn .btn-purple }
-[P4S](/){: .btn .btn-purple }
+[P1S](/){: .btn }
+[P2S](/){: .btn }
+[P3S](/){: .btn }
+[P4S](/){: .btn }
 
 [P5S](/p5s){: .btn .btn-purple }
-[P6S](/){: .btn .btn-purple }
-[P7S](/){: .btn .btn-purple }
-[P8S](/){: .btn .btn-purple }
+[P6S](/p6s){: .btn .btn-purple }
+[P7S](/){: .btn }
+[P8S](/){: .btn }
 
-[P9S](/){: .btn .btn-purple }
-[P10S](/){: .btn .btn-purple }
-[P11S](/){: .btn .btn-purple }
-[P12S](/){: .btn .btn-purple }
+[P9S](/){: .btn }
+[P10S](/){: .btn }
+[P11S](/){: .btn }
+[P12S](/){: .btn }
 
 ### Other
 [Glossary](/glossary){: .btn .btn-blue }
