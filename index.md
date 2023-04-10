@@ -44,6 +44,7 @@ We hope you can find this site useful in your adventures in FF14, you can join t
 [P11S](/){: .btn .btn-purple }
 [P12S](/){: .btn .btn-purple }
 
+### Other
 [Glossary](/glossary){: .btn .btn-blue }
 
 ## Important Links

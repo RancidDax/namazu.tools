@@ -63,6 +63,7 @@ Throughout the first 3 phases, you will be aiming to complete special requiremen
 - [Phase 5.4: Roulette](/uwu#phase-54-roulette)
 
 ### Phase 1: Garuda
+[Toolbox](https://ff14.toolboxgaming.space/?id=882261013862561&preview=1){: .btn .btn-blue }
 - The phase starts with the MT pulling boss to mid and facing boss north. DPS should be behind boss and OT and Healers stay east with the OT between Healers and the boss. 
 - MT to dodge the Cleave attack {% glossary slipstream %}.
 - One Healer will get Mistral Song, the boss will send a ranged attacked to Healers and OT will soak the hit with Healers (first hit takes more damage)
@@ -136,6 +137,7 @@ If Tornadoes are on SOUTH and EAST, ranged can dodge out towards wall for safety
 When you kill Garuda, DPS and Tanks stack middle, Healer grab the Glowing Puddle (Candy) for later.
 
 ### Phase 2: Ifrit
+[Toolbox](https://ff14.toolboxgaming.space/?id=562530446784261&preview=1){: .btn .btn-blue }
 
 ### Phase 3: Titan
 
