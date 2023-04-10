@@ -70,6 +70,8 @@ Throughout the first 3 phases, you will be aiming to complete special requiremen
 {: .warning }
 **Feather Rain** - Garuda will make a shriek sound and without any castbar, feathers will drop on all players, this will happen many times during the fight.
 
+{% glossary slipstream %}
+
 {: .tanks }
 > **Slipstream** - A dodge-able cleave, be careful not to face this into the party.
 > 
@@ -150,7 +152,9 @@ When you kill Garuda, DPS and Tanks stack middle, Healer grab the Glowing Puddle
 {: .damage }
 **Eruptions** - Ifrit will target the furthest players and cast a series of large explosions, these will be baited by ranged players and need to be baited away from the party. During Nails, you will use these to buff the nails for awakening.
 
-Start the phase by stacking mid, orient to Ifrit and dodge left/right based on safe-spot. Shield healer prepare for Vulcan Burst with shields and Tanks prepare for Incinerate with a vuln.
+Start the phase by stacking mid, orient to face Ifrit and dodge left or right based on safe-spot (use sprint if you need more time to identify the safe spot). 
+
+**Shield Healer** prepare for Vulcan Burst with shields and **Tanks** prepare for **Incinerate** with a invuln.
 
 ### Nails
 
