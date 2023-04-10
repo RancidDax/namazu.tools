@@ -31,8 +31,11 @@ Bait AoE outside, stack on MT/ST
 Inside：MTH1D1D2　Outside：STH2D3D4
 ```
 
+{: .note }
+There are a few variations of this Macro, the main difference is the layout of Ruby Glow 5 positions, some will swap the positions around so be careful and check with your group first. Generally the overall layout is the same though.
+
 ## Videos
 
+### Brainded/Luka Devour
+A common strat for Devour which has been used extensively in OCE.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ogH5TAok5CA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-[Devour Brainded Strat - Hector](https://www.youtube.com/watch?v=ogH5TAok5CA){: .btn .btn-green }
