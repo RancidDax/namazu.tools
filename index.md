@@ -29,20 +29,20 @@ We hope you can find this site useful in your adventures in FF14, you can join t
 [TOP](/top){: .btn .btn-green }
 
 ### Pandaemonium (Savage)
-[P1S](/){: .btn .btn-green }
-[P2S](/){: .btn .btn-green }
-[P3S](/){: .btn .btn-green }
-[P4S](/){: .btn .btn-green }
+[P1S](/){: .btn .btn-purple }
+[P2S](/){: .btn .btn-purple }
+[P3S](/){: .btn .btn-purple }
+[P4S](/){: .btn .btn-purple }
 
-[P5S](/){: .btn .btn-green }
-[P6S](/){: .btn .btn-green }
-[P7S](/){: .btn .btn-green }
-[P8S](/){: .btn .btn-green }
+[P5S](/){: .btn .btn-purple }
+[P6S](/){: .btn .btn-purple }
+[P7S](/){: .btn .btn-purple }
+[P8S](/){: .btn .btn-purple }
 
-[P9S](/){: .btn .btn-green }
-[P10S](/){: .btn .btn-green }
-[P11S](/){: .btn .btn-green }
-[P12S](/){: .btn .btn-green }
+[P9S](/){: .btn .btn-purple }
+[P10S](/){: .btn .btn-purple }
+[P11S](/){: .btn .btn-purple }
+[P12S](/){: .btn .btn-purple }
 
 ## Important Links
 
