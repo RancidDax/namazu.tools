@@ -68,12 +68,12 @@ Throughout the first 3 phases, you will be aiming to complete special requiremen
 ### Important Mechanics
 
 {: .warning }
-**{% glossary Feather Rain %}** - Garuda will make a shriek sound and without any castbar, feathers will drop on all players, this will happen many times during the fight.
+{% glossary Feather Rain %} - Garuda will make a shriek sound and without any castbar, feathers will drop on all players, this will happen many times during the fight.
 
 {: .tanks }
-> **{% glossary Slipstream %}** - A dodge-able cleave, be careful not to face this into the party.
+> {% glossary Slipstream %} - A dodge-able cleave, be careful not to face this into the party.
 > 
-> **{% glossary Downburst %}** - A heavy physical Tankbuster which will require mitigation.
+> {% glossary Downburst %} - A heavy physical Tankbuster which will require mitigation.
 
 This summary is written to accompany the above toolbox, use it as a reference.
 
@@ -110,7 +110,7 @@ Stay relatively stacked during this mechanic, friction is a small range and can 
 If you did this mechanic correctly, the boss will now have 3 stacks of awakened. The last stack to Awaken the boss will apply later.
 
 ### Twins
-Party to stack on **Waymark 4**, {% glossary Mistral Song %}s will target two non-tanks from sisters. {% glossary MT %} and {% glossary OT %} dodge Wicked Wheel ({% glossary PBAOE %}) and stand on a cardinal in-front of each sister against edge of blue circle, intercepting one of the {% glossary Mistral Song %}s each.
+Party to stack on **Waymark 4**, {% glossary Mistral Song %} will target two non-tanks from sisters. {% glossary MT %} and {% glossary OT %} dodge Wicked Wheel ({% glossary PBAOE %}) and stand on a cardinal in-front of each sister against edge of blue circle, intercepting one of the {% glossary Mistral Song %}s each.
 
 {: .tanks }
 > Intercept Priority
@@ -124,7 +124,7 @@ After {% glossary Feather Rain %}, Party and Tanks to dodge Tornadoes (Spawning 
 If Tornadoes are on SOUTH and EAST, ranged can dodge out towards wall for safety.
 
 ### Tethers
-Second plumes spawn, wait for them to gather and {% glossary AOE %} them down as fast as possible. {% glossary OT %} takes WEST Tether, Caster take EAST Tether, walk Tether to edge of blue circle. Heavy Raidwide and **{% glossary Downburst %}** on {% glossary MT %}, followed by {% glossary Feather Rain %}.
+Second plumes spawn, wait for them to gather and {% glossary AOE %} them down as fast as possible. {% glossary OT %} takes WEST Tether, Caster take EAST Tether, walk Tether to edge of blue circle. Heavy Raidwide and {% glossary Downburst %} on {% glossary MT %}, followed by {% glossary Feather Rain %}.
 
 Party stack behind Garuda and burn down the boss, you should phase at this point.
 
@@ -140,26 +140,26 @@ When you kill Garuda, DPS and Tanks stack middle, Healer grab the Glowing Puddle
 ### Important Mechanics
 
 {: .tanks }
-**Incinerate** - Untelegraphed Tankbuster, Triple tankbuster with no broadcast, typically use invlun, darkness damage.
+{% glossary Incinerate %} - Untelegraphed Tankbuster, Triple tankbuster with no broadcast, typically use invlun, darkness damage.
 
 {: .healers }
-> **Searing Wind** - One of the two healers will be targetted with a debuff, this will last for some time and cause periodic explosions around you, anyone caught in this will die. When you have this, watch the debuff and ensure you are out of the party stack.
+> {% glossary Searing Wind %} - One of the two healers will be targetted with a debuff, this will last for some time and cause periodic explosions around you, anyone caught in this will die. When you have this, watch the debuff and ensure you are out of the party stack.
 >
-> **Vulcan Burst** - Large Low-Damage {% glossary AOE %} with knockback, needs to be mitigated by applying shields.
+> {% glossary Vulcan Burst %} - Large Low-Damage {% glossary AOE %} with knockback, needs to be mitigated by applying shields.
 
 {: .damage }
-**Eruptions** - Ifrit will target the furthest players and cast a series of large explosions, these will be baited by ranged players and need to be baited away from the party. During Nails, you will use these to buff the nails for awakening.
+{% glossary Eruptions %} - Ifrit will target the furthest players and cast a series of large explosions, these will be baited by ranged players and need to be baited away from the party. During Nails, you will use these to buff the nails for awakening.
 
 Start the phase by stacking mid, orient to face Ifrit and dodge left or right based on safe-spot (use sprint if you need more time to identify the safe spot). 
 
-**Shield Healer** prepare for Vulcan Burst with shields and **Tanks** prepare for **Incinerate** with a invuln.
+**Shield Healer** prepare for {% glossary Vulcan Burst %} with shields and **Tanks** prepare for {% glossary Incinerate %} with a invuln.
 
 ### Nails
 
-Four nails will spawn, orient yourself so the closest two nails are north. One Healer will get Searing wind, take this to relative south and stay on the wall, top yourself up as necessary and focus boss.
+Four nails will spawn, orient yourself so the closest two nails are north. One Healer will get {% glossary Searing Wind %}, take this to relative south and stay on the wall, top yourself up as necessary and focus boss.
 
 {: .damage }
-Ranged will split and bait eruptions at SE and SW, moving up to hit each nail twice with an eruption, this will cause the nails to grow. Once the nails have been hit twice, destroy them in the following order.
+Ranged will split and bait {% glossary Eruptions %} at SE and SW, moving up to hit each nail twice with a {% glossary Eruptions %}, this will cause the nails to grow. Once the nails have been hit twice, destroy them in the following order.
 
 ![](./assets/images/nails.png)
 
@@ -168,20 +168,20 @@ If this is done correctly, the boss will now be awakened.
 
 Get ready for heavy raidwides. 
 
-Tanks now pull the boss between the two raid markers closest to relative north against the wall. Ranged will go SE relative boss and begin baits for Eruptions rejoining the group counter-clockwise on the wall.
+Tanks now pull the boss between the two raid markers closest to relative north against the wall. Ranged will go SE relative boss and begin baits for {% glossary Eruptions %} rejoining the group counter-clockwise on the wall.
 
 {: .healers }
-One Healer will get Searing, go to WEST relative party and party to burn down boss. Healer to rejoin party when debuff drops.
+One Healer will get {% glossary Searing Wind %}, go to WEST relative party and party to burn down boss. Healer to rejoin party when debuff drops.
 
-If DPS is good, you will phase just as the second healer gets searing. Second Searing should be run-out of the party either south or east if you are about to skip dashes.
+If DPS is good, you will phase just as the second healer gets {% glossary Searing Wind %}. Second {% glossary Searing Wind %} should be run-out of the party either south or east if you are about to skip dashes.
 
 ### Dashes
 
-If you do not phase the boss, party to stack on boss, with second searing healer opposite the party.
+If you do not phase the boss, party to stack on boss, with second {% glossary Searing Wind %} healer opposite the party.
 
 When Ifrit spawns, rotate if needed to ensure you have empty spot to your right (No ifrit), you will see one ifrit glowing. If this is on a cardinal relative to party, you will dodge 2 places to the right, otherwise just one.
 
-Kill the boss as quickly as you can after, there will be more eruptions coming which you want to skip if possible.
+Kill the boss as quickly as you can after, there will be more {% glossary Eruptions %} coming which you want to skip if possible.
 
 Move to the wall, ready for Titan to spawn. After titan drops, **Caster** to grab the candy from where ifrit died.
 

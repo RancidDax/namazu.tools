@@ -2,6 +2,8 @@
   definition: A heavy hitting cleave attack targetted at the Tank, this can be dodged as the boss will not turn once the cast begins.
 - term: Feather Rain           # Can contain spaces
   definition: A loud shriek noise is followed by AOE hits on all players, listen for the sound and then move immediately after.
+- term: Searing Wind
+  definition: One of the two healers will be targetted with a debuff, this will last for some time and cause periodic explosions around you, anyone caught in this will die.
 - term: Mistral Song
   definition: Garuda targets players with a Green Marker, then either Garuda or Clones will launch a line AoE dealing more damage to the first player hit.
 - term: Downburst
@@ -18,3 +20,9 @@
   definition: Off Tank, the other tank.
 - term: PBAOE
   definition: Point-Blank Area-of-Effect, usually an enemy ability that causes a large AOE damage area centered on the enemy.
+- term: Vulcan Burst
+  definition: Large Low-Damage {% glossary AOE %} with knockback, needs to be mitigated by applying shields.
+- term: Incinerate
+  definition: Untelegraphed Tankbuster, Triple tankbuster with no broadcast, typically use invlun, darkness damage.
+- term: Eruptions
+  definition: Ifrit will target the furthest players and cast a series of large explosions
