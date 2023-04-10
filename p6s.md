@@ -1,7 +1,7 @@
 ---
 layout: default
 title: P6S
-parent: savage
+parent: Savage
 ---
 
 # P6S
