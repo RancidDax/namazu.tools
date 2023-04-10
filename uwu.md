@@ -13,12 +13,12 @@ MUR Standard
 
 The Weapons Refrain is a multi-phase fight that covers an alternative retelling of the Warrior of Light's fight against the Primals and the Ultima Weapon.
 
-{: .note }
+{: .n{% glossary OT %}e }
 This fight is commonly referred to as **UWU** for *Ultima Weapon: Ultimate*, and frankly I agree its a better abbreviation than **TWR** too...
 
 The fight will see you squaring off against Garuda, Ifrit and Titan before completing a LB3-filled intermission with Lahabrea before facing the Ultima Weapon itself, angrier than ever.
 
-## General Notes & Resources
+## General N{% glossary OT %}es & Resources
 
 ### Toolboxes
 
@@ -68,36 +68,34 @@ Throughout the first 3 phases, you will be aiming to complete special requiremen
 ### Important Mechanics
 
 {: .warning }
-**Feather Rain** - Garuda will make a shriek sound and without any castbar, feathers will drop on all players, this will happen many times during the fight.
-
-{% glossary slipstream %}
+**{% glossary Feather Rain %}** - Garuda will make a shriek sound and without any castbar, feathers will drop on all players, this will happen many times during the fight.
 
 {: .tanks }
-> **Slipstream** - A dodge-able cleave, be careful not to face this into the party.
+> **{% glossary Slipstream %}** - A dodge-able cleave, be careful not to face this into the party.
 > 
-> **Downburst** - A heavy physical Tankbuster which will require mitigation.
+> **{% glossary Downburst %}** - A heavy physical Tankbuster which will require mitigation.
 
 This summary is written to accompany the above toolbox, use it as a reference.
 
-The phase starts with the MT pulling boss to mid and facing boss north. DPS should be behind boss and OT and Healers stay east with the OT between Healers and the boss. One Healer will get Mistral Song, the boss will send a ranged attacked to Healers and OT will soak the hit with Healers (first hit takes more damage)
+The phase starts with the {% glossary MT %} pulling boss to mid and facing boss north. DPS should be behind boss and {% glossary OT %} and Healers stay east with the {% glossary OT %} between Healers and the boss. One Healer will get {% glossary Mistral Song %}, the boss will send a ranged attacked to Healers and {% glossary OT %} will soak the hit with Healers (first hit takes more damage)
 
 ### Plumes
-Multiple Plumes will spawn around the arena. OT needs to grab the Spiny plume and be ready for heavy damage.
+Multiple Plumes will spawn around the arena. {% glossary OT %} needs to grab the Spiny plume and be ready for heavy damage.
 
 {: .warning }
-STOP AOE IMMEDIATELY. The Spiny plume will become fixated on the first person to deal damage to it, this MUST be the OT.
+STOP {% glossary AOE %} IMMEDIATELY. The Spiny plume will become fixated on the first person to deal damage to it, this MUST be the {% glossary OT %}.
 
-Once the plumes have gathered on the party, AOE them down leaving the Spiny plume with some health left (aim for 25%ish).
+Once the plumes have gathered on the party, {% glossary AOE %} them down leaving the Spiny plume with some health left (aim for 25%ish).
 
-After Feather Rain, wait for OT to take second hit from Spiny Plume, then kill the plume to spawn a bubble, party can then move into this ready for cleanses.
+After {% glossary Feather Rain %}, wait for {% glossary OT %} to take second hit from Spiny Plume, then kill the plume to spawn a bubble, party can then move into this ready for cleanses.
 
 ### Cleanses
 The following is a mechanic where we will take turns to gain and cleanse stacks by entering and leaving bubble, the order is very precise and required to be able to clear the fight, if you fail the order but survive the mechanic, you will fail later mechanics.
 
-- Kill spiny plume, everyone except OT move into bubble.
-- After Raidwide, OT enter bubble and cleanse stacks.
-- OT and Melee leave bubble and wait outside.
-- Friction 1: Heavy party damage, Stacks applied to OT and Melee, Party leaves bubble.
+- Kill spiny plume, everyone except {% glossary OT %} move into bubble.
+- After Raidwide, {% glossary OT %} enter bubble and cleanse stacks.
+- {% glossary OT %} and Melee leave bubble and wait outside.
+- Friction 1: Heavy party damage, Stacks applied to {% glossary OT %} and Melee, Party leaves bubble.
 - Friction 2: Heavy party damage, Stacks applied to everyone, Party leaves bubble.
 - Wait for party to be healed, First Melee cleanses stacks (Enter and exit bubble)
 - Wait for party to be healed, Second Melee cleanses stacks (Enter and exit bubble)
@@ -112,25 +110,25 @@ Stay relatively stacked during this mechanic, friction is a small range and can 
 If you did this mechanic correctly, the boss will now have 3 stacks of awakened. The last stack to Awaken the boss will apply later.
 
 ### Twins
-Party to stack on **Waymark 4**, Mistral Songs will target two non-tanks from sisters. MT and OT dodge Wicked Wheel (PBAOE) and stand on a cardinal in-front of each sister against edge of blue circle, intercepting one of the Mistral Songs each.
+Party to stack on **Waymark 4**, {% glossary Mistral Song %}s will target two non-tanks from sisters. {% glossary MT %} and {% glossary OT %} dodge Wicked Wheel ({% glossary PBAOE %}) and stand on a cardinal in-front of each sister against edge of blue circle, intercepting one of the {% glossary Mistral Song %}s each.
 
 {: .tanks }
 > Intercept Priority
 > 
-> - MT = NORTH > EAST
-> - OT = SOUTH > WEST
+> - {% glossary MT %} = NORTH > EAST
+> - {% glossary OT %} = SOUTH > WEST
 
-After feather rain, Party and Tanks to dodge Tornadoes (Spawning on tank locations) and then group up in mid.
+After {% glossary Feather Rain %}, Party and Tanks to dodge Tornadoes (Spawning on tank locations) and then group up in mid.
 
 {: .note }
 If Tornadoes are on SOUTH and EAST, ranged can dodge out towards wall for safety.
 
 ### Tethers
-Second plumes spawn, wait for them to gather and AOE them down as fast as possible. OT takes WEST Tether, Caster take EAST Tether, walk Tether to edge of blue circle. Heavy Raidwide and **Downburst** on MT, followed by feather rain.
+Second plumes spawn, wait for them to gather and {% glossary AOE %} them down as fast as possible. {% glossary OT %} takes WEST Tether, Caster take EAST Tether, walk Tether to edge of blue circle. Heavy Raidwide and **{% glossary Downburst %}** on {% glossary MT %}, followed by {% glossary Feather Rain %}.
 
 Party stack behind Garuda and burn down the boss, you should phase at this point.
 
-If you don't phase, you will need to look out for Wicked Wheel, a quick donut/aoe dodge.
+If you don't phase, you will need to look out for Wicked Wheel, a quick donut/{% glossary AOE %} dodge.
 
 **Enrage Timer is 2:55**
 
@@ -147,7 +145,7 @@ When you kill Garuda, DPS and Tanks stack middle, Healer grab the Glowing Puddle
 {: .healers }
 > **Searing Wind** - One of the two healers will be targetted with a debuff, this will last for some time and cause periodic explosions around you, anyone caught in this will die. When you have this, watch the debuff and ensure you are out of the party stack.
 >
-> **Vulcan Burst** - Large Low-Damage AOE with knockback, needs to be mitigated by applying shields.
+> **Vulcan Burst** - Large Low-Damage {% glossary AOE %} with knockback, needs to be mitigated by applying shields.
 
 {: .damage }
 **Eruptions** - Ifrit will target the furthest players and cast a series of large explosions, these will be baited by ranged players and need to be baited away from the party. During Nails, you will use these to buff the nails for awakening.
