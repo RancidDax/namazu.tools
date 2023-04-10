@@ -157,6 +157,8 @@ Four nails will spawn, orient yourself so the closest two nails are north. One H
 
 Ranged will split and bait eruptions at SE and SW, moving up to hit each nail twice with an eruption, this will cause the nails to grow. Once the nails have been hit twice, destroy them in the following order.
 
+![](./assets/images/nails.png)
+
 ## Phase 3: Titan
 
 ## Phase 4: Lahabread
