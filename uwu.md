@@ -67,7 +67,7 @@ Throughout the first 3 phases, you will be aiming to complete special requiremen
 
 ### Important Mechanics
 
-{: .warning }
+{: .everyone }
 > {% glossary Feather Rain %} Garuda will make a shriek sound and without any castbar, feathers will drop on all players, this will happen many times during the fight.
 
 {: .tanks }
@@ -186,6 +186,64 @@ Kill the boss as quickly as you can after, there will be more {% glossary Erupti
 Move to the wall, ready for Titan to spawn. After titan drops, **Caster** to grab the candy from where ifrit died.
 
 ## Phase 3: Titan
+[Toolbox](https://ff14.toolboxgaming.space/?id=982261963862561&preview=1){: .btn .btn-blue }
+
+The following is written to accompany the diagrams in the above toolbox.
+
+### Important Mechanics
+{: .everyone }
+> {% glossary Weight of the Land %} - Several large AOEs appear under all players one after another.
+>
+> {% glossary Landslides %} - Multiple Line AOEs radiating out from boss, when Awakened, these will happen much faster and need to be dodged into for safety.
+>
+> {% glossary Geocrush %} - Titan will turn to a cardinal and jump, crashing down at the side he was facing, Heavy distance AOE based on his landing location. Room will shrink in size.
+
+{: .tanks }
+> {% glossary Mountain Buster %} - Heavy Tankbuster with Cleave
+
+### Summary
+
+Fight starts with a heavy raidwide, healers will need to be prepared for this at the end of Ifrit.
+
+MT takes boss mid and prepares for {% glossary Mountain Buster %}.
+
+Following the Toolbox, party starts on A marker, dodges {% glossary Weight of the Land %} and prepares for Jails.
+
+{: .tanks }
+Geocrush is very fast, Titan will start turning towards a cardinal and then jump, you MUST watch titan carefully to work out which cardinal he is jumping too. Tanks should always try move boss to the middle of the room before this happens otherwise it can be very difficult to tell which cardinal he is jumping too.
+
+### Jails
+
+{: .important }
+> Don't tell yoshi-p but most parties and PF will use an Addon called "AM" or "Auto-markers", this automatically numbers players based on their debuffs and simplifies this mechanic greatly. This can be found in the Dalamud plugins download page. This guide will assume you are using AM as its the most common strat.
+>
+> Make sure you do not have more than one of these enabled in your party or it will fail.
+
+Party to stack on Titan, check where the Bombs spawn at the back of the room, there are two possible combinations.
+
+![](./assets/images/jails.png)
+
+Use the boss target marker as a reference for where to stand.
+
+![](./assets/images/jailsleftright.png)
+
+After the knockback, AM will apply 1,2,3 markers to the people with jails. 
+
+**Players without jails** 
+- Run up the middle until landslide spawns, then move to the left side of the room and stay out of the way.
+
+**Players with jails** 
+- Check your number and work out your target raidmarker. Use the central "+" of raidmarkes, with 1 being closest to Titan, 2 being middle and 3 being furthest from Titan.
+- Run up the middle until landslide spawns, sidestep to the edge of landslide next to your raidmarker.
+- As soon as the landslide graphic dissapears, immediately move towards your raidmarker. You should get stunned just as you arrive.
+- After jail explosions, exit to the left of your puddle immediately.
+
+{: .important }
+Jails MUST be positioned in-line with the raidmarker. Ideally dead center otherwise the chain of explosions will fail.
+
+![](./assets/images/jailsfinal.png)
+
+
 
 ## Phase 4: Lahabread
 
