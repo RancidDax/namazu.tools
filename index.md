@@ -9,7 +9,7 @@ Namazu Tools is a resources website provided by **The Seat of Namazu** FF14 comm
 
 This site was put together to help combine various resources and guides into one comprehensive resource, our strategies are a collaboration of guides and tools from various other FF14 communities, with credits included on the pages and at the bottom of this page also.
 
-Please note throughout this website you will see various labels used to identify which type of strategy or where it originates from. As this is primarily a **Materia** community, we typically use what is referred to as **MUR Strats** *(Materia Ultimate Raiding)* or **PF Strats** *(Party Finder) so you will often see this label to indicate this around the website.
+Please note throughout this website you will see various labels used to identify which type of strategy or where it originates from. As this is primarily a **Materia** community, we typically use what is referred to as **MUR Strats** *(Materia Ultimate Raiding)* or **PF Strats** *(Party Finder)* so you will often see this label to indicate this around the website.
 
 MUR Strats
 {: .label .label-purple }
@@ -27,6 +27,22 @@ We hope you can find this site useful in your adventures in FF14, you can join t
 [TEA](/tea){: .btn .btn-green }
 [DSR](/dsr){: .btn .btn-green }
 [TOP](/top){: .btn .btn-green }
+
+### Savage
+[P1S](/){: .btn .btn-green }
+[P2S](/){: .btn .btn-green }
+[P3S](/){: .btn .btn-green }
+[P4S](/){: .btn .btn-green }
+
+[P5S](/){: .btn .btn-green }
+[P6S](/){: .btn .btn-green }
+[P7S](/){: .btn .btn-green }
+[P8S](/){: .btn .btn-green }
+
+[P9S](/){: .btn .btn-green }
+[P10S](/){: .btn .btn-green }
+[P11S](/){: .btn .btn-green }
+[P12S](/){: .btn .btn-green }
 
 ## Important Links
 
