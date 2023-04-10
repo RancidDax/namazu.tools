@@ -6,7 +6,7 @@ parent: Ultimates
 
 {% include tooltip.html %}
 
-MUR Standard 
+MUR Strats 
 {: .label .label-purple }
 
 # The Weapons Refrain

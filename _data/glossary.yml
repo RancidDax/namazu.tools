@@ -21,7 +21,7 @@
 - term: PBAOE
   definition: Point-Blank Area-of-Effect, usually an enemy ability that causes a large AOE damage area centered on the enemy.
 - term: Vulcan Burst
-  definition: Large Low-Damage {% glossary AOE %} with knockback, needs to be mitigated by applying shields.
+  definition: Large Low-Damage AOE with knockback, needs to be mitigated by applying shields.
 - term: Incinerate
   definition: Untelegraphed Tankbuster, Triple tankbuster with no broadcast, typically use invlun, darkness damage.
 - term: Eruptions

@@ -20,13 +20,14 @@ PF Strats
 We hope you can find this site useful in your adventures in FF14, you can join the conversation at our discord server with the link below or start contributing to this open-source project following the github link.
 
 ## Get started...
+Some sites are still in progress and as such their buttons are green here.
 
 ### Ultimates
 [UWU](/uwu){: .btn .btn-green }
-[UCOB](/ucob){: .btn .btn-green }
-[TEA](/tea){: .btn .btn-green }
-[DSR](/dsr){: .btn .btn-green }
-[TOP](/top){: .btn .btn-green }
+[UCOB](/ucob){: .btn }
+[TEA](/tea){: .btn }
+[DSR](/dsr){: .btn}
+[TOP](/top){: .btn }
 
 ### Pandaemonium (Savage)
 [P1S](/){: .btn }

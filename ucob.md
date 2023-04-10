@@ -5,3 +5,5 @@ parent: Ultimates
 ---
 
 # The Unending Coil of Bahamut
+
+Coming Soon
