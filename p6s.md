@@ -47,8 +47,6 @@ There are two common variations of this fight, using different strats for Cachex
 　East→DPS　　　　Outer corner：STH2D2D4
 ```
 
-## Videos
+## Resources
 
-### Brainded/Luka Devour
-A common strat for Devour which has been used extensively in OCE.
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ogH5TAok5CA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+![](/assets/img/p6sref.png)
