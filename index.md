@@ -34,7 +34,7 @@ We hope you can find this site useful in your adventures in FF14, you can join t
 [P3S](/){: .btn .btn-purple }
 [P4S](/){: .btn .btn-purple }
 
-[P5S](/){: .btn .btn-purple }
+[P5S](/p5s){: .btn .btn-purple }
 [P6S](/){: .btn .btn-purple }
 [P7S](/){: .btn .btn-purple }
 [P8S](/){: .btn .btn-purple }

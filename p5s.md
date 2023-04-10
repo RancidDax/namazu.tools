@@ -6,8 +6,6 @@ parent: savage
 
 # P5S
 
-## General Notes and Toolboxes
-
 ## Macro
 
 ```
@@ -32,3 +30,9 @@ Bait AoE outside, stack on MT/ST
 【Ruby Glow 6：Diagonally opp 3-crystal room】
 Inside：MTH1D1D2　Outside：STH2D3D4
 ```
+
+## Videos
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ogH5TAok5CA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+[Devour Brainded Strat - Hector](https://www.youtube.com/watch?v=ogH5TAok5CA){: .btn .btn-green }
