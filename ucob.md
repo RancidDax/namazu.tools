@@ -36,7 +36,7 @@ By Kur Rumi
 {: .tanks }
 > Your role is to position the boss in a way to drop a puddle on each of the 1,2,3 markers in order. This will happen over the duration of the phase. You should be on the outside of the boss towards the wall unless moving in to stack with party for other mechanics.
 >
-> ![](./assets/images/ucobmarkers.png)
+> <img src="./assets/images/ucobmarkers.png" alt="UCOB Markers" height="400">
 >
 > {% glossary Death Sentence %} is a forced tank swap.
 
