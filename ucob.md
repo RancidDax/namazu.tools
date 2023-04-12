@@ -30,6 +30,42 @@ By Kur Rumi
 
 ### Key Mechanics
 
-{: .warning }
-> {% glossary Twister %} Long cast which instantly drops a small green puddle at your feet, if you do not move out of it, you will explode, die and kill anyone nearby. This happens frequently in this fight.
+{: .everyone }
+> Look out for {% glossary Twister %} cast, you will need to be moving when it finishes otherwise you will die and kill anyone near you. Start moving at 90% and spread out to make sure you have somewhere safe to run.
 
+{: .tanks }
+> Your role is to position the boss in a way to drop a puddle on each of the 1,2,3 markers in order. This will happen over the duration of the phase. You should be on the outside of the boss towards the wall unless moving in to stack with party for other mechanics.
+>
+> ![](./assets/images/ucobmarkers.png)
+>
+> {% glossary Death Sentence %} is a forced tank swap.
+
+{: .damage }
+> You will have two roles in this fight, firstly **Ranged** will need to bait {% glossary Liquid Hell %} by being the furthest player from the boss through the phase. Assign a **Primary Baiter** and **Backup Baiter**.
+>
+> All DPS can get targetted by {% glossary Hatch %}, go to a **puddle** and make sure you are in the puddle when the {% glossary Hatch %} reaches you. 
+>
+> If you are **Primary Baiter** and you get hatch, make sure the other baiter is aware they need to take {% glossary Liquid Hell %}.
+
+{: .healers }
+> Just stay outta the way lol.
+
+
+## Phase 2: Nael
+
+**Party Spread Out**
+
+At the start of the phase, a pillar will drop in the middle with a death zone around it. Pillar will drop into the ground and send out two waves of cones.
+
+Two sets of dives go off during this where each player will be hit by a small AOE, taking two is fatal, this is why we spread out.
+
+{: .tanks }
+> {% glossary Dalamud Dive %}: Nael jumps onto her target, dealing significant splash damage. Make sure to spread away from the tank to prevent any extra damage.
+> {% glossary Bahamuts Claw %}: Physical tankbuster consisting of 5 successive hits to her target.
+> 
+> Nael enters with {% glossary Dalamud Dive %} on **Tank with last aggro on Twintania**, followed by {% glossary Bahamuts Claw %}. Use an Invuln here and keep this away from party.
+
+### Dragons Spawn
+Several dragons spawn each with their own mechanics, this occurs throughout the phase. Multiple will spawn at the same time.
+
+**Thunder Dragon** - Targets two players with small AoE, needs to taken out of group.
