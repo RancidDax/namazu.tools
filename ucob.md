@@ -39,9 +39,9 @@ By Kur Rumi
 > <img src="./assets/images/ucobmarkers.png" alt="UCOB Markers" height="400">
 
 {: .damage }
-> You will have two roles in this fight, firstly **Ranged** will need to bait {% glossary Liquid Hell %} by being the furthest player from the boss through the phase. Assign a **Primary Baiter** and **Backup Baiter**.
+> You will have two roles in this phase, firstly **Ranged** will need to bait {% glossary Liquid Hell %} by being the furthest player from the boss through the phase. Assign a **Primary Baiter** and **Backup Baiter**.
 >
-> All DPS can get targetted by {% glossary Hatch %}, go to a {% glossary Neurolink %} and make sure you are in the {% glossary Neurolink %} when the {% glossary Hatch %} reaches you. 
+> All DPS can get targetted by {% glossary Hatch %} orbs, run to a {% glossary Neurolink %} and make sure you are in the {% glossary Neurolink %} when the {% glossary Hatch %} orb reaches you. 
 >
 > If you are **Primary Baiter** and you get hatch, make sure the other baiter is aware they need to take {% glossary Liquid Hell %}.
 
