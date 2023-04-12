@@ -48,3 +48,7 @@
   definition: Twintania will mark a player with a red triangle, and throw a fireball dealing significant magic damage that can be shared amongst the party.
 - term: Hatch
   definition: Orb spawns at boss and targets a player, exploding when it reaches them. Survive by standing in a puddle when it explodes on you.
+- term: Plummet
+  definition: Cleave, dealing significant physical damage to its target.
+- term: Neurolink
+  definition: Puddle dropped by boss, standing in it reduces outgoing damage to foes and incoming damage from Hatch.

@@ -36,20 +36,56 @@ By Kur Rumi
 {: .tanks }
 > {% glossary Death Sentence %} is a forced tank swap. Communicate an order with your Co-tank.
 >
-> Your role is to position the boss in a way to drop a puddle on each of the 1,2,3 markers in order. This will happen over the duration of the phase. You should be on the outside of the boss towards the wall unless moving in to stack with party for other mechanics.
+> Your role is to position the boss in a way to drop a {% glossary Neurolink %} on each of the 1,2,3 markers in order. This will happen when the boss hits 74%, 44% and 0%. You should be on the outside of the boss towards the wall unless moving in to stack with party for other mechanics.
 >
 > <img src="./assets/images/ucobmarkers.png" alt="UCOB Markers" height="400">
 
 {: .damage }
 > You will have two roles in this fight, firstly **Ranged** will need to bait {% glossary Liquid Hell %} by being the furthest player from the boss through the phase. Assign a **Primary Baiter** and **Backup Baiter**.
 >
-> All DPS can get targetted by {% glossary Hatch %}, go to a **puddle** and make sure you are in the puddle when the {% glossary Hatch %} reaches you. 
+> All DPS can get targetted by {% glossary Hatch %}, go to a {% glossary Neurolink %} and make sure you are in the {% glossary Neurolink %} when the {% glossary Hatch %} reaches you. 
 >
 > If you are **Primary Baiter** and you get hatch, make sure the other baiter is aware they need to take {% glossary Liquid Hell %}.
 
 {: .healers }
 > Just stay outta the way lol.
 
+### Timeline
+
+#### 100% -> 74%
+- Pull Twintania to waymark 1
+- Tanks handle {% glossary Plumment %}
+- Dodge {% glossary Twister %} and stack for {% glossary Fireball %}
+- Tank swap for {% glossary Death Sentence %}
+- Push to 74% and drop {% glossary Neurolink %}
+
+{: .note }
+Generate more LB by having one player stay out of the {% glossary Fireball %} stack here.
+
+#### 74% -> 44%
+- Move boss to next marker.
+- {% glossary Liquid Hell %} on furthest player.
+- Single {% glossary Hatch %} to {% glossary Neurolink %}
+- Tank swap for {% glossary Death Sentence %}
+- Single {% glossary Hatch %} to {% glossary Neurolink %}
+- Dodge {% glossary Twister %}
+- Push to 44% and drop {% glossary Neurolink %}
+
+#### 44% -> 0%
+- Move boss to next marker.
+- {% glossary Liquid Hell %} on furthest player.
+- **DOUBLE**{% glossary Hatch %} to {% glossary Neurolink %}, one each.
+- {% glossary Liquid Hell %} applied to **RANDOM** party member + stack for {% glossary Fireball %}
+- Tank swap for {% glossary Death Sentence %}
+- Tanks handle {% glossary Plumment %}
+- **DOUBLE**{% glossary Hatch %} to {% glossary Neurolink %}, one each.
+- Dodge {% glossary Twister %}
+- {% glossary Liquid Hell %} on furthest player.
+- **DOUBLE**{% glossary Hatch %} to {% glossary Neurolink %}, one each.
+- {% glossary Liquid Hell %} applied to **RANDOM** party member + stack for {% glossary Fireball %}
+- Push to 0%
+
+Finally, Stand in a {% glossary Neurolink %} for phase transition.
 
 ## Phase 2: Nael
 
