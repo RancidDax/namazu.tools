@@ -15,14 +15,14 @@ MUR Strats
 
 This guide is based of the original and very detailed guide by Clees, which can be found below:
 
-[Clees Guide](https://clees.me/guides/ucob/){: .btn .btn-blue }
+[Clees Guide](https://clees.me/guides/ucob/){: .btn .btn-purple }
 
 ### PoVs
 By Kur Rumi
 
-[DPS](https://www.youtube.com/watch?v=nYFW4YKTk-8){: .btn .btn-outline }
-[Healer](https://www.youtube.com/watch?v=wfVuqFvT0AE){: .btn .btn-outline }
-[Tank](https://www.youtube.com/watch?v=4R_b3AauWGk){: .btn .btn-outline }
+[DPS](https://www.youtube.com/watch?v=nYFW4YKTk-8){: .btn }
+[Healer](https://www.youtube.com/watch?v=wfVuqFvT0AE){: .btn }
+[Tank](https://www.youtube.com/watch?v=4R_b3AauWGk){: .btn }
 
 # Phase Summaries
 
