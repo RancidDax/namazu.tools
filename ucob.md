@@ -54,7 +54,7 @@ By Kur Rumi
 
 #### 100% -> 74%
 - Pull Twintania to waymark 1
-- Tanks handle {% glossary Plumment %}
+- Tanks handle {% glossary Plummet %}
 - Dodge {% glossary Twister %} and stack for {% glossary Fireball %}
 - Tank swap for {% glossary Death Sentence %}
 - Push to 74% and drop {% glossary Neurolink %}
@@ -77,7 +77,7 @@ Generate more LB by having one player stay out of the {% glossary Fireball %} st
 - **DOUBLE**{% glossary Hatch %} to {% glossary Neurolink %}, one each.
 - {% glossary Liquid Hell %} applied to **RANDOM** party member + stack for {% glossary Fireball %}
 - Tank swap for {% glossary Death Sentence %}
-- Tanks handle {% glossary Plumment %}
+- Tanks handle {% glossary Plummet %}
 - **DOUBLE**{% glossary Hatch %} to {% glossary Neurolink %}, one each.
 - Dodge {% glossary Twister %}
 - {% glossary Liquid Hell %} on furthest player.
