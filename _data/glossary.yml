@@ -34,3 +34,5 @@
   definition: Heavy Tankbuster with Cleave
 - term: Geocrush
   definition: Titan will turn to a cardinal and jump, crashing down at the side he was facing, Heavy distance AOE based on his landing location. Room will shrink in size.
+- term: Twister
+  definition: Long cast which instantly drops a small green puddle at your feet, if you do not move out of it, you will explode, die and kill anyone nearby. This happens frequently in this fight.
