@@ -53,8 +53,8 @@ By Kur Rumi
 ### 100% -> 74%
 1. Pull Twintania to waymark 1.
 1. {% glossary Plummet %} on Tanks.
-1. Dodge {% glossary Twister %} and stack for {% glossary Fireball %}.
-1. Tank swap for {% glossary Death Sentence %}.
+1. {% glossary Twister %} Dodge and stack for {% glossary Fireball %}.
+1. {% glossary Death Sentence %} Tank Swap.
 1. Push to 74% and drop {% glossary Neurolink %}.
 
 {: .note }
@@ -63,10 +63,10 @@ Generate more LB by having one player stay out of the {% glossary Fireball %} st
 ### 74% -> 44%
 1. Move boss to next marker.
 1. {% glossary Liquid Hell %} on furthest player.
-1. Single {% glossary Hatch %} to {% glossary Neurolink %}.
-1. Tank swap for {% glossary Death Sentence %}.
-1. Single {% glossary Hatch %} to {% glossary Neurolink %}.
-1. Dodge {% glossary Twister %}.
+1. {% glossary Hatch %} to {% glossary Neurolink %}.
+1. {% glossary Death Sentence %} Tank Swap.
+1. {% glossary Hatch %} to {% glossary Neurolink %}.
+1. {% glossary Twister %} Dodge.
 1. Push to 44% and drop {% glossary Neurolink %}.
 
 ### 44% -> 0%
@@ -74,9 +74,9 @@ Generate more LB by having one player stay out of the {% glossary Fireball %} st
 1. {% glossary Liquid Hell %} on furthest player.
 1. {% glossary Hatch %} **x2** to {% glossary Neurolink %}.
 1. {% glossary Liquid Hell %} on **RANDOM** party member + stack for {% glossary Fireball %}.
-1. Tank swap for {% glossary Death Sentence %}.
+1. {% glossary Death Sentence %} Tank Swap.
 1. {% glossary Hatch %} **x2** to {% glossary Neurolink %}.
-1. Dodge {% glossary Twister %}.
+1. {% glossary Twister %} Dodge.
 1. {% glossary Liquid Hell %} on furthest player.
 1. {% glossary Hatch %} **x2** to {% glossary Neurolink %}.
 1. {% glossary Liquid Hell %} on **RANDOM** party member + stack for {% glossary Fireball %}.
