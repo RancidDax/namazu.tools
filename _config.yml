@@ -10,6 +10,8 @@ aux_links:
 
 favicon_ico: "/assets/images/favicon.ico"
 
+color_scheme: darkstyle
+
 plugins:
   - jekyll-glossary_tooltip
 
