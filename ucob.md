@@ -60,8 +60,9 @@ At the start of the phase, a pillar will drop in the middle with a death zone ar
 Two sets of dives go off during this where each player will be hit by a small AOE, taking two is fatal, this is why we spread out.
 
 {: .tanks }
-> {% glossary Dalamud Dive %}: Nael jumps onto her target, dealing significant splash damage. Make sure to spread away from the tank to prevent any extra damage.
-> {% glossary Bahamuts Claw %}: Physical tankbuster consisting of 5 successive hits to her target.
+> {% glossary Dalamud Dive %} Nael jumps onto her target, dealing significant splash damage. Make sure to spread away from the tank to prevent any extra damage.
+> 
+> {% glossary Bahamuts Claw %} Physical tankbuster consisting of 5 successive hits to her target.
 > 
 > Nael enters with {% glossary Dalamud Dive %} on **Tank with last aggro on Twintania**, followed by {% glossary Bahamuts Claw %}. Use an Invuln here and keep this away from party.
 
