@@ -50,17 +50,18 @@ By Kur Rumi
 {: .healers }
 > Just stay outta the way lol.
 
-### 100% -> 74%
+### 100% -> 74% Mini-Phase
 1. Pull Twintania to waymark 1.
 1. {% glossary Plummet %} on Tanks.
-1. {% glossary Twister %} Dodge and stack for {% glossary Fireball %}.
+1. {% glossary Twister %} Dodge.
+1. {% glossary Fireball %} Stack.
 1. {% glossary Death Sentence %} Tank Swap.
 1. Push to 74% and drop {% glossary Neurolink %}.
 
 {: .note }
 Generate more LB by having one player stay out of the {% glossary Fireball %} stack here.
 
-### 74% -> 44%
+### 74% -> 44% Mini-Phase
 1. Move boss to next marker.
 1. {% glossary Liquid Hell %} on furthest player.
 1. {% glossary Hatch %} to {% glossary Neurolink %}.
@@ -69,20 +70,25 @@ Generate more LB by having one player stay out of the {% glossary Fireball %} st
 1. {% glossary Twister %} Dodge.
 1. Push to 44% and drop {% glossary Neurolink %}.
 
-### 44% -> 0%
+### 44% -> 0% Mini-Phase
 1. Move boss to next marker.
 1. {% glossary Liquid Hell %} on furthest player.
 1. {% glossary Hatch %} **x2** to {% glossary Neurolink %}.
-1. {% glossary Liquid Hell %} on **RANDOM** party member + stack for {% glossary Fireball %}.
+1. {% glossary Liquid Hell %} on **RANDOM** party member.
+1. {% glossary Fireball %} Stack.
 1. {% glossary Death Sentence %} Tank Swap.
 1. {% glossary Hatch %} **x2** to {% glossary Neurolink %}.
 1. {% glossary Twister %} Dodge.
 1. {% glossary Liquid Hell %} on furthest player.
 1. {% glossary Hatch %} **x2** to {% glossary Neurolink %}.
-1. {% glossary Liquid Hell %} on **RANDOM** party member + stack for {% glossary Fireball %}.
+1. {% glossary Liquid Hell %} on **RANDOM** party member.
+1. {% glossary Fireball %} Stack.
 1. Push to 0%.
 
 Finally, Stand in a {% glossary Neurolink %} for phase transition.
+
+{: .note }
+> If you don't phase any of these checkpoints in time, Twintania will continue to repeat the mechanics of the current Mini-Phase until enrage.
 
 ## Phase 2: Nael
 
