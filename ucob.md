@@ -24,8 +24,6 @@ By Kur Rumi
 [Healer](https://www.youtube.com/watch?v=wfVuqFvT0AE){: .btn }
 [Tank](https://www.youtube.com/watch?v=4R_b3AauWGk){: .btn }
 
-# Phase Summaries
-
 ## Phase 1: Twintania
 
 ### Key Mechanics

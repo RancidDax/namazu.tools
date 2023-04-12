@@ -9,7 +9,6 @@
 
 .jekyll-glossary .jekyll-glossary-tooltip {
   visibility: hidden;
-  width: 180px;
   background-color: black;
   color: #fff;
   text-align: center;
@@ -22,7 +21,7 @@
   position: absolute;
   z-index: 1;
 
-  width: 180px;
+  width: 220px;
   bottom: 100%;
   left: 50%;
   margin-left: -80px; /* Use half of the width to center the tooltip */
