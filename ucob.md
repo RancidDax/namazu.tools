@@ -88,7 +88,7 @@ Generate more LB by having one player stay out of the {% glossary Fireball %} st
 Finally, Stand in a {% glossary Neurolink %} for phase transition.
 
 {: .note }
-> If you don't phase any of these checkpoints in time, Twintania will continue to repeat the mechanics of the current Mini-Phase until enrage.
+> If you don't phase any of these checkpoints in time, Twintania will continue to repeat the mechanics of the current Mini-Phase until you hit the next phase or enrage.
 
 ## Phase 2: Nael
 
