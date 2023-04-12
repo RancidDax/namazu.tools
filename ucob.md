@@ -34,11 +34,11 @@ By Kur Rumi
 > Look out for {% glossary Twister %} cast, you will need to be moving when it finishes otherwise you will die and kill anyone near you. Start moving at 90% and spread out to make sure you have somewhere safe to run.
 
 {: .tanks }
+> {% glossary Death Sentence %} is a forced tank swap. Communicate an order with your Co-tank.
+>
 > Your role is to position the boss in a way to drop a puddle on each of the 1,2,3 markers in order. This will happen over the duration of the phase. You should be on the outside of the boss towards the wall unless moving in to stack with party for other mechanics.
 >
 > <img src="./assets/images/ucobmarkers.png" alt="UCOB Markers" height="400">
->
-> {% glossary Death Sentence %} is a forced tank swap.
 
 {: .damage }
 > You will have two roles in this fight, firstly **Ranged** will need to bait {% glossary Liquid Hell %} by being the furthest player from the boss through the phase. Assign a **Primary Baiter** and **Backup Baiter**.
