@@ -52,7 +52,7 @@ By Kur Rumi
 
 ### 100% -> 74%
 1. Pull Twintania to waymark 1.
-1. Tanks handle {% glossary Plummet %}.
+1. {% glossary Plummet %} on Tanks.
 1. Dodge {% glossary Twister %} and stack for {% glossary Fireball %}.
 1. Tank swap for {% glossary Death Sentence %}.
 1. Push to 74% and drop {% glossary Neurolink %}.
@@ -72,15 +72,14 @@ Generate more LB by having one player stay out of the {% glossary Fireball %} st
 ### 44% -> 0%
 1. Move boss to next marker.
 1. {% glossary Liquid Hell %} on furthest player.
-1. **DOUBLE** {% glossary Hatch %} to {% glossary Neurolink %}, one each.
-1. {% glossary Liquid Hell %} applied to **RANDOM** party member + stack for {% glossary Fireball %}.
+1. {% glossary Hatch %} **x2** to {% glossary Neurolink %}.
+1. {% glossary Liquid Hell %} on **RANDOM** party member + stack for {% glossary Fireball %}.
 1. Tank swap for {% glossary Death Sentence %}.
-1. Tanks handle {% glossary Plummet %}.
-1. **DOUBLE** {% glossary Hatch %} to {% glossary Neurolink %}, one each.
+1. {% glossary Hatch %} **x2** to {% glossary Neurolink %}.
 1. Dodge {% glossary Twister %}.
 1. {% glossary Liquid Hell %} on furthest player.
-1. **DOUBLE** {% glossary Hatch %} to {% glossary Neurolink %}, one each.
-1. {% glossary Liquid Hell %} applied to **RANDOM** party member + stack for {% glossary Fireball %}.
+1. {% glossary Hatch %} **x2** to {% glossary Neurolink %}.
+1. {% glossary Liquid Hell %} on **RANDOM** party member + stack for {% glossary Fireball %}.
 1. Push to 0%.
 
 Finally, Stand in a {% glossary Neurolink %} for phase transition.
