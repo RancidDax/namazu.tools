@@ -22,7 +22,7 @@
   position: absolute;
   z-index: 1;
 
-  width: 160px;
+  width: 180px;
   bottom: 100%;
   left: 50%;
   margin-left: -80px; /* Use half of the width to center the tooltip */
