@@ -5,6 +5,7 @@ parent: Ultimates
 ---
 
 {% include tooltip.html %}
+{% include text-expand.html %}
 
 MUR Strats 
 {: .label .label-purple }
@@ -48,6 +49,7 @@ By Kur Rumi
 {: .healers }
 > Just stay outta the way lol.
 
+[expand]
 ### 100% -> 74% Mini-Phase
 1. Pull Twintania to waymark 1.
 1. {% glossary Plummet %} on Tanks.
@@ -84,6 +86,8 @@ Generate more LB by having one player stay out of the {% glossary Fireball %} st
 1. Push to 0%.
 
 Finally, Stand in a {% glossary Neurolink %} for phase transition.
+
+[/expand]
 
 {: .note }
 > If you don't phase any of these checkpoints in time, Twintania will continue to repeat the mechanics of the current Mini-Phase until you hit the next phase or enrage.
