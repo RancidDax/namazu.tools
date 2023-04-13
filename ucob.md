@@ -4,8 +4,7 @@ title: UCOB
 parent: Ultimates
 ---
 
-{% include tooltip.html %}
-{% include custom.scss %}
+{% include custom.html %}
 
 MUR Strats 
 {: .label .label-purple }

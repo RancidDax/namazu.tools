@@ -4,7 +4,7 @@ title: UWU
 parent: Ultimates
 ---
 
-{% include tooltip.html %}
+{% include custom.html %}
 
 MUR Strats 
 {: .label .label-purple }
