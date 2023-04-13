@@ -39,6 +39,8 @@ Add TLDR Here...
 
 {: .everyone }
 > Look out for {% glossary Twister %} cast, you will need to be moving when it finishes otherwise you will die and kill anyone near you. Start moving at 90% and spread out to make sure you have somewhere safe to run.
+>
+> {% glossary Fireball %} will target a player with a party stack, Generate more LB by having one player stay out of the first {% glossary Fireball %} stack at the start of this phase.
 
 {: .tanks }
 > {% glossary Death Sentence %} is a forced tank swap. Communicate an order with your Co-tank.
@@ -69,9 +71,6 @@ Add TLDR Here...
 1. {% glossary Fireball %} Stack.
 1. {% glossary Death Sentence %} Tank Swap.
 1. Push to 74% and drop {% glossary Neurolink %}.
-
-{: .note }
-Generate more LB by having one player stay out of the {% glossary Fireball %} stack here.
 
 ### 74% -> 44% Mini-Phase
 1. Move boss to next marker.
