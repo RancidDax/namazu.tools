@@ -48,7 +48,7 @@ By Kur Rumi
 {: .healers }
 > Just stay outta the way lol.
 
-<details>
+<details markdown=1>
 <summary>Phase Timeline</summary>
 
 ### 100% -> 74% Mini-Phase
