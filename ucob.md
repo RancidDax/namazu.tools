@@ -57,7 +57,11 @@ Add TLDR Here...
 > If you are **Primary Baiter** and you get hatch, make sure the other baiter is aware they need to take {% glossary Liquid Hell %}.
 
 {: .healers }
+> :Healer:
 > Just stay outta the way lol.
+
+
+:Tank:
 
 ### Phase Timeline
 
