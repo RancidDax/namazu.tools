@@ -5,6 +5,7 @@ parent: Ultimates
 ---
 
 {% include tooltip.html %}
+{% include custom.scss %}
 
 MUR Strats 
 {: .label .label-purple }
