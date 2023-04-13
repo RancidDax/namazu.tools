@@ -70,7 +70,9 @@ GEM
     webrick (1.8.1)
 
 PLATFORMS
-  x64-mingw-ucrt
+  arm64-darwin-21
+  x86_64-darwin-19
+  x86_64-linux
 
 DEPENDENCIES
   jekyll (~> 4.3)
