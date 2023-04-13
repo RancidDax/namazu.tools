@@ -4,6 +4,8 @@ title: UCOB
 parent: Ultimates
 ---
 
+{% include tooltip.html %}
+
 MUR Strats 
 {: .label .label-purple }
 
@@ -110,10 +112,3 @@ Two sets of dives go off during this where each player will be hit by a small AO
 Several dragons spawn each with their own mechanics, this occurs throughout the phase. Multiple will spawn at the same time.
 
 **Thunder Dragon** - Targets two players with small AoE, needs to taken out of group.
-
-
-
-
-
-{% include tooltip.html %}
-{% include text-expand.html %}
