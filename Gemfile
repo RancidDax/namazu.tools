@@ -7,3 +7,5 @@ gem "just-the-docs", "0.4.2" # pinned to the current release
 # gem "just-the-docs"        # always download the latest release
 
 gem "jekyll-glossary_tooltip", "~> 1.5", :group => :jekyll_plugins
+
+gem 'jemoji'

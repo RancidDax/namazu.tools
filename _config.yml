@@ -12,8 +12,12 @@ favicon_ico: "/assets/images/favicon.ico"
 
 color_scheme: namastyle
 
+emoji:
+  src: "/assets/images/emoji"
+
 plugins:
   - jekyll-glossary_tooltip
+  - jemoji
 
 callouts:
   tanks:
