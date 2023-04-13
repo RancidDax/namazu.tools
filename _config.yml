@@ -17,7 +17,6 @@ emoji:
 
 plugins:
   - jekyll-glossary_tooltip
-  - jemoji
 
 callouts:
   tanks:
