@@ -43,7 +43,7 @@ Add TLDR Here...
 > {% glossary Fireball %} will target a player with a party stack, Generate more LB by having one player stay out of the first {% glossary Fireball %} stack at the start of this phase.
 
 {: .tanks }
-> {% glossary Death Sentence %} is a forced tank swap. Communicate an order with your Co-tank.
+> {% glossary Death Sentence %} is a forced tank <img src="./assets/images/emoji/tank.png" style="vertical-align:middle" width="20" height="20"> swap. Communicate an order with your Co-tank.
 >
 > Your role is to position the boss in a way to drop a {% glossary Neurolink %} on each of the 1,2,3 markers in order. This will happen when the boss hits 74%, 44% and 0%. You should be on the outside of the boss towards the wall unless moving in to stack with party for other mechanics.
 >
@@ -57,11 +57,7 @@ Add TLDR Here...
 > If you are **Primary Baiter** and you get hatch, make sure the other baiter is aware they need to take {% glossary Liquid Hell %}.
 
 {: .healers }
-> :Healer:
 > Just stay outta the way lol.
-
-
-:Tank:
 
 ### Phase Timeline
 
