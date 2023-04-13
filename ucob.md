@@ -48,8 +48,10 @@ By Kur Rumi
 {: .healers }
 > Just stay outta the way lol.
 
+### Phase Timeline
+
 <details markdown=1>
-<summary>Phase Timeline</summary>
+<summary>Expand Phase Timeline</summary>
 
 ### 100% -> 74% Mini-Phase
 1. Pull Twintania to waymark 1.
@@ -88,10 +90,10 @@ Generate more LB by having one player stay out of the {% glossary Fireball %} st
 
 Finally, Stand in a {% glossary Neurolink %} for phase transition.
 
-</details>
-
 {: .note }
 > If you don't phase any of these checkpoints in time, Twintania will continue to repeat the mechanics of the current Mini-Phase until you hit the next phase or enrage.
+
+</details>
 
 ## Phase 2: Nael
 
