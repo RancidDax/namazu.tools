@@ -243,8 +243,6 @@ Jails MUST be positioned in-line with the raidmarker. Ideally dead center otherw
 
 ![](./assets/images/jailsfinal.png)
 
-
-
 ## Phase 4: Lahabread
 
 ## Phase 5.1: Predation

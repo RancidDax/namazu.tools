@@ -105,6 +105,10 @@ Finally, Stand in a {% glossary Neurolink %} for phase transition.
 
 ## Phase 2: Nael
 
+### Key Machanics 
+
+<img src="./assets/images/icons/thunderstruck.png" alt="Thunderstruck" height="20"> {% glossary Thunderstruck %} Two players are targeted with the {% glossary Thunderstruck %} debuff and need to stay away from the party to avoid killing party members or giving them paralysis.
+
 **Party Spread Out**
 
 At the start of the phase, a pillar will drop in the middle with a death zone around it. Pillar will drop into the ground and send out two waves of cones.
@@ -118,7 +122,3 @@ Two sets of dives go off during this where each player will be hit by a small AO
 > 
 > Nael enters with {% glossary Dalamud Dive %} on **Tank with last aggro on Twintania**, followed by {% glossary Bahamuts Claw %}. Use an Invuln here and keep this away from party.
 
-### Dragons Spawn
-Several dragons spawn each with their own mechanics, this occurs throughout the phase. Multiple will spawn at the same time.
-
-**Thunder Dragon** - Targets two players with small AoE, needs to taken out of group.
