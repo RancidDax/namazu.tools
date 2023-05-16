@@ -244,14 +244,19 @@ Jails MUST be positioned in-line with the raidmarker. Ideally dead center otherw
 ![](./assets/images/jailsfinal.png)
 
 ## Phase 4: Lahabread
+Coming Soon
 
 ## Phase 5.1: Predation
+Coming Soon
 
 ## Phase 5.2: Annihilation
+Coming Soon
 
 ## Phase 5.3: Suppression
+Coming Soon
 
 ## Phase 5.4: Roulette
+Coming Soon
 
 ## Credits
 - MUR Discord for Toolboxes and Strats
