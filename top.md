@@ -6,6 +6,31 @@ parent: Ultimates
 
 # The Omega Protocol
 
+## General Resources and Links
+
+### PoVs
+
+[DPS](ADD LINK HERE){: .btn }
+[Healer](ADD LINK HERE){: .btn }
+[Tank](ADD LINK HERE){: .btn }
+
+### Macros
+
+<details markdown=1>
+<summary>View All Macros</summary>
+
+**Macro 1**
+```
+Add Macro Here
+```
+
+**Macro 2**
+```
+Add Macro Here
+```
+
+</details>
+
 ## Phase 1: 
 
 The phase begins with heavy hitting auto-attacks before starting the first mechanic:
