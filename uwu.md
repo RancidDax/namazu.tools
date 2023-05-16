@@ -45,6 +45,71 @@ by Kur Rumi
 [Healer](https://www.youtube.com/watch?v=HuRlYz-McMI){: .btn }
 [Tank](https://www.youtube.com/watch?v=vcBajEouNNI&t){: .btn }
 
+### Macros
+
+<details markdown=1>
+<summary>View All Macros</summary>
+
+**Macro 1**
+```
+==========================================
+[GARUDA]
+[Mistral Song]
+■ - Healers East, ST Intercepts
+[Friction]
+■ - D1, D2, ST take 2 Thermal Low stacks
+■ - D1 1st cleanse
+■ - D2 2nd cleanse
+■ - ST Mesohigh cleanse
+[Wicked Wheel + Mistral Song]
+■ - Center Garuda, Party Intercardinal
+■ - MT > Anti-clockwise from 12 o'clock
+■ - ST > Clockwise from 1 o'clock
+[Mesohigh tethers]
+■ - D4 East | ST West
+```
+
+**Macro 2**
+```
+[IFRIT]
+[Nails]
+           4   IFRIT  3
+     2                            1
+D3                                D4
+■ - Pull Ifrit to 3rd/4th Nail on intercardinal after nails
+```
+
+**Macro 3**
+```
+[TITAN]
+[Gaols]
+■ - Priority D1>D2>ST>H1>H2>D3>D4
+[Weight of the Land + Awoken Landslides]
+■ - Party moves clockwise
+■ - First enmity Tank moves anti-clockwise
+```
+
+**Macro 4**
+```
+[Beyond Limits]
+■ - D4 > H1 > D1
+[ULTIMA]
+■ - Line up in Supression spots during transition
+[Annihilation]
+■ - 2-2-1-1 Orb Soak
+[Aetheric Boom]
+■ - Tanks > Southwest
+■ - Party > Southeast
+[Primal Roulette]
+■ - 1st Primal -> MT 90
+■ - 2nd Primal -> D3 Mit
+■ - 3rd Primal -> ST 90
+■ - If Titan first, remember to move back to north for Ifrit
+==========================================  
+```
+
+</details>
+
 ### Puddles (Candy)
 Throughout the first 3 phases, you will be aiming to complete special requirements to **Awaken** all three primals, once awoken their mechanics may change and they will drop a puddle (Candy) when they die, this must be picked up in a specific order, these will give you extra LB3's later which are required to clear the fight.
 
