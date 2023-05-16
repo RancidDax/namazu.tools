@@ -16,10 +16,10 @@ The mechanic begins with each player being assigned 1 of 4 numbers, with two of 
 
 For each set of towers that needs to be soaked, two tethers must be taken by two players and taken away from the towers in the order **(3->4->1->2)**.
 
-The tethers will explode in a large AOE on the targeted player and inflict a (HP down debuff) which will wear off after (---seconds) 
+The tethers will explode in a large AOE on the targeted player and inflict a HP penalty debuff which will wear off after 10 seconds. 
 
 {: .healers }
-> The 3 and 4 players will have their HP debuff falling off as they need to soak their towers, so a priority system between the healers is used to heal both players.
+> The 3 and 4 players will have their HP penalty falling off as they need to soak their towers, so a priority system between the healers is used to heal both players.
 
 {: .tanks }
 > Personal mitigations can be used to help heal up the 3 and 4 players.
@@ -29,4 +29,4 @@ As this mechanic can become messy with players grabbing tethers from others and 
 ### Pantokrator
 
 {: .tanks }
-It is very important in this mechanic to pre-position Omega in the center of the arena, as it does not center itself.
+> It is very important in this mechanic to pre-position Omega in the center of the arena, as it does not center itself.
