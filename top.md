@@ -4,6 +4,11 @@ title: TOP
 parent: Ultimates
 ---
 
+{% include custom.html %}
+
+MUR Strats 
+{: .label .label-purple }
+
 # The Omega Protocol
 
 ## General Resources and Links
