@@ -24,7 +24,7 @@ By Kur Rumi
 [Healer](https://www.youtube.com/watch?v=wfVuqFvT0AE){: .btn }
 [Tank](https://www.youtube.com/watch?v=4R_b3AauWGk){: .btn }
 
-## Macros;
+### Macros
 
 <details markdown=1>
 <summary>View All Macros</summary>
