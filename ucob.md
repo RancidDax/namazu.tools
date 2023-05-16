@@ -24,12 +24,105 @@ By Kur Rumi
 [Healer](https://www.youtube.com/watch?v=wfVuqFvT0AE){: .btn }
 [Tank](https://www.youtube.com/watch?v=4R_b3AauWGk){: .btn }
 
-## TLDR;
+## Macros;
 
 <details markdown=1>
-<summary>Expand TLDR Section</summary>
+<summary>View All Macros</summary>
 
-Add TLDR Here...
+Macro 1
+```
+==========================================
+[Neurolink placement]
+■ - 1>2>3
+[Nael spread]
+         MT    ST
+               ♦
+        D1      D2
+D3  H1      H2  D4
+```
+
+Macro 2
+```
+[Quickmarch]
+MT     Trio   ST
+H1                H2
+D1                D2
+D3                D4
+             DPS Shaker
+H1/MT   Baha   H2/ST
+                STACK
+(relative to trio spawn)
+[Blackfire]
+MT     Nael    D1
+ST                    D2
+H1                   D3
+H2    STACK   D4
+```
+
+Macro 3
+```
+[Fellruin]
+■ - Bahamut - MT
+■ - Twin - ST
+■ - Nael - Party
+     MT    ST
+D1    H1   D2
+D3    H2   D4
+(H1 stays on neurolink)
+[Heavensfall]
+        MTST
+H1                 H2
+D1                 D2
+        D3D4
+*ST Covers Nael Tower
+ST +1 | H2 +2 | D2 +3 | D4 +4 | MT -1 | H1 -2 | D1 -3 | D3 -4
+```
+
+Macro 4
+```
+[Tenstrike]
+■ - Left > Right Generate Priority
+             TRUE NORTH
+D3 D1 H1 MT ST H2 D2 D4
+■ - If the line-up is wrong, spread to your Quickmarch sides and adjust accordingly
+             Earthshakers
+                   NW  NE
+              W                  E
+■ - South is the safe spot for both sets of Earthshakers
+[Grand Octet]
+■ - Twin bait - Left of twin (from middle facing twin)
+■ - Megaflare stack - Right of twin (from middle facing twin)
+■ - Tank LB3 can be used here for safety
+```
+
+Macro 5 (D4 Float)
+```
+[Adds Phase]
+■ - MT = Start Twin
+■ - ST = Start Nael
+Neurolink Priority:
+■ - D1 - Waymark 1 Neurolink
+■ - D2 - Waymark 2 Neurolink
+■ - D3 - Waymark 3 Neurolink
+■ - D4 - Float
+```
+
+Macro 6
+```
+[Morn Afah Mitigation]
+■ - Use the transition to clarify and adjust any mitigations
+■ - 1 - MT 90, ST Reprisal, Addle, rDPS Mit
+■ - 2 - ST 90, MT Reprisal, any spare Mit, Tank LB
+■ - 3 - MT 90, ST Reprisal, Addle
+■ - 4 - ST 90, MT Reprisal, rDPS Mit, Tank LB
+■ - 5 - MT 90, ST Reprisal, Addle
+[Akh Morn Mitigation]
+■ - 1 - Share
+■ - 2 - WAR > GNB > PLD > DRK Invuln priority
+■ - 3 - The other tank
+■ - 4 - Share (with tank LB if mitigation is lacking)
+==========================================
+```
 
 </details>
 
@@ -122,3 +215,11 @@ Two sets of dives go off during this where each player will be hit by a small AO
 > 
 > Nael enters with {% glossary Dalamud Dive %} on **Tank with last aggro on Twintania**, followed by {% glossary Bahamuts Claw %}. Use an Invuln here and keep this away from party.
 
+## Phase 3: Bahamut
+Coming Soon
+
+## Phase 4: Adds
+Coming Soon
+
+## Phase 5: Golden Bahamut
+Coming Soon
