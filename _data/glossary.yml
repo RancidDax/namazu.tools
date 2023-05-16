@@ -52,3 +52,5 @@
   definition: Cleave, dealing significant physical damage to its target.
 - term: Neurolink
   definition: Puddle dropped by boss, standing in it reduces outgoing damage to foes and incoming damage from Hatch.
+- term: Thunderstruck
+  definition: Two players are targeted with the Thunderstruck debuff and need to stay away from the party to avoid killing party members or giving them paralysis.
