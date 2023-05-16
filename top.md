@@ -31,7 +31,7 @@ Add Macro Here
 
 </details>
 
-## Phase 1: 
+## Phase 1
 
 The phase begins with heavy hitting auto-attacks before starting the first mechanic:
 
