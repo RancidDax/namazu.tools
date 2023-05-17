@@ -43,8 +43,7 @@ Add Macro Here
 <details markdown=1>
 <summary>View Cheatsheet</summary>
 
-[Open Image](https://media.discordapp.net/attachments/1068375437346091069/1102446800243273790/OCE_TOP_Cheat_Sheet_Alt.jpg){: .btn .btn-purple }
-![](https://media.discordapp.net/attachments/1068375437346091069/1102446800243273790/OCE_TOP_Cheat_Sheet_Alt.jpg)
+[![](https://media.discordapp.net/attachments/1068375437346091069/1102446800243273790/OCE_TOP_Cheat_Sheet_Alt.jpg)](https://media.discordapp.net/attachments/1068375437346091069/1102446800243273790/OCE_TOP_Cheat_Sheet_Alt.jpg)
 
 </details>
 
