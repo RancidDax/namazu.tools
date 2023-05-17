@@ -251,7 +251,7 @@ For those interested I've attached the ignorable debuffs in the dropdown below:
 
 </details>
 
-To actually resolve the mechanic we only care about 5 of them however:
+However, to actually resolve the mechanic we only care about 5 of them:
 
 - **Critical Underflow Bug** (aka Red Rot)
 - **Critical Performance Bug** (aka Blue Rot)
@@ -316,6 +316,10 @@ If two stacks appear on one side of the boss, the southmost stack adjusts to the
 Omega must be below 20% health before it's enrage is cast: **Blue Screen**.
 
 ## Phase 5: Dynamis M & F - (Run: Dynamis)
+
+{: .everyone }
+> Each Run: Dynamis cast comes with a **HEAVY** raid-wide hit that should be appropriately mitigated by every class.
+
 This phase is very mechanically heavy, having 3 trios and lasting approximately 5 minutes.
 
 Each trio is split into a "mechanic" section and a "Hello World" section. During the Hello World sections, two players are assigned the debuffs:
@@ -326,18 +330,42 @@ Each trio is split into a "mechanic" section and a "Hello World" section. During
 **Hello, Near World**
  > Causes a large AOE on the player, inflicting them with 1 stack of **Spark of Hope**. The AOE will then "bounce" to the **closest player** to them, causing a smaller AOE and inflicting that player with 1 stack of **Spark of Hope**. The AOE will bounce once more to the **closest player** again, causing the same small AOE and inflicting the player with 1 stack of **Spark of Hope**
 
-The goal of the entirety of phase 5 
+The goal of the entirety of phase 5 is to end the phase with three stacks of **Spark of Hope** on every player, as this is required to complete phase 6.
 
-{: .everyone }
-> Each Run:Dynamis cast comes with a **HEAVY** raid-wide hit that should be appropriately mitigated by every class.
+After Omega-M becomes targetable, he will immediately cast a tank buster on the player with the highest emnity. This should be tank swapped. 
 
+{: .note } 
+> Party member's 15 second mitigations can be used at the 2nd tank buster hit, allowing it to be up for the future trios.  
+
+After 2 auto-attacks, Omega-M will then cast: 
 
 ### Run: Dynamis (Delta Version)
 
 {: .healers}
-> This is a very hard hitting mechanic and it becomes difficult to heal due to tethers. When able, healers should be given priority for inner tethers, and after the initial monitor hit, players should squeeze in for healing.
+> This is a very hard hitting mechanic and it becomes difficult to heal due to tethers. When able, healers should be given priority for inner tethers and after the initial monitor hit, players should squeeze in for healing.
+
+Omega-M will become untargetable and disappear, **Beetle Omega** and **Final Omega** will then spawn randomly on the East/West cardinals, and **Omega's Eye** will spawn at North. Each player will then be inflicted with **Local Code Smell** and **Remote Code Smell**, such that there will be **2 Blue Tethers** and **2 Christmas Tethers**.
+
+2 **Blue Tether Players** will also receive **Hello, Distant World** and **Hello, Near World**.
+
+**Blues Tethers** will then go to **Beetle Omega**, and **Christmas Tethers** to **Final Omega**. Both pairs of tethers will line up parallel to the edge of the arena on their side, such that there is a tether closer to the center of the arena (**Inner Tether**), and a tether closer to the edge of the arena (**Outer Tether**).
+
+When a tether expires it results in a wipe, as such, we want to gradually break all 4 throughout the course of the mechanic so that there is not too much damage going out whilst still being able to solve the mechanic.
+
+As the tethers are still **inactive**, the **Outer Blue Tether** will stretch so that it will break immediately upon becoming active.
+
+Rocket Punch -------
 
 
+
+
+
+
+### Run: Dynamis (Sigma Version)
+Coming Soon 
+
+### Run: Dynamis (Omega Version)
+Coming Soon
 
 ## Phase 6: Alpha Omega
 Coming Soon
