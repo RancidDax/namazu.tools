@@ -78,16 +78,16 @@ If Omega cleaves the NE and SW waymarkers first then each party rotates to the s
 
 The cleaves will then either rotate clockwise or counter-clockwise. As the cleaves rotate each player will also leave behind puddles. The party stacks together at the rear cleave to take a **3 player line-stack**, whilst the numbers leave to take their AOE away from the group before joining back to the party. This process repeats until each number has taken their AOE and the cleaves cease.
 
-{: .everyone }
+{: .warning }
 > It is very easy for the puddles to get out of hand, so stack as tightly as possible and move along the edge of Omega's hitbox whilst moving as a group. 
 >
 > Players whose turn it is to leave the stack should wait for a puddle to drop under their feet before exiting the stack. Using **sprint** can help but isn't required.
 
-Omega will then cast two tank buster cleaves on the two furthest players, and 6 line AOEs on the non-tanks. Both tanks **stack north, outside of the hitbox** using invulnerability, and the party spreads within Omegas hitbox as seen in the cheatsheet.
+Omega will then cast two tank buster cleaves on the two furthest players, and 6 line AOEs on the non-tanks. Both tanks **stack north, outside of the hitbox** and use invulnerability, and the party spreads within Omegas hitbox as seen in the cheatsheet.
 
 After this Omega will cast **Atomic Ray**, it's enrage.
 
-# Phase 2
+## Phase 2
 
 Phase 2 begins and Omega-M and Omega-F will spawn. 
 
@@ -96,7 +96,7 @@ Phase 2 begins and Omega-M and Omega-F will spawn.
 > 
 > 2 minute raid buffs should be used either before they are targetable or on the 1st GCD.
 
-Omega-M and F will then cast **Firewall**, targeting the 4 closest players to each boss. If a player is close to M, they will be inflicted with **Packet Filter F** **(can maybe make this a glossary instead of explaining it)** and be unable to damage Omega-F. If a player is close to F, the opposite happens. 
+Omega-M and F will then cast **Firewall**, targeting the 4 closest players to each boss. If a player is close to M they will be inflicted with **Packet Filter F** (can maybe make this a glossary instead of explaining it) and be unable to damage Omega-F. If a player is close to F the opposite happens. 
 
 The party will split up into light parties for this so each boss will have a healer, tank, and two DPS able to damage it.
 
@@ -104,7 +104,52 @@ Both bosses will then tank buster the player with highest emnity to them, follow
 
 Omega-M and Omega-F will then cast:
 
-## Party Synergy
+### Party Synergy
+
+Both bosses will become untargetable and disappear as the mechanic begins. 
+
+Each player is inflicted with either **Mid Glitch** or **Remote Glitch**. Each player is also assigned 1 of 4 coloured shapes above their head, with two of each. 
+
+{: .everyone }
+> The party should line-up from East to West as seen in the cheatsheet. The furthest left shape of a pair will be designated as light party 1, whilst the furthest right will be designated light party 2.
+
+At the same time, **Omega's Eye** will spawn on a random cardinal/intercardinal. **This will be designated as relative north**
+
+4 clones will then spawn around the center of the arena, 2 Omega-M, and 2 Omega-F. An Omega-M and Omega-F pair will always be facing eachother and should be focused on. These two will perform two sets of AOEs that are dependant on the weapons they are holding.
+
+The possible combinations are:
+
+F - Staff | M - Shield
+F - Staff | M - Sword
+F - Skates | M - Shield
+F - Skates | M - Sword
+
+{: .note }
+> The "cursed" pattern (F-Staff | M-Shield) can be easily resolved by using the edges of the waymarks eitherside of the male.
+> 
+> These waymarks also help to position during Mid/Remote Glitch.
+
+Once the dodge is made, all players must resolve their Mid/Remote Glitch by splitting into the previously designated light parties and moving to the West (LP1) and East (LP2) **relative to Omega's Eye**. 
+
+After each player takes an AOE, two stacks will then appear on two random players. Multiple clones will spawn around the arena, including a line of 3 males, and 1 female in the center. Using the **middle of the 3 males as relative north**, the party must form two stacks in their designated light parties around the female in the center to get pushed back to 1 of 3 safe spots.
+
+Light Party 1 will always anchor West, and Light Party 2 will be pushed South for Mid Glitch, and East for Remote Glitch.
+
+If the stack players are part of the **same light party** the lower stack relative to the eye must swap positions with their partner. **(video)**
+
+{: .tanks }
+> Between the start of the phase and after party synergy Omega-M has changed to Omega-F and vice versa, meaning you will both have to re-provoke your boss.
+
+{: .everyone }
+> The party should pre-position at South-West for the upcoming mechanic.
+
+After ~5 auto-attacks from each boss, both Omega-M and Omega-F will cast:
+
+### Limitless Synergy
+
+
+
+
 
 
 
