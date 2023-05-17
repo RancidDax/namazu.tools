@@ -78,7 +78,7 @@ If Omega cleaves the NE and SW waymarkers first, then each party rotates to the 
 
 The cleaves will then either rotate clockwise or counter-clockwise. As the cleaves rotate, each player will also leave behind puddles. The party stacks together at the rear cleave to take a **3 player line-stack**, whilst the numbers leave to take their AOE away from the group before joining back to the party. This process repeats until each number has taken their AOE and the cleaves cease.
 
-{: .Everyone }
+{: .everyone }
 > It is very easy for the puddles to get out of hand, so stack as tightly as possible and move along the edge of **Omega's hitbox** whilst moving as a group. 
 
 > Players whose turn it is to leave the stack should wait for a puddle to drop under their feet before exiting the stack. Using **sprint** can help but isn't required.
