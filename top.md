@@ -70,6 +70,9 @@ As this mechanic can become messy with players grabbing tethers from others and 
 
 ### Pantokrator
 
+{: .healers }
+> Pantokrator has a lot of damage going out from the stacks and spreads, and requires heavy mitigation before spreading into your light parties.
+
 Pantokrator begins and assigns each player with a number from 1 to 4 again, indicating the order that Omega will drop a small AOE on players. Omega will then cast **flamethrower** and cleave two pizza slices of the arena on a random opposite cardinals/intercardinals. 
 
 Players will need to **split into groups of 4**, with each group containing only one of each number from 1 - 4. This is done by the priority system used in program loop, with higher priority players moving to the SW party and lower priority players moving to the NE party. 
