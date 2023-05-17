@@ -113,7 +113,7 @@ The party is inflicted with either **Mid Glitch** or **Remote Glitch**. Each pla
 {: .everyone }
 > The party should line-up from East to West as seen in the cheatsheet. 
 > 
-> The furthest left symbol of a pair will be designated as light party 1, whilst the furthest right will be designated light party 2.
+> The furthest West symbol of a pair will be designated as Light Party 1, whilst the furthest East will be designated Light Party 2.
 
 At the same time, **Omega's Eye** will spawn on a random cardinal/intercardinal. **This will be designated as relative north**.
 
@@ -127,17 +127,17 @@ F - Skates | M - Shield
 F - Skates | M - Sword
 
 {: .note }
-> The "cursed" pattern (F-Staff & M-Shield) can be easily resolved by using the edges of the waymarks eitherside of the male.
+> The "cursed" pattern (F-Staff & M-Shield) can be easily resolved by using the far edges of the waymarks eitherside of the male.
 > 
 > These waymarks also help to position during Mid/Remote Glitch.
 
 Once the dodge is made, all players must resolve their Mid/Remote Glitch by splitting into the previously designated light parties and moving to the West (LP1) and East (LP2) **relative to Omega's Eye**. 
 
-After each player takes an AOE, two stacks will then appear on two random players. Multiple clones will spawn around the arena, including a line of 3 males, and 1 female in the center. Using the **middle of the 3 males as relative north**, the party must form two stacks in their designated light parties around the female in the center to get pushed back to 1 of 3 safe spots.
+After each player takes an AOE, two stacks will then appear on two random players. Multiple clones will spawn around the arena, including a line of 3 males, and 1 female in the center. Using the **middle of the 3 males as relative north**, the party must form two stacks in their designated light parties around the female to get pushed back to 1 of 3 safe spots.
 
-Light Party 1 will always anchor West, and Light Party 2 will be pushed South for Mid Glitch, and East for Remote Glitch.
+Light Party 1 will always anchor West, and Light Party 2 will either be pushed South for Mid Glitch, or East for Remote Glitch.
 
-If the stack players are part of the **same light party** the lower stack relative to the eye must swap positions with their partner. **(video)**
+If the stack players are part of the **same light party** the south most stack relative to the eye must swap positions with their partner. **(video)**
 
 {: .tanks }
 > Between the start of the phase and after party synergy Omega-M has changed to Omega-F and vice versa, meaning you will both have to re-provoke your boss.
