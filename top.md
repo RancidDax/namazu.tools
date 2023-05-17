@@ -50,7 +50,7 @@ Guide written by Juno
 
 ### Table of Contents
 - [Phase 1: Omega](/top#phase-1-omega)
-- [Phase 2: Ifrit](/top#phase-2-omega-m--f)
+- [Phase 2: Omega-M & F](/top#phase-2-omega-m--f)
 - [Phase 3: Reconfigured Omega](/top.html#phase-3-reconfigured-omega)
 - [Phase 4: Blue Screen](/top.html#phase-3-reconfigured-omega)
 - [Phase 5: Dynamis M & F - (Run:Dynamis)](/top.html#phase-5-dynamis-m--f---rundynamis)
@@ -299,10 +299,11 @@ Misaligning your monitor will result in players either: not being hit by monitor
 If solved correctly, Omega will cast it's enrage: **Ion Efflux**.
 
 ## Phase 4: Blue Screen
+
 {: .damage }
 > Depending on team comp or damage needs, mDPS LB3 can be sent at the end of P3 or at the start of P4. Sending in P4 requires 2 mins to be used during **monitors**.
 
-This phase is fairly straight forward, with each player taking a protean and then stacking south of the boss. Just before the 2nd proteans, the party must step in to avoid **Wave Repeater**. Similiarly, after the 3rd stack the party must wait, and then step in to avoid another **Wave Repeater**.
+This phase is fairly straight forward, with each player taking a protean and then taking two stacks south of the boss. This set of mechanics repeats 3 times. Just before the 2nd proteans, the party must step in to avoid **Wave Repeater**. Similiarly, after the 3rd stack the party must wait, and then step in to avoid another **Wave Repeater**.
 
 If two stacks appear on one side of the boss, the southmost stack adjusts to the other side, and the opposite sides mDPS flexes.
 
