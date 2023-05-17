@@ -245,8 +245,8 @@ Whoever gets the second fire tether and takes it out of the party must AVOID the
 
 Through the phase Nael will say various quotes, these are indicators for upcoming mechanics, if you cannot translate the quotes then you will die to the mechanics. Each quote translates to a pair of mechanics in this phase. 
 
-| Quote                                                                                              | Mechanics                     |
-|:---------------------------------------------------------------------------------------------------|:------------------------------|
+| Quote                                                                                              | Mechanics                                                   |
+|:---------------------------------------------------------------------------------------------------|:------------------------------------------------------------|
 | O hallowed moon, take fire and scorch my foes!                                                     | {% glossary Lunar Dynamo %} > {% glossary Thermionic Beam %}|
 | O hallowed moon, shine you the iron path!                                                          | {% glossary Lunar Dynamo %} > {% glossary Iron Chariot %}   |
 | Blazing path, lead me to iron rule!                                                                | {% glossary Thermionic Beam %} > {% glossary Iron Chariot %}|
