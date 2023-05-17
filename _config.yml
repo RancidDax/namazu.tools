@@ -18,7 +18,7 @@ emoji:
 plugins:
   - jekyll-glossary_tooltip
 
-callouts_level: quiet
+callouts_level: loud
 callouts_opacity: 1
 
 callouts:
