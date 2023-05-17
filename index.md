@@ -32,7 +32,12 @@ Some sites are still in progress and as such their buttons are green here.
 [DSR](/dsr){: .btn .btn-green }
 [TOP](/top){: .btn .btn-green }
 
-### Pandaemonium (Savage) (Work in Progress)
+
+### Pandaemonium (Savage)
+
+Coming Soon 
+{: .label .label-red }
+
 [P1S](/){: .btn }
 [P2S](/){: .btn }
 [P3S](/){: .btn }
