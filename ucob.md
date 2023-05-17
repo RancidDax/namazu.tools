@@ -238,6 +238,9 @@ To safely manage this, you will stack together for Fire tethers, to remove the i
 
 This means the first tether is stacked, the second tether is taken out of the party, and the third and fourth fire tether are also stacked with the party. It is each members responsibility to monitor their debuffs and ensure they are in the fire stacks in time.
 
+The second fire tether is usually taken out to the LEFT of the party stack location.
+<img src="./assets/images/ucobfire2.png" alt="UCOB Markers" height="300">
+
 {: .important }
 Whoever gets the second fire tether and takes it out of the party must AVOID the third fire tether as they will already have the fire debuff and this will kill them if they join the stack.
 
