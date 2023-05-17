@@ -219,36 +219,31 @@ For those interested I've attached all the ignorable debuffs in the dropdown bel
 <summary>Hello World Debuffs</summary>
 
 **Cascading Latent Defect**
-```
 Received from soaking a red puddle. Cleansed by allowing **Critical Underflow Bug** to expire. Failing to do so will wipe the raid.
-```
 
 **Latent Performance Defect**
-```
 Received from soaking a blue puddle. Cleansed by allowing **Critical Performance Bug** to expire. Failing to do so will wipe the raid.
-```
 
 **Latent Defect**
-```
 Players must take damage before the debuff expires or they will die.
-```
 
 **Latent Synchronization Bug**
-```
 Must be hit by **Critical Synchronization Bug** to remove. Failure to do so results in death.
-```
 
 </details>
 
 To actually resolve the mechanic we only care about 5 of them however:
 
-- **Local Code Smell/Local Regression** (aka Christmas Tether)
-- **Remote Code Smell/Remote Regression** (aka Blue Tether)
 - **Critical Underflow Bug** (aka Red Rot)
 - **Critical Performance Bug** (aka Blue Rot)
 - **Critical Overflow Bug** (aka Defamation)
 - **Critical Synchronization Bug** (aka Stack)
+- **Local Code Smell/Local Regression** (aka Christmas Tether)
+- **Remote Code Smell/Remote Regression** (aka Blue Tether)
 
+Throughout the phase, each player will have to get each of these debuffs. Once you have received and resolved your debuff, you will become immune to getting it again.
+
+When Omega begins casting **Latent Defect**, 4 puddles will spawn, 2 red and 2 blue. The corresponding rot players will have to soak these puddles. As rot passes on contact, these players should be extremely cautious getting to their positions
 
 
 
