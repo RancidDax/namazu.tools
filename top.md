@@ -74,20 +74,38 @@ Pantokrator begins and assigns each player with a number from 1 to 4 again, indi
 
 Players will need to **split into groups of 4**, with each group containing only one of each number from 1 - 4. This is done by the priority system used in program loop, with higher priority players moving to the SW party and lower priority players moving to the NE party. 
 
-If Omega cleaves the NE and SW waymarkers first, then each party rotates to the safespot clockwise of their original position. **(image here)**
+If Omega cleaves the NE and SW waymarkers first then each party rotates to the safespot clockwise of their original position. **(image here)**
 
-The cleaves will then either rotate clockwise or counter-clockwise. As the cleaves rotate, each player will also leave behind puddles. The party stacks together at the rear cleave to take a **3 player line-stack**, whilst the numbers leave to take their AOE away from the group before joining back to the party. This process repeats until each number has taken their AOE and the cleaves cease.
+The cleaves will then either rotate clockwise or counter-clockwise. As the cleaves rotate each player will also leave behind puddles. The party stacks together at the rear cleave to take a **3 player line-stack**, whilst the numbers leave to take their AOE away from the group before joining back to the party. This process repeats until each number has taken their AOE and the cleaves cease.
 
 {: .everyone }
-> It is very easy for the puddles to get out of hand, so stack as tightly as possible and move along the edge of **Omega's hitbox** whilst moving as a group. 
-
+> It is very easy for the puddles to get out of hand, so stack as tightly as possible and move along the edge of Omega's hitbox whilst moving as a group. 
+>
 > Players whose turn it is to leave the stack should wait for a puddle to drop under their feet before exiting the stack. Using **sprint** can help but isn't required.
 
-Omega will then cast two tank buster cleaves on the two furthest players, and 6 line AOEs on the non-tanks. Both tanks **stack north, outside of the hitbox** using invulnerability and the party spreads within Omegas hitbox as seen in the cheatsheet.
+Omega will then cast two tank buster cleaves on the two furthest players, and 6 line AOEs on the non-tanks. Both tanks **stack north, outside of the hitbox** using invulnerability, and the party spreads within Omegas hitbox as seen in the cheatsheet.
 
-After this Omega will cast Atomic Ray, it's enrage.
+After this Omega will cast **Atomic Ray**, it's enrage.
 
 # Phase 2
+
+Phase 2 begins and Omega-M and Omega-F will spawn. 
+
+{: .damage }
+> There is about a 2 GCD window once both bosses become targetable where they are susceptible to cleave damage and this should be abused as much as possible. 
+> 
+> 2 minute raid buffs should be used either before they are targetable or on the 1st GCD.
+
+Omega-M and F will then cast **Firewall**, targeting the 4 closest players to each boss. If a player is close to M, they will be inflicted with **Packet Filter F** **(can maybe make this a glossary instead of explaining it)** and be unable to damage Omega-F. If a player is close to F, the opposite happens. 
+
+The party will split up into light parties for this so each boss will have a healer, tank, and two DPS able to damage it.
+
+Both bosses will then tank buster the player with highest emnity to them, followed by 3 auto-attacks.
+
+Omega-M and Omega-F will then cast:
+
+## Party Synergy
+
 
 
 
