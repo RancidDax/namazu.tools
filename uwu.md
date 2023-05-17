@@ -6,10 +6,12 @@ parent: Ultimates
 
 {% include custom.html %}
 
-MUR Strats 
-{: .label .label-purple }
+<img src="./assets/images/ultima.webp" alt="Ultima Weapon" width="150px" style="float: right">
 
 # The Weapons Refrain
+
+MUR Strats v
+{: .label .label-purple }
 
 The Weapons Refrain is a multi-phase fight that covers an alternative retelling of the Warrior of Light's fight against the Primals and the Ultima Weapon.
 
