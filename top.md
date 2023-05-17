@@ -150,19 +150,20 @@ If the stack players are part of the **same light party** the south most stack r
 After ~5 auto-attacks from each boss, both Omega-M and Omega-F will cast:
 
 ### Limitless Synergy
+
 {: .damage }
 > As the Limitless Synergy cast finishes the Packet Filter debuff will disappear, allowing about 1/2 GCDs of cleave damage.
 
 Omega-F will become invulnerable, forcing the party to attack the Male. Two tethers will spawn on two random players, orginating from two Omega clones. Both tanks will grab their designated tether (as seen in the cheatsheet).
 
-At the same time, a Male clone will spawn on a random cardinal/intercardinal and cast Optimized Sagitarrius Arrow on a random player. This AOE will bait across the hitbox but leave a safe spot within it, which the non-tanks will move into.
+At the same time, a Male clone will spawn on a random cardinal/intercardinal and cast **Optimized Sagitarrius Arrow** on a random player. This AOE will bait across the hitbox but leave a safe spot within it, which the non-tanks will move into.
 
 {: .tanks }
 > Once the AOE is baited, both tanks take their tether to the wall close to their clone and rotate clock wise on the edge of the arena. Heavy personal mitigation is required to survive this tank buster.
 >
 > While you are taking your tank buster you should also find where the **shield male** is.
 
-Once the tank busters resolve, everyone but the tanks should **stack under Omega-M** as 3 flare markers will appear on 3 random players. These can be ignored. The Male clone with a shield that is on the edge of the arena will then cast **beyond defense** which will be baited by both tanks.
+Once the tank busters resolve, everyone but the tanks should **stack under Omega-M** as 3 flare markers will appear on 3 random players. These can be ignored. The Male clone with a shield that is on the edge of the arena will then cast **Beyond Defense** which will be baited by both tanks.
 
 The tank that was not hit joins the stack, and the tank that was hit should then move away from the Male so that the stack is closest to the Male's new position as it will then cast **Pile Pitch**.
 
@@ -175,7 +176,7 @@ Throughout this whole mechanic Omega F has been casting her enrage **Laser Showe
 
 Upon defeating Omega-F, the transition begins.
 
-#### Phase 2 -> Phase 3 Transition
+### Phase 2 -> Phase 3 Transition
 
 The party lines up from East to West in their priority line-up before debuffs are assigned. 
 
@@ -184,11 +185,11 @@ The party lines up from East to West in their priority line-up before debuffs ar
 
 The debuffs assigned will target 4 players with **Sniper Cannon Fodder** (spread), 2 players with **High-powered Sniper Cannon Fodder** (stack) and 2 players will not be assigned a debuff.
 
-Players must spread according their debuff and priority, with the stacks and non-debuff players along the south edge of the arena, and the spread players along the north edge.
+Players must spread according to their debuff and priority, with the stacks and non-debuff players along the south edge of the arena, and the spread players along the north edge.
 
-Two sets of **Arms** will appear that will cause large circular AOEs, as well as a cascading donut AOE (Wave Repeater) originating from the center. To easily resolve this, players will dodge Wave Repeater by moving in and out from the edge of the arena, and then dodging into the first arm explosion where they will take their spread or stack.
+Two sets of **Arms** will appear that will cause large circular AOEs, as well as a cascading donut AOE (Wave Repeater) originating from the center. To easily resolve this, players will dodge Wave Repeater by moving in and out from the edge of the arena, and then dodging into the first arm explosion where they will take their spread or stack. **video**
 
-{ .note }
+{: .note }
 > Using sprint can help make the 2->1 dodge easier, but isn't required.
 
 ## Phase 3
