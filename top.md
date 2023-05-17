@@ -137,7 +137,7 @@ The possible combinations are:
 | Skates | Shield |
 | Skates | Sword  |
 
-[![][(https://cdn.discordapp.com/attachments/862721895962902589/1108334543196409917/p2_dodges.png)](https://cdn.discordapp.com/attachments/862721895962902589/1108334543196409917/p2_dodges.png)
+[![](https://cdn.discordapp.com/attachments/862721895962902589/1108334543196409917/p2_dodges.png)](https://cdn.discordapp.com/attachments/862721895962902589/1108334543196409917/p2_dodges.png)
 
 {: .note }
 > The "cursed" pattern (F-Staff & M-Shield) can be easily resolved by using the far edges of the waymarks eitherside of the male.
