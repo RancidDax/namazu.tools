@@ -1,49 +1,17 @@
-$white: #fff !default;
-$grey-dk-000: #999999 !default;
-$grey-dk-100: #666666 !default;
-$grey-dk-200: #414141 !default;
-$grey-dk-250: #2c2c2c !default;
-$grey-dk-300: #141414 !default;
-$grey-lt-000: #f5f6fa !default;
-$grey-lt-100: #eeebee !default;
-$grey-lt-200: #ecebed !default;
-$grey-lt-300: #e6e1e8 !default;
-$purple-000: #7253ed !default;
-$purple-100: #5e41d0 !default;
-$purple-200: #4e26af !default;
-$purple-300: #381885 !default;
-$blue-000: #2c84fa !default;
-$blue-100: #2869e6 !default;
-$blue-200: #264caf !default;
-$blue-300: #183385 !default;
-$green-000: #41d693 !default;
-$green-100: #11b584 !default;
-$green-200: #009c7b !default;
-$green-300: #026e57 !default;
-$yellow-000: #ffeb82 !default;
-$yellow-100: #fadf50 !default;
-$yellow-200: #f7d12e !default;
-$yellow-300: #e7af06 !default;
-$red-000: #f77e7e !default;
-$red-100: #f96e65 !default;
-$red-200: #e94c4c !default;
-$red-300: #dd2e2e !default;
-
-
-$body-background-color: $grey-dk-300;
+$body-background-color: #141414;
 $body-heading-color: $grey-lt-000;
 $body-text-color: $grey-lt-200;
 $link-color: $purple-000;
-$nav-child-link-color: $grey-dk-000;
-$sidebar-color: $grey-dk-300;
-$base-button-color: $grey-dk-250;
+$nav-child-link-color: #999999;
+$sidebar-color: #141414;
+$base-button-color: #414141;
 $btn-primary-color: $purple-200;
 $code-background-color: #31343f; // OneDarkJekyll default for syntax-one-dark-vivid
 $code-linenumber-color: #dee2f7; // OneDarkJekyll .nf for syntax-one-dark-vivid
 $feedback-color: darken($sidebar-color, 3%);
-$table-background-color: $grey-dk-250;
-$search-background-color: $grey-dk-250;
-$search-result-preview-color: $grey-dk-000;
-$border-color: $grey-dk-200;
+$table-background-color: #414141;
+$search-background-color: #414141;
+$search-result-preview-color: #999999;
+$border-color: #414141;
 
 @import "./vendor/OneDarkJekyll/syntax"; // this is the one-dark-vivid atom syntax theme
