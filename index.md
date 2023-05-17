@@ -44,9 +44,6 @@ Coming Soon
 [P11S](/){: .btn }
 [P12S](/){: .btn }
 
-## Other
-[Glossary](/glossary){: .btn .btn-blue }
-
 ## Important Links
 
 ### [Seat of Namazu Discord](https://discord.gg/Cv5zgPRbby)
