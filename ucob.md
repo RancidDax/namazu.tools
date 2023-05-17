@@ -9,6 +9,8 @@ parent: Ultimates
 MUR Strats 
 {: .label .label-purple }
 
+<img src="./assets/images/ucob.png" alt="UCOB" width="600">
+
 # The Unending Coil of Bahamut
 
 ## General Resources and Links
