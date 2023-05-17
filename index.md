@@ -17,11 +17,11 @@ We hope you can find this site useful in your adventures in FF14, you can join t
 This site is still early in development and we are actively updating it with new content, we apologize if some pages appear unfinished! 🙂
 
 ## Ultimates
-[UWU](/uwu){: .btn .btn-green }
-[UCOB](/ucob){: .btn .btn-green }
-[TEA](/tea){: .btn .btn-green }
-[DSR](/dsr){: .btn .btn-green }
-[TOP](/top){: .btn .btn-green }
+[UWU](/uwu){: .btn .btn-purple }
+[UCOB](/ucob){: .btn .btn-purple }
+[TEA](/tea){: .btn .btn-purple }
+[DSR](/dsr){: .btn .btn-purple }
+[TOP](/top){: .btn .btn-purple }
 
 
 ## Pandaemonium (Savage)
