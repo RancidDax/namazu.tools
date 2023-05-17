@@ -224,7 +224,7 @@ Two sets of **Arms** will appear that will cause large circular AOEs, as well as
 > There are hard hitting auto-attacks throughout this entire phase. The OT should be using their targeted mitigation on the MT as much as possible to help reduce the strain on the healers.
 
 {: .healers }
-> This phase requires high mitigation for each **Latent Defect**. Use the mitigation sheet provided, and allow the shield healer to get close to the center of the arena to mitigate damage before each **Latent Defect**.
+> This phase requires high mitigation for each **Latent Defect**. Use the mitigation sheet provided, and allow the shield healer to get dead center of the arena to mitigate damage before each **Latent Defect**.
 
 The phase begins with a hard-hitting raid wide cast:
 
@@ -271,7 +271,9 @@ Omega will then begin casting **Latent Defect**, causing 2 red and 2 blue puddle
 {: .note }
 > MUR has the stack rot players move inside the boss' hitbox, whilst the defamation players move outside the hitbox.
 >
-> Tether players should also give way to rots to reduce car crashes.
+> Tether players should also give way to rots to reduce car crashes. 
+> 
+> All players should never pass through the direct center of the arena to avoid walking through the H2 player.
 
 Tethers players will initially have an "inactive" buff, meaning that they can be any distance away from eachother without causing it to break. Once their tether becomes active, if **Blue Tethers** move far apart, the tether will break, and if **Christmas Tethers** move close together, their tether will break. Both breaks cause **high raid-wide** "patch" damage and a **Thrice-come Ruin debuff** to be inflicted on each player.
 
@@ -295,7 +297,7 @@ After rots expire Omega will cast another hard hitting raid wide **Critical Erro
 
 After ~3 more auto-attacks, Omega will begin to cast **Oversampled Wave Cannon** and point a set of blue monitors either true East or true West. 
 
-3 random players will also be inflicted with **Oversampled Wave Cannon Loading**, putting the same East/West facing monitors on their person. Players must position and align themselves such that **each monitor** is only hitting **2 people** at a time. If hit by a monitor, a large AOE will explode on the player for high damage and they will be inflicted by **Twice-come Ruin**.
+3 random players will also be inflicted with **Oversampled Wave Cannon Loading**, putting the same East/West facing monitors on their person. Players must position and align themselves such that **each monitor** is only hitting **2 people** at a time, as seen in the MUR cheatsheet. If hit by a monitor, a large AOE will explode on the player for high damage and they will be inflicted by **Twice-come Ruin**.
 
 Misaligning your monitor will result in players either: not being hit by monitor, or hit by 2+ monitors which will result in **doom** being inflicted.
 
@@ -311,7 +313,7 @@ If solved correctly, Omega will cast it's enrage: **Ion Efflux**.
 
 This phase is fairly straight forward, with each player taking a protean and then taking two stacks south of the boss. This set of mechanics repeats 3 times. Just before the 2nd proteans, the party must step in to avoid **Wave Repeater**. Similiarly, after the 3rd stack the party must wait, and then step in to avoid another **Wave Repeater**.
 
-If two stacks appear on one side of the boss, the southmost stack adjusts to the other side, and the opposite sides mDPS flexes.
+If two stacks appear on one side of the boss, the southmost stack adjusts to the other side, and the opposite side's mDPS flexes.
 
 Omega must be below 20% health before it's enrage is cast: **Blue Screen**.
 
@@ -349,7 +351,9 @@ Omega-M will become untargetable and disappear, **Beetle Omega** and **Final Ome
 
 Two **Blue Tether Players** will also receive **Hello, Distant World** and **Hello, Near World**.
 
-**Blues Tethers** will then go to **Beetle Omega**, and **Christmas Tethers** to **Final Omega**. Both pairs of tethers will line up parallel to the edge of the arena on their side, such that there is a tether closer to the center of the arena (**Inner Tether**), and a tether closer to the edge of the arena (**Outer Tether**). **(image)**
+**Blues Tethers** will then go to **Beetle Omega**, and **Christmas Tethers** to **Final Omega**. Both pairs of tethers will line up parallel to the edge of the arena on their side, such that there is a tether closer to the center of the arena (**Inner Tether**), and a tether closer to the edge of the arena (**Outer Tether**). 
+
+[![](https://github.com/RancidDax/namazu.tools/assets/104756079/1d95a258-2f1d-4b07-9c57-42f650ce9b60)](https://github.com/RancidDax/namazu.tools/assets/104756079/1d95a258-2f1d-4b07-9c57-42f650ce9b60)
 
 Much like phase 3, breaking tethers results in a **large raid-wide hit** as well as inflicting **Thrice-come Ruin** on the party. However if the tether debuffs expire the party is killed. As such, we want to gradually break all 4 throughout the course of the mechanic so that the damage does not kill the party, but that we are also still able to still solve the mechanic.
 
@@ -361,28 +365,40 @@ Around 9 seconds before the tethers activate a blue or yellow **Rocket Punch** a
 
 Around 4 seconds before the tethers activate, 6 **Arms** with spinning arrows will appear on each intercardinal and N/S around the arena. These Arms will attack the closest person to them with a wide line AOE that will rotate in the direction of the arrows.
 
-To resolve this, 1 player must move to each of the 6 **Arms** and bait the AOE on the side that forces it to cleave outside of the arena rather than directly through it. The **Outer Blue Tethers** are responsible for baiting the intercardinal Arms on their side, whilst the **Christmas Tether Players** will bait both their intercardinal Arms (**Outer Christmas**) and the N/S **Arms** (**Inner Christmas**).
+To resolve this, 1 player must move to each of the 6 **Arms** and bait the AOE on the side that forces it to cleave outside of the arena rather than directly through it. The **Outer Blue Tethers** are responsible for baiting the intercardinal Arms on their side, whilst the **Christmas Tether Players** will bait both their intercardinal Arms (**Outer Christmas**) and the N/S Arms (**Inner Christmas**).
 
 Upon baiting the **Rocket Punch** AOE, **Omega's Eye** will cleave the center of the arena, and players who are responsible for baiting an Arm will move to do so. **Final Omega** will then begin to cast **Monitor** at North or South, as well as inflicting a random **Blue Tether Player** with **Oversampled Wave Cannon Loading**. 
 
-At the same time, **Inner Blue Tethers** break their tether as they move to the center to bait **Beyond Defense** from an Omega-M that has spawned. The player that is hit must move either East or West so they are not caught by the subsequent **Pile Pitch**, being careful not to be cleaved by **Final Omega's Monitor**. 
+At the same time, **Inner Blue Tethers** break their tether as they move to the center to bait **Beyond Defense** from an Omega-M that has spawned. The player that is hit by **Beyond Defense** must move either East or West so they are not caught by the subsequent **Pile Pitch**, being careful not to be cleaved by **Final Omega's Monitor**. 
 
-After baiting their arms **Outer Blue Tethers** will go to the middle to stack on the player who was not hit by **Beyond Defense**, standing on the side that is not being cleaved by **Final Omega's Monitor**. The player who was inflicted with **Oversampled Wave Cannon Loading** must face the monitor to the opposite side of the arena that **Final Omega** is cleaving, so that both sets of monitors are only hitting **2 Christmas Players** each.
+After baiting their Arms, **Outer Blue Tethers** will go to the middle to stack on the player who was not hit by **Beyond Defense**, standing on the side that is not being cleaved by **Final Omega's Monitor**. The player who was inflicted with **Oversampled Wave Cannon Loading** must face the monitor to the opposite side of the arena that **Final Omega** is cleaving, so that both sets of monitors are only hitting **2 Christmas Players** each.
 
 {: .note} 
 > **Sprint** is extremely helpful in this mechanic. It's safe for everyone **except Outer Blue Tether Players** to pop sprint when the tethers activate.
 > 
 > The **Outer Blue Tether Players** should use theirs after baiting the AOE from their Arm to comfortably get to middle for **Pile Pitch**.
 
+After the Monitors resolve, **Beetle Omega** will cleave one side of the arena with a 60% angled cleave. The **Non-debuff Blue Tether Players** will move to the side opposite of **Beetle Omega**. The **Outer Christmas Tethers** will rotate so that the player that is currently within the cleave ends up under Omega, and the **Inner Christmas Tether** will then break their tether as everyone else lines up for **Hello World** as seen below:
 
+[![](https://github.com/RancidDax/namazu.tools/assets/104756079/0a1c5576-830f-4ea1-8d00-5d12a23f06e4)](https://github.com/RancidDax/namazu.tools/assets/104756079/0a1c5576-830f-4ea1-8d00-5d12a23f06e4)
+##### Image by Bird
 
+{: .warning}
+> **Christmas Tether** breaks must be done at the right time. Due to **Twice-come Ruin** debuffs from **Monitors** and **Pile Pitch**, the first break must be delayed. However, the first **Christmas Tether Players** can use the tether timer and break their tether at 15s as it will always be safe.
+>
+> Similarly, the second **Christmas Tether** break can be done at ~2 seconds.
 
+{: .note }
+> If solved correctly, 6 players will have 1 stack of **Spark of Hope**.
+
+Omega-M will then do another tank buster which the OT will invuln, before casting:
 
 ### Run: Dynamis (Sigma Version)
 Coming Soon 
 
 ### Run: Dynamis (Omega Version)
-Coming Soon
+Coming Soon!
+
 
 ## Phase 6: Alpha Omega
 Coming Soon
