@@ -107,7 +107,7 @@ After this Omega will cast it's enrage: **Atomic Ray**.
 ## Phase 2: Omega-M & F
 
 {: .tanks }
-> Rampart can be cast as Omega "jumps", allowing a usage during the opening tank buster and in Limitless Synergy
+> Rampart can be cast as Omega "jumps", allowing a usage during the opening tank buster and in Limitless Synergy.
 
 Phase 2 begins and Omega-M and Omega-F will spawn. 
 
@@ -251,7 +251,7 @@ For those interested I've attached the ignorable debuffs in the dropdown below:
 
 </details>
 
-To actually resolve the mechanic we only care about 5 of them however:
+However, to actually resolve the mechanic we only care about 5 of them:
 
 - **Critical Underflow Bug** (aka Red Rot)
 - **Critical Performance Bug** (aka Blue Rot)
@@ -293,9 +293,9 @@ After rots expire Omega will cast another hard hitting raid wide **Critical Erro
 {: .everyone }
 > The party should pre-position in the cheatsheet lineup for monitors to quickly find their spots.
 
-After ~3 more auto-attacks, Omega will begin to cast **Oversampled Wave Cannon** and point a set of blue monitors either true east or true west. 
+After ~3 more auto-attacks, Omega will begin to cast **Oversampled Wave Cannon** and point a set of blue monitors either true East or true West. 
 
-3 random players will also be inflicted with **Oversampled Wave Cannon Loading**, putting the same east/west facing monitors on their person. Players must position and align themselves such that **each monitor** is only hitting **2 people** at a time. If hit by a monitor, a large AOE will explode on the player for high damage and they will be inflicted by **Twice-come Ruin**.
+3 random players will also be inflicted with **Oversampled Wave Cannon Loading**, putting the same East/West facing monitors on their person. Players must position and align themselves such that **each monitor** is only hitting **2 people** at a time. If hit by a monitor, a large AOE will explode on the player for high damage and they will be inflicted by **Twice-come Ruin**.
 
 Misaligning your monitor will result in players either: not being hit by monitor, or hit by 2+ monitors which will result in **doom** being inflicted.
 
@@ -315,13 +315,74 @@ If two stacks appear on one side of the boss, the southmost stack adjusts to the
 
 Omega must be below 20% health before it's enrage is cast: **Blue Screen**.
 
-## Phase 5: Dynamis M & F - (Run:Dynamis)
-This phase is very mechanically heavy, having 3 trios and lasting approximately 5 minutes.
+## Phase 5: Dynamis M & F - (Run: Dynamis)
 
 {: .everyone }
-> Each Run:Dynamis cast comes with a **HEAVY** raid-wide hit that should be appropriately mitigated by every class.
+> Each Run: Dynamis cast comes with a **HEAVY** raid-wide hit that should be appropriately mitigated by every class.
+
+This phase is very mechanically heavy, having 3 trios and lasting approximately 5 minutes.
+
+Each trio is split into a "mechanic" section and a "Hello World" section. During the Hello World sections, two players are assigned the debuffs:
+
+**Hello, Distant World**
+ > Causes a large AOE on the player, inflicting them with 1 stack of **Spark of Hope**. The AOE will then "bounce" to the **furthest player** away causing a smaller AOE and inflicting that player with 1 stack of **Spark of Hope**. The AOE will bounce once more to the **furthest player** away, causing the same small AOE and inflicting the player with 1 stack of **Spark of Hope**
+
+**Hello, Near World**
+ > Causes a large AOE on the player, inflicting them with 1 stack of **Spark of Hope**. The AOE will then "bounce" to the **closest player** to them, causing a smaller AOE and inflicting that player with 1 stack of **Spark of Hope**. The AOE will bounce once more to the **closest player** again, causing the same small AOE and inflicting the player with 1 stack of **Spark of Hope**
+
+The goal of the entirety of phase 5 is to end the phase with three stacks of **Spark of Hope** on every player, as this is required to complete phase 6.
+
+After Omega-M becomes targetable, he will immediately cast a tank buster on the player with the highest emnity. This should be tank swapped. 
+
+{: .note } 
+> Party member's 15 second mitigations can be used at the 2nd tank buster hit, allowing it to be up for the future trios.  
+
+After 2 auto-attacks, Omega-M will then cast: 
+
+### Run: Dynamis (Delta Version)
+I highly recommend looking at the toolbox for this trio as well as reading this guide, as this is a very intensive mechanic that becomes hard to digest through entirely text alone.
+
+{: .healers}
+> This is a very hard hitting mechanic and it becomes difficult to heal due to tethers. When able, healers should be given priority for inner tethers and after the initial monitor hit, players should squeeze in for healing.
+
+Omega-M will become untargetable and disappear, **Beetle Omega** and **Final Omega** will then spawn randomly on the East/West cardinals, and **Omega's Eye** will spawn at North. Each player will then be inflicted with **Local Code Smell** and **Remote Code Smell**, such that there will be **2 Blue Tethers** and **2 Christmas Tethers**.
+
+Two **Blue Tether Players** will also receive **Hello, Distant World** and **Hello, Near World**.
+
+**Blues Tethers** will then go to **Beetle Omega**, and **Christmas Tethers** to **Final Omega**. Both pairs of tethers will line up parallel to the edge of the arena on their side, such that there is a tether closer to the center of the arena (**Inner Tether**), and a tether closer to the edge of the arena (**Outer Tether**). **(image)**
+
+Much like phase 3, breaking tethers results in a **large raid-wide hit** as well as inflicting **Thrice-come Ruin** on the party. However if the tether debuffs expire the party is killed. As such, we want to gradually break all 4 throughout the course of the mechanic so that the damage does not kill the party, but that we are also still able to still solve the mechanic.
+
+As the tethers are still **inactive**, the **Outer Blue Tether** will stretch so that it will break immediately upon becoming active.
+
+Around 9 seconds before the tethers activate a blue or yellow **Rocket Punch** add will spawn on each player of the party and will jump on them after a period of time, wiping the raid. 
+
+ **Rocket Punch** must be "mitigated" by having two of opposite colours landing on eachother. Both pairs of **Christmas Tethers** will stack on eachother, whilst the **Outer Blue Tethers** will wait for their tether to activate (and break) before quickly moving to stack on the **Inner Blue Tether Players**. If two players have the same colour **Rocket Punch**, the **Inner Tethers** simply **swap places with the player they are tethered to**.
+
+Around 4 seconds before the tethers activate, 6 **Arms** with spinning arrows will appear on each intercardinal and N/S around the arena. These Arms will attack the closest person to them with a wide line AOE that will rotate in the direction of the arrows.
+
+To resolve this, 1 player must move to each of the 6 **Arms** and bait the AOE on the side that forces it to cleave outside of the arena rather than directly through it. The **Outer Blue Tethers** are responsible for baiting the intercardinal Arms on their side, whilst the **Christmas Tether Players** will bait both their intercardinal Arms (**Outer Christmas**) and the N/S **Arms** (**Inner Christmas**).
+
+Upon baiting the **Rocket Punch** AOE, **Omega's Eye** will cleave the center of the arena, and players who are responsible for baiting an Arm will move to do so. **Final Omega** will then begin to cast **Monitor** at North or South, as well as inflicting a random **Blue Tether Player** with **Oversampled Wave Cannon Loading**. 
+
+At the same time, **Inner Blue Tethers** break their tether as they move to the center to bait **Beyond Defense** from an Omega-M that has spawned. The player that is hit must move either East or West so they are not caught by the subsequent **Pile Pitch**, being careful not to be cleaved by **Final Omega's Monitor**. 
+
+After baiting their arms **Outer Blue Tethers** will go to the middle to stack on the player who was not hit by **Beyond Defense**, standing on the side that is not being cleaved by **Final Omega's Monitor**. The player who was inflicted with **Oversampled Wave Cannon Loading** must face the monitor to the opposite side of the arena that **Final Omega** is cleaving, so that both sets of monitors are only hitting **2 Christmas Players** each.
+
+{: .note} 
+> **Sprint** is extremely helpful in this mechanic. It's safe for everyone **except Outer Blue Tether Players** to pop sprint when the tethers activate.
+> 
+> The **Outer Blue Tether Players** should use theirs after baiting the AOE from their Arm to comfortably get to middle for **Pile Pitch**.
 
 
+
+
+
+### Run: Dynamis (Sigma Version)
+Coming Soon 
+
+### Run: Dynamis (Omega Version)
+Coming Soon
 
 ## Phase 6: Alpha Omega
 Coming Soon
