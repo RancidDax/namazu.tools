@@ -365,8 +365,9 @@ To resolve this, 1 player must move to each of the 6 **Arms** and bait the AOE o
 
 Upon baiting the **Rocket Punch** AOE, **Omega's Eye** will cleave the center of the arena, and players who are responsible for baiting an Arm will move to do so. **Final Omega** will then begin to cast **Monitor** at North or South, as well as inflicting a random **Blue Tether Player** with **Oversampled Wave Cannon Loading**. 
 
-At the same time, **Inner Blue Tethers** break their tether as they move to the center to bait **Beyond Defense** from an Omega-M that has spawned. The player that is hit must move either East or West so they are not caught by the subsequent **Pile Pitch**, being careful not to be cleaved by **Final Omega's Monitor**. After baiting their arms **Outer Blue Tethers** will go to the middle to stack on the player who was not hit by beyond defense, standing on the side that is not being cleaved by **Final Omega's Monitor**. The player who was inflicted with **Oversampled Wave Cannon Loading** must face the monitor to the opposite side of the arena that **Final Omega** is cleaving, so that both sets of monitors are hitting **2 Christmas Players**.
+At the same time, **Inner Blue Tethers** break their tether as they move to the center to bait **Beyond Defense** from an Omega-M that has spawned. The player that is hit must move either East or West so they are not caught by the subsequent **Pile Pitch**, being careful not to be cleaved by **Final Omega's Monitor**. 
 
+After baiting their arms **Outer Blue Tethers** will go to the middle to stack on the player who was not hit by **Beyond Defense**, standing on the side that is not being cleaved by **Final Omega's Monitor**. The player who was inflicted with **Oversampled Wave Cannon Loading** must face the monitor to the opposite side of the arena that **Final Omega** is cleaving, so that both sets of monitors are only hitting **2 Christmas Players** each.
 
 {: .note} 
 > **Sprint** is extremely helpful in this mechanic. It's safe for everyone **except Outer Blue Tether Players** to pop sprint when the tethers activate.
