@@ -88,6 +88,7 @@ Omega will then cast two tank buster cleaves on the two furthest players, and 6 
 After this Omega will cast **Atomic Ray**, it's enrage.
 
 ## Phase 2
+
 {: .tanks }
 > Rampart can be cast as Omega "jumps", allowing a usage during the opening tank buster and in Limitless Synergy
 
@@ -119,7 +120,7 @@ The party is inflicted with either **Mid Glitch** or **Remote Glitch**. Each pla
 
 At the same time, **Omega's Eye** will spawn on a random cardinal/intercardinal. **This will be designated as relative north**.
 
-Clones will then spawn around the center of the arena, 2 Omega-M, and 2 Omega-F. An Omega-M and Omega-F pair will always be facing eachother and should be focused on. These two will perform a set of AOEs that are dependant on the weapons they are holding.
+Clones will then spawn around the center of the arena, 2 Omega-M, and 2 Omega-F. An Omega-M and Omega-F pair will always be facing eachother and should be focused on. These two clones will perform a set of AOEs that are dependant on the weapons they are holding.
 
 The possible combinations are:
 
@@ -174,11 +175,12 @@ The tank that was not hit joins the stack, and the tank that was hit should then
 
 Throughout this whole mechanic Omega F has been casting her enrage **Laser Shower**. Once Omega-M is defeated, Omega-F becomes targetable. 
 
-Upon defeating Omega-F, the transition begins.
+Upon defeating Omega-F, the transition begins:
 
 ### Phase 2 -> Phase 3 Transition
 
-The party lines up from East to West in their priority line-up before debuffs are assigned. 
+{: .everyone }
+>The party should line-up from East to West as seen in the cheatsheet before debuffs are assigned. 
 
 {: .healers }
 > To survive this transition the party must have *at least* a barrier healer's shield covering the hits.
@@ -187,7 +189,7 @@ The debuffs assigned will target 4 players with **Sniper Cannon Fodder** (spread
 
 Players must spread according to their debuff and priority, with the stacks and non-debuff players along the south edge of the arena, and the spread players along the north edge.
 
-Two sets of **Arms** will appear that will cause large circular AOEs, as well as a cascading donut AOE (Wave Repeater) originating from the center. To easily resolve this, players will dodge Wave Repeater by moving in and out from the edge of the arena, and then dodging into the first arm explosion where they will take their spread or stack. **video**
+Two sets of **Arms** will appear that will cause large circular AOEs, as well as a cascading donut AOE (Wave Repeater) originating from the center. To resolve this, players will dodge Wave Repeater by moving in and out from the edge of the arena, and then dodging into the first arm explosion where they will take their spread or stack. **video**
 
 {: .note }
 > Using sprint can help make the 2->1 dodge easier, but isn't required.
