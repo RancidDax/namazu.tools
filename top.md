@@ -315,11 +315,27 @@ If two stacks appear on one side of the boss, the southmost stack adjusts to the
 
 Omega must be below 20% health before it's enrage is cast: **Blue Screen**.
 
-## Phase 5: Dynamis M & F - (Run:Dynamis)
+## Phase 5: Dynamis M & F - (Run: Dynamis)
 This phase is very mechanically heavy, having 3 trios and lasting approximately 5 minutes.
+
+Each trio is split into a "mechanic" section and a "Hello World" section. During the Hello World sections, two players are assigned the debuffs:
+
+**Hello, Distant World**
+ > Causes a large AOE on the player, inflicting them with 1 stack of **Spark of Hope**. The AOE will then "bounce" to the **furthest player** away causing a smaller AOE and inflicting that player with 1 stack of **Spark of Hope**. The AOE will bounce once more to the **furthest player** away, causing the same small AOE and inflicting the player with 1 stack of **Spark of Hope**
+
+**Hello, Near World**
+ > Causes a large AOE on the player, inflicting them with 1 stack of **Spark of Hope**. The AOE will then "bounce" to the **closest player** to them, causing a smaller AOE and inflicting that player with 1 stack of **Spark of Hope**. The AOE will bounce once more to the **closest player** again, causing the same small AOE and inflicting the player with 1 stack of **Spark of Hope**
+
+The goal of the entirety of phase 5 
 
 {: .everyone }
 > Each Run:Dynamis cast comes with a **HEAVY** raid-wide hit that should be appropriately mitigated by every class.
+
+
+### Run: Dynamis (Delta Version)
+
+{: .healers}
+> This is a very hard hitting mechanic and it becomes difficult to heal due to tethers. When able, healers should be given priority for inner tethers, and after the initial monitor hit, players should squeeze in for healing.
 
 
 
