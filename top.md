@@ -6,10 +6,12 @@ parent: Ultimates
 
 {% include custom.html %}
 
-MUR Strats 
-{: .label .label-purple }
+<img src="./assets/images/alphaomega.webp" alt="Bahamut" width="100" style="float: right">
 
 # The Omega Protocol
+
+MUR Strats 
+{: .label .label-purple }
 
 ## General Resources and Links
 
