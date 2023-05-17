@@ -39,7 +39,9 @@ TEA has multiple Toolboxes, each are listed here in order of phases in the fight
 Wormhole Simulator (KR Sim) covers multiple strats but only the Wormhole simulator is accurate to OCE strats. Download and run the simulator to practice wormhole mechanic solo. Simulator is in Korean so use the following keybinds to navigate.
 
 Y = Reset
+
 5 = KB Resist
+
 Space = Hold to select numbers
 
 [TEA Simulator Download](https://drive.google.com/file/d/17y-CCkQte_Qj7lNygUarEa9rEHWBACkq/view){: .btn }
