@@ -154,7 +154,7 @@ Golden Bahamut Mits
 >
 > Your role is to position the boss in a way to drop a {% glossary Neurolink %} on each of the 1,2,3 markers in order. This will happen when the boss hits 74%, 44% and 0%. You should be on the outside of the boss towards the wall unless moving in to stack with party for other mechanics.
 >
-> <img src="./assets/images/ucobmarkers.png" alt="UCOB Markers" height="300px">
+> <img src="./assets/images/ucobmarkers.png" alt="UCOB Markers" style="height: 200px">
 
 {: .damage }
 > You will have two roles in this phase, firstly **Ranged** will need to bait {% glossary Liquid Hell %} by being the furthest player from the boss through the phase. Assign a **Primary Baiter** and **Backup Baiter**.
@@ -239,7 +239,7 @@ To safely manage this, you will stack together for Fire tethers, to remove the i
 This means the first tether is stacked, the second tether is taken out of the party, and the third and fourth fire tether are also stacked with the party. It is each members responsibility to monitor their debuffs and ensure they are in the fire stacks in time.
 
 The second fire tether is usually taken out to the LEFT of the party stack location.
-<img src="./assets/images/ucobfire2.png" alt="UCOB Markers" height="200px">
+<img src="./assets/images/ucobfire2.png" alt="UCOB Markers" style="height: 200px">
 
 {: .important }
 Whoever gets the second fire tether and takes it out of the party must AVOID the third fire tether as they will already have the fire debuff and this will kill them if they join the stack.
@@ -289,7 +289,7 @@ Quotes 1:
 
 The two players with {% glossary Thunderstruck %} must seperate from the party and take up a position near the boss opposite the party. Thunderstruck will resolve before the second mechanic in the quote.
 
-<img src="./assets/images/ucobthunder.png" alt="UCOB Markers" height="200px">
+<img src="./assets/images/ucobthunder.png" alt="UCOB Markers" style="height: 200px">
 
 
 ## Phase 3: Bahamut
