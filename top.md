@@ -130,12 +130,6 @@ Clones will then spawn around the center of the arena, 2 Omega-M, and 2 Omega-F.
 
 The possible combinations are:
 
-F - Staff | M - Shield
-F - Staff | M - Sword
-F - Skates | M - Shield
-F - Skates | M - Sword
-
-
 | Female | Male   |
 |:-------|:------ |
 | Staff  | Shield |
