@@ -207,6 +207,9 @@ Two sets of **Arms** will appear that will cause large circular AOEs, as well as
 {: .tanks }
 > There are hard hitting auto-attacks throughout this entire phase. The OT should be using their targeted mitigation on the MT as much as possible to help reduce the strain on the healers.
 
+{: .healers }
+> This phase requires high mitigation for each latent defect. Use the mitigation sheet provided, and allow shield healer to get close to center to mitigate damage before each **Latent Defect**.
+
 The phase begins with a hard-hitting raid wide cast:
 
 ### Hello World
@@ -219,16 +222,16 @@ For those interested I've attached all the ignorable debuffs in the dropdown bel
 <summary>Hello World Debuffs</summary>
 
 **Cascading Latent Defect**
-Received from soaking a red puddle. Cleansed by allowing **Critical Underflow Bug** to expire. Failing to do so will wipe the raid.
+> Received from soaking a red puddle. Cleansed by allowing **Critical Underflow Bug** to expire. Failing to do so will wipe the raid.
 
 **Latent Performance Defect**
-Received from soaking a blue puddle. Cleansed by allowing **Critical Performance Bug** to expire. Failing to do so will wipe the raid.
+> Received from soaking a blue puddle. Cleansed by allowing **Critical Performance Bug** to expire. Failing to do so will wipe the raid.
 
 **Latent Defect**
-Players must take damage before the debuff expires or they will die.
+> Players must take damage before the debuff expires or they will die.
 
 **Latent Synchronization Bug**
-Must be hit by **Critical Synchronization Bug** to remove. Failure to do so results in death.
+> Must be hit by **Critical Synchronization Bug** to remove. Failure to do so results in death.
 
 </details>
 
@@ -243,10 +246,40 @@ To actually resolve the mechanic we only care about 5 of them however:
 
 Throughout the phase, each player will have to get each of these debuffs. Once you have received and resolved your debuff, you will become immune to getting it again.
 
-When Omega begins casting **Latent Defect**, 4 puddles will spawn, 2 red and 2 blue. The corresponding rot players will have to soak these puddles. As rot passes on contact, these players should be extremely cautious getting to their positions
+Omega will then begin casting **Latent Defect**, causing 2 red and 2 blue puddles to spawn. The corresponding rot players will have to soak these puddles. As rot passes on contact, these players should be extremely cautious getting to their positions
 
+**Critical Overflow Bug** and **Critical Synchronization Bug** are assigned randomly to one colour of rot. This will persist through the rest of the mechanic such that if red is defamation to begin with, red will be defamation for the remainder of the mechanic.
 
+**Stack rots** should be closest to eachother that they can while still resolving their blue puddle, and **defamation rots** should be on the far edges of their puddles.
 
+{: .note }
+> MUR has the stack rot players move inside the boss' hitbox, whilst the defamation players move outside the hitbox.
+>
+> Tether players should also give way to rots as to reduce car crashes.
+
+The **Blue Tether** players will move to the stack rots and in between the puddles, each player stacking close to a rot player. Once their tether becomes active, moving far apart will cause the tether to break and cause **high raid-wide** damage and a **Thrice-come Ruin debuff**. After the stack hits, the **Blue Tether** players can move out to give themself rot by stacking **on top** of the rot player, forcing the tether to break in the process.
+
+{: .warning }
+> Popping the **Blue Tether** *too* early can cause wipes as the initial hits from defamation and the stack give a magic vulnerability debuff for 1 second.
+
+The **Christmas Tether** players will be standing outside the puddle next to the defamation players, and giving themself rot once the defamation AOE occurs. They will then break their tether by **getting close to one another**, being careful not to do it too soon after the first tether break as it will wipe the raid due to **Thrice-come Ruin**.
+
+This mechanic repeats **Latent Defect** a total of 4 times, where for the final **Latent Defect** all players (except defamation) will move to the **stack rot** side. This will cause the **Christmas Tether** to break immediately, and then the **Blue Tether** will be broken manually after.
+
+After rots expire Omega will cast another hard hitting raid wide **Critical Error**, before starting the next mechanic:
+
+## Monitors
+
+{: .everyone }
+> Players should pre-position in their lineup for monitors to quickly find their positions.
+
+After ~3 more auto-attacks, Omega will begin to cast **Oversampled Wave Cannon** and point a set of blue monitors either true east or true west. 
+
+3 players will also be inflicted with **Oversampled Wave Cannon Loading**, putting the same east/west facing monitors on their person. Players must position themselves and align themselves such that **each monitor** is only hitting **2 people** at a time. If hit by a monitor, a large AOE will explode on the player for high damage and they will be inflicted by **Twice-come Ruin**.
+
+Misaligning your monitor will result in players either: not being hit by monitor, or hit by 2+ monitors which will result in **doom** being inflicted, resulting in death.
+
+If solved correctly, Omega will cast Ion Efflux, it's enrage.
 
 
 
