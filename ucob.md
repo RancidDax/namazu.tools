@@ -6,12 +6,12 @@ parent: Ultimates
 
 {% include custom.html %}
 
-MUR Strats 
-{: .label .label-purple }
-
-<img src="./assets/images/goldenbaha.png" alt="Bahamut" width="100">
+<img src="./assets/images/goldenbaha.png" alt="Bahamut" width="100" style="float: right">
 
 # The Unending Coil of Bahamut
+
+MUR Strats 
+{: .label .label-purple }
 
 ## General Resources and Links
 
