@@ -6,7 +6,7 @@ parent: Ultimates
 
 {% include custom.html %}
 
-<img src="./assets/images/goldenbaha.png" alt="Bahamut" width="100" style="float: right">
+<img src="./assets/images/goldenbaha.png" alt="Bahamut" width="150" style="float: right">
 
 # The Unending Coil of Bahamut
 
