@@ -203,7 +203,57 @@ Two sets of **Arms** will appear that will cause large circular AOEs, as well as
 > Using **sprint** can help make the 2->1 dodge easier, but isn't required.
 
 ## Phase 3: Reconfigured Omega
-Coming Soon
+
+{: .tanks }
+> There are hard hitting auto-attacks throughout this entire phase. The OT should be using their targeted mitigation on the MT as much as possible to help reduce the strain on the healers.
+
+The phase begins with a hard-hitting raid wide cast:
+
+### Hello World
+
+This mechanic assigns **a lot** of debuffs to players. Thankfully, most of them can be ignored as they will resolve themselves simply by doing the mechanic and are only present as fail conditions for doing it incorrectly.
+
+For those interested I've attached all the ignorable debuffs in the dropdown below:
+
+<details markdown=1>
+<summary>Hello World Debuffs</summary>
+
+**Cascading Latent Defect**
+```
+Received from soaking a red puddle. Cleansed by allowing **Critical Underflow Bug** to expire. Failing to do so will wipe the raid.
+```
+
+**Latent Performance Defect**
+```
+Received from soaking a blue puddle. Cleansed by allowing **Critical Performance Bug** to expire. Failing to do so will wipe the raid.
+```
+
+**Latent Defect**
+```
+Players must take damage before the debuff expires or they will die.
+```
+
+**Latent Synchronization Bug**
+```
+Must be hit by **Critical Synchronization Bug** to remove. Failure to do so results in death.
+```
+
+</details>
+
+To actually resolve the mechanic we only care about 5 of them however:
+
+- **Local Code Smell/Local Regression** (aka Christmas Tether)
+- **Remote Code Smell/Remote Regression** (aka Blue Tether)
+- **Critical Underflow Bug** (aka Red Rot)
+- **Critical Performance Bug** (aka Blue Rot)
+- **Critical Overflow Bug** (aka Defamation)
+- **Critical Synchronization Bug** (aka Stack)
+
+
+
+
+
+
 
 ## Phase 4: Blue Screen
 Coming Soon
