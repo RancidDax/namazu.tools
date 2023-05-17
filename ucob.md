@@ -277,8 +277,20 @@ SPREAD → TANKBUSTER DIVE
 
 *Don't tell yoshi-p but there are some good tools to help quickly translate quotes to more understandable mechanics...*
 
-### Phase Timeline
-Coming Soon
+### Phase Overview
+
+The fight starts and a pillar will drop in the room, spread out for Meteor Stream and dodge the cleaves.
+
+Boss will enter on a tank and the party will stack up behind the boss ready for the first quotes. Two players will get {% glossary Thunderstruck %}.
+
+Quotes 1: 
+- O hallowed moon, take fire and scorch my foes! = {% glossary Lunar Dynamo %} → {% glossary Thermionic Beam %}
+- O hallowed moon, shine you the iron path! = {% glossary Lunar Dynamo %} → {% glossary Iron Chariot %}
+
+The two players with {% glossary Thunderstruck %} must seperate from the party and take up a position near the boss opposite the party. Thunderstruck will resolve before the second mechanic in the quote.
+
+<img src="./assets/images/ucobthunder.png" alt="UCOB Markers" height="300">
+
 
 ## Phase 3: Bahamut
 Coming Soon
