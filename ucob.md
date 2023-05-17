@@ -245,14 +245,14 @@ Whoever gets the second fire tether and takes it out of the party must AVOID the
 
 Through the phase Nael will say various quotes, these are indicators for upcoming mechanics, if you cannot translate the quotes then you will die to the mechanics. Each quote translates to a pair of mechanics in this phase. 
 
-- O hallowed moon, take fire and scorch my foes! = {% glossary Lunar Dynamo %} + {% glossary Thermionic Beam %}
-- O hallowed moon, shine you the iron path! = {% glossary Lunar Dynamo %} + {% glossary Iron Chariot %}
-- Blazing path, lead me to iron rule! = {% glossary Thermionic Beam %} + {% glossary Iron Chariot %}
-- Take fire, O hallowed moon! = {% glossary Thermionic Beam %} + {% glossary Lunar Dynamo %}
-- From on high I descend, the iron path to call! or From on high I descend, the iron path to walk! = {% glossary Raven's Dive %} + {% glossary Iron Chariot %}
-- From on high I descend, the hallowed moon to call! = {% glossary Raven's Dive %} + {% glossary Lunar Dynamo %}
-- Fleeting light! 'Neath the red moon, scorch you the earth! = {% glossary Dalamud Dive %} + {% glossary Thermionic Beam %}
-- Fleeting light! Amid a rain of stars, exalt you the red moon! = {% glossary Meteor Stream %} + {% glossary Dalamud Dive %}
+- O hallowed moon, take fire and scorch my foes! = {% glossary Lunar Dynamo %} → {% glossary Thermionic Beam %}
+- O hallowed moon, shine you the iron path! = {% glossary Lunar Dynamo %} → {% glossary Iron Chariot %}
+- Blazing path, lead me to iron rule! = {% glossary Thermionic Beam %} → {% glossary Iron Chariot %}
+- Take fire, O hallowed moon! = {% glossary Thermionic Beam %} → {% glossary Lunar Dynamo %}
+- From on high I descend, the iron path to call! or From on high I descend, the iron path to walk! = {% glossary Raven's Dive %} → {% glossary Iron Chariot %}
+- From on high I descend, the hallowed moon to call! = {% glossary Raven's Dive %} → {% glossary Lunar Dynamo %}
+- Fleeting light! 'Neath the red moon, scorch you the earth! = {% glossary Dalamud Dive %} → {% glossary Thermionic Beam %}
+- Fleeting light! Amid a rain of stars, exalt you the red moon! = {% glossary Meteor Stream %} → {% glossary Dalamud Dive %}
 
 
 At the start of the phase, a pillar will drop in the middle with a death zone around it. Pillar will drop into the ground and send out two waves of cones.
