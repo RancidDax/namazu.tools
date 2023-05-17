@@ -214,7 +214,11 @@ Finally, Stand in a {% glossary Neurolink %} for phase transition.
 
 ### Key Machanics 
 
-<img src="./assets/images/icons/thunderstruck.png" alt="Thunderstruck" height="20"> {% glossary Thunderstruck %} Two players are targeted with the {% glossary Thunderstruck %} debuff and need to stay away from the party to avoid killing party members or giving them paralysis.
+{% glossary Thunderstruck %} Two players are targeted with the {% glossary Thunderstruck %} debuff and need to stay away from the party to avoid killing party members or giving them paralysis.
+
+{% glossary Wings of Salvation %} Large white puddles appear on the ground exploding shortly after, lethal damage if you are in the puddle when it explodes. It leaves behind a small white puddle after the explosion which can remove doom.
+
+{% glossary Doom %} Inflicted to multiple players, will kill the player when the timer reaches zero. You can remove this by stepping in the light-puddle left behind by Wings of Salvation.
 
 **Party Spread Out**
 
