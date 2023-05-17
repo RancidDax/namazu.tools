@@ -18,6 +18,8 @@ emoji:
 plugins:
   - jekyll-glossary_tooltip
 
+callouts_level: quiet
+
 callouts:
   tanks:
     title: Tanks
