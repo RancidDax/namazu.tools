@@ -9,13 +9,7 @@ Namazu Tools is a resources website provided by **The Seat of Namazu** FF14 comm
 
 This site was put together to help combine various resources and guides into one comprehensive resource, our strategies are a collaboration of guides and tools from various other FF14 communities, with credits included on the pages and at the bottom of this page also.
 
-Please note throughout this website you will see various labels used to identify which type of strategy or where it originates from. As this site originates from the **Materia** community, we typically use what is referred to as **MUR Strats** *(Materia Ultimate Raiding)* or **PF Strats** *(Party Finder)* so you will often see this label to indicate this around the website.
-
-MUR Strats
-{: .label .label-purple }
-
-PF Strats
-{: .label .label-green }
+Please note throughout this website you will see various labels used to identify which type of strategy or where it originates from. As this site originates from the **Materia** community, we typically use what is referred to as **MUR Strats** *(Materia Ultimate Raiding)* or **PF Strats** *(Party Finder)*, you will see a label on each page to inform you where the strategy originates from.
 
 We hope you can find this site useful in your adventures in FF14, you can join the conversation at our discord server with the link below or start contributing to this open-source project following the github link.
 
