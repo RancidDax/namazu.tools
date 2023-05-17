@@ -7,8 +7,6 @@ The goal is to create a comprehensive tool with all guides for current Ultimate 
 ## How to Contribute
 Make a **Fork** of the project and do your edits in the fork, you can then create a **Pull Request** to merge your edits back into the main repository.
 
-# Formatting Guidelines
-
 ## Pages
 Each page is a single Markdown File (.md) which can be located anywhere in the root folder. Each page begins with a header to specify the page name and details, this will not appear in the final page.
 
