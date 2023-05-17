@@ -29,21 +29,20 @@ TEA has multiple Toolboxes, each are listed here in order of phases in the fight
 
 ### PoVs
 
-[MDPS](https://www.youtube.com/watch?v=yjouUV6fJTA){: .btn }
-[RDPS](https://www.youtube.com/watch?v=XU-o3pm1jiU){: .btn }
+[Melee DPS](https://www.youtube.com/watch?v=yjouUV6fJTA){: .btn }
+[Ranged DPS](https://www.youtube.com/watch?v=XU-o3pm1jiU){: .btn }
 [Caster](https://www.youtube.com/watch?v=q3PjYcGj-6s){: .btn }
 [Healer](https://www.youtube.com/watch?v=NHN9zWZbcEc){: .btn }
 [Tank](https://www.youtube.com/watch?v=eNf0gVqOPUk){: .btn }
 
 ### Simulator
 Wormhole Simulator (KR Sim) covers multiple strats but only the Wormhole simulator is accurate to OCE strats. Download and run the simulator to practice wormhole mechanic solo. Simulator is in Korean so use the following keybinds to navigate.
-
+```
+Simulator Keybinds
 Y = Reset
-
 5 = KB Resist
-
 Space = Hold to select numbers
-
+```
 [TEA Simulator Download](https://drive.google.com/file/d/17y-CCkQte_Qj7lNygUarEa9rEHWBACkq/view){: .btn }
 
 ### Mitigation Plan
