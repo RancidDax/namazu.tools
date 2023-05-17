@@ -29,7 +29,8 @@ By Kur Rumi
 <details markdown=1>
 <summary>View All Macros</summary>
 
-Macro 1
+**Macro 1**
+Neurolinks and Nael Spreads
 ```
 ==========================================
 [Neurolink placement]
@@ -41,7 +42,8 @@ Macro 1
 D3  H1      H2  D4
 ```
 
-Macro 2
+**Macro 2**
+QMT and BFT
 ```
 [Quickmarch]
 MT     Trio   ST
@@ -59,7 +61,8 @@ H1                   D3
 H2    STACK   D4
 ```
 
-Macro 3
+**Macro 3**
+FRT and HFT
 ```
 [Fellruin]
 ■ - Bahamut - MT
@@ -78,7 +81,8 @@ D1                 D2
 ST +1 | H2 +2 | D2 +3 | D4 +4 | MT -1 | H1 -2 | D1 -3 | D3 -4
 ```
 
-Macro 4
+**Macro 4**
+TST and GO
 ```
 [Tenstrike]
 ■ - Left > Right Generate Priority
@@ -95,7 +99,8 @@ D3 D1 H1 MT ST H2 D2 D4
 ■ - Tank LB3 can be used here for safety
 ```
 
-Macro 5 (D4 Float)
+**Macro 5 (D4 Float)**
+Adds
 ```
 [Adds Phase]
 ■ - MT = Start Twin
@@ -107,7 +112,8 @@ Neurolink Priority:
 ■ - D4 - Float
 ```
 
-Macro 6
+**Macro 6**
+Golden Bahamut Mits
 ```
 [Morn Afah Mitigation]
 ■ - Use the transition to clarify and adjust any mitigations
