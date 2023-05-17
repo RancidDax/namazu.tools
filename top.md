@@ -350,6 +350,9 @@ Omega-M will become untargetable and disappear, **Beetle Omega** and **Final Ome
 
 **Blues Tethers** will then go to **Beetle Omega**, and **Christmas Tethers** to **Final Omega**. Both pairs of tethers will line up parallel to the edge of the arena on their side, such that there is a tether closer to the center of the arena (**Inner Tether**), and a tether closer to the edge of the arena (**Outer Tether**).
 
+
+
+
 When a tether expires it results in a wipe, as such, we want to gradually break all 4 throughout the course of the mechanic so that there is not too much damage going out whilst still being able to solve the mechanic.
 
 As the tethers are still **inactive**, the **Outer Blue Tether** will stretch so that it will break immediately upon becoming active.
