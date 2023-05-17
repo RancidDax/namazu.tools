@@ -91,7 +91,7 @@ The cleaves will then either rotate clockwise or counter-clockwise. As the cleav
 
 Omega will then cast two tank buster cleaves on the two furthest players, and 6 line AOEs on the non-tanks. Both tanks **stack north, outside of the hitbox** and use invulnerability, and the party spreads within Omegas hitbox as seen in the cheatsheet.
 
-After this Omega will cast **Atomic Ray**, it's enrage.
+After this Omega will cast it's enrage: **Atomic Ray**.
 
 ## Phase 2: Omega-M & F
 
@@ -136,6 +136,8 @@ The possible combinations are:
 | Staff  | Sword  |
 | Skates | Shield |
 | Skates | Sword  |
+
+[![][(https://cdn.discordapp.com/attachments/862721895962902589/1108334543196409917/p2_dodges.png)](https://cdn.discordapp.com/attachments/862721895962902589/1108334543196409917/p2_dodges.png)
 
 {: .note }
 > The "cursed" pattern (F-Staff & M-Shield) can be easily resolved by using the far edges of the waymarks eitherside of the male.
@@ -208,15 +210,15 @@ Two sets of **Arms** will appear that will cause large circular AOEs, as well as
 > There are hard hitting auto-attacks throughout this entire phase. The OT should be using their targeted mitigation on the MT as much as possible to help reduce the strain on the healers.
 
 {: .healers }
-> This phase requires high mitigation for each latent defect. Use the mitigation sheet provided, and allow shield healer to get close to center to mitigate damage before each **Latent Defect**.
+> This phase requires high mitigation for each **Latent Defect**. Use the mitigation sheet provided, and allow the shield healer to get close to the center of the arena to mitigate damage before each **Latent Defect**.
 
 The phase begins with a hard-hitting raid wide cast:
 
 ### Hello World
 
-This mechanic assigns **a lot** of debuffs to players. Thankfully, most of them can be ignored as they will resolve themselves simply by doing the mechanic and are only present as fail conditions for doing it incorrectly.
+This mechanic assigns **a lot** of debuffs to players. Thankfully, most of them can be ignored as they will resolve themselves simply by doing the mechanic and are only present as fail conditions for doing it *incorrectly*.
 
-For those interested I've attached all the ignorable debuffs in the dropdown below:
+For those interested I've attached the ignorable debuffs in the dropdown below:
 
 <details markdown=1>
 <summary>Hello World Debuffs</summary>
@@ -228,7 +230,7 @@ For those interested I've attached all the ignorable debuffs in the dropdown bel
 > Received from soaking a blue puddle. Cleansed by allowing **Critical Performance Bug** to expire. Failing to do so will wipe the raid.
 
 **Latent Defect**
-> Players must take damage before the debuff expires or they will die.
+> Players must take damage before the debuff expires or they will die. This is assigned to **Christmas Tether** players.
 
 **Latent Synchronization Bug**
 > Must be hit by **Critical Synchronization Bug** to remove. Failure to do so results in death.
@@ -250,14 +252,18 @@ Omega will then begin casting **Latent Defect**, causing 2 red and 2 blue puddle
 
 **Critical Overflow Bug** and **Critical Synchronization Bug** are assigned randomly to one colour of rot. This will persist through the rest of the mechanic such that if red is defamation to begin with, red will be defamation for the remainder of the mechanic.
 
-**Stack rots** should be closest to eachother that they can while still resolving their blue puddle, and **defamation rots** should be on the far edges of their puddles.
+**Stack rots** should be as close to eachother as they can while still resolving their blue puddle, and **defamation rots** should be on the far edges of their puddles.
 
 {: .note }
 > MUR has the stack rot players move inside the boss' hitbox, whilst the defamation players move outside the hitbox.
 >
-> Tether players should also give way to rots as to reduce car crashes.
+> Tether players should also give way to rots to reduce car crashes.
 
-The **Blue Tether** players will move to the stack rots and in between the puddles, each player stacking close to a rot player. Once their tether becomes active, moving far apart will cause the tether to break and cause **high raid-wide** damage and a **Thrice-come Ruin debuff**. After the stack hits, the **Blue Tether** players can move out to give themself rot by stacking **on top** of the rot player, forcing the tether to break in the process.
+Tethers players will initially have an "inactive" buff, meaning that they can be any distance away from eachother without causing it to break. Once their tether becomes active, if **Blue Tethers** move far apart, the tether will break, and if **Christmas Tethers** move close together, their tether will break. Both breaks cause **high raid-wide** "patch" damage and a **Thrice-come Ruin debuff** to be inflicted on each player.
+
+Failing to break a tether before it expires results in a wipe.
+
+The **Blue Tether** players will move to the stack rots and in between the puddles, each player stacking close to a rot player. After the stack hits, the **Blue Tether** players can move out to give themself rot by stacking **on top** of the rot player, forcing the tether to break in the process.
 
 {: .warning }
 > Popping the **Blue Tether** *too* early can cause wipes as the initial hits from defamation and the stack give a magic vulnerability debuff for 1 second.
@@ -271,23 +277,36 @@ After rots expire Omega will cast another hard hitting raid wide **Critical Erro
 ## Monitors
 
 {: .everyone }
-> Players should pre-position in their lineup for monitors to quickly find their positions.
+> Players should pre-position in the cheatsheet lineup for monitors to quickly find their spots.
 
 After ~3 more auto-attacks, Omega will begin to cast **Oversampled Wave Cannon** and point a set of blue monitors either true east or true west. 
 
-3 players will also be inflicted with **Oversampled Wave Cannon Loading**, putting the same east/west facing monitors on their person. Players must position themselves and align themselves such that **each monitor** is only hitting **2 people** at a time. If hit by a monitor, a large AOE will explode on the player for high damage and they will be inflicted by **Twice-come Ruin**.
+3 random players will also be inflicted with **Oversampled Wave Cannon Loading**, putting the same east/west facing monitors on their person. Players must position and align themselves such that **each monitor** is only hitting **2 people** at a time. If hit by a monitor, a large AOE will explode on the player for high damage and they will be inflicted by **Twice-come Ruin**.
 
 Misaligning your monitor will result in players either: not being hit by monitor, or hit by 2+ monitors which will result in **doom** being inflicted, resulting in death.
 
-If solved correctly, Omega will cast Ion Efflux, it's enrage.
+{: .note }
+> The monitor positions "lock-in" at the very end of the **Oversampled Wave Cannon** cast, allowing monitor players to greed GCDs. 
 
-
+If solved correctly, Omega will cast it's enrage: **Ion Efflux**.
 
 ## Phase 4: Blue Screen
-Coming Soon
+{: .damage }
+> Depending on team comp or damage needs, mDPS LB3 can be sent at the end of P3 or at the start of P4. Sending in P4 requires 2 mins to be used during **monitors**.
+
+This phase is fairly straight forward, with each player taking a protean and then stacking south of the boss. Just before the 2nd proteans, the party must step in to avoid **Wave Repeater**. Similiarly, after the 3rd stack the party must wait, and then step in to avoid another **Wave Repeater**.
+
+If two stacks appear on one side of the boss, the southmost stack adjusts to the other side, and the opposite sides mDPS flexes.
+
+Omega must be below 20% health before it's enrage is cast: **Blue Screen**.
 
 ## Phase 5: Dynamis M & F - (Run:Dynamis)
-Coming Soon
+This phase is very mechanically heavy, having 3 trios and lasting approximately 5 minutes.
+
+{: .everyone }
+> Each Run:Dynamis cast comes with a **HEAVY** raid-wide hit that should be appropriately mitigated by every class.
+
+
 
 ## Phase 6: Alpha Omega
 Coming Soon
