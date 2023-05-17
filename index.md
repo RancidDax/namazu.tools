@@ -13,7 +13,7 @@ Please note throughout this website you will see various labels used to identify
 
 We hope you can find this site useful in your adventures in FF14, you can join the conversation at our discord server with the link below or start contributing to this open-source project following the github link.
 
-{: .warning }
+{: .note }
 This site is still early in development and we are actively updating it with new content, we apologize if some pages appear unfinished! 🙂
 
 ## Ultimates
