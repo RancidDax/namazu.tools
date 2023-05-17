@@ -32,6 +32,7 @@ By Kur Rumi
 <summary>View All Macros</summary>
 
 **Macro 1**
+
 Neurolinks and Nael Spreads
 ```
 ==========================================
@@ -45,6 +46,7 @@ D3  H1      H2  D4
 ```
 
 **Macro 2**
+
 QMT and BFT
 ```
 [Quickmarch]
@@ -64,6 +66,7 @@ H2    STACK   D4
 ```
 
 **Macro 3**
+
 FRT and HFT
 ```
 [Fellruin]
@@ -84,6 +87,7 @@ ST +1 | H2 +2 | D2 +3 | D4 +4 | MT -1 | H1 -2 | D1 -3 | D3 -4
 ```
 
 **Macro 4**
+
 TST and GO
 ```
 [Tenstrike]
@@ -102,6 +106,7 @@ D3 D1 H1 MT ST H2 D2 D4
 ```
 
 **Macro 5 (D4 Float)**
+
 Adds
 ```
 [Adds Phase]
@@ -115,6 +120,7 @@ Neurolink Priority:
 ```
 
 **Macro 6**
+
 Golden Bahamut Mits
 ```
 [Morn Afah Mitigation]
