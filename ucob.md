@@ -212,19 +212,14 @@ Finally, Stand in a {% glossary Neurolink %} for phase transition.
 
 ## Phase 2: Nael
 
-### Key Machanics 
+### Key Mechanics
 
-{% glossary Thunderstruck %} Two players are targeted with the {% glossary Thunderstruck %} debuff and need to stay away from the party to avoid killing party members or giving them paralysis.
-
-{% glossary Wings of Salvation %} Large white puddles appear on the ground exploding shortly after, lethal damage if you are in the puddle when it explodes. It leaves behind a small white puddle after the explosion which can remove doom.
-
-{% glossary Doom %} Inflicted to multiple players, will kill the player when the timer reaches zero. You can remove this by stepping in the light-puddle left behind by Wings of Salvation.
-
-**Party Spread Out**
-
-At the start of the phase, a pillar will drop in the middle with a death zone around it. Pillar will drop into the ground and send out two waves of cones.
-
-Two sets of dives go off during this where each player will be hit by a small AOE, taking two is fatal, this is why we spread out.
+{: .everyone }
+> {% glossary Thunderstruck %} Two players are targeted with the {% glossary Thunderstruck %} debuff and need to stay away from the party to avoid killing party members or giving them paralysis.
+> 
+> {% glossary Wings of Salvation %} Large white puddles appear on the ground exploding shortly after, lethal damage if you are in the puddle when it explodes. It leaves behind a small white puddle after the explosion which can remove doom.
+> 
+> {% glossary Doom %} Inflicted to multiple players, will kill the player when the timer reaches zero. You can remove this by stepping in the light-puddle left behind by Wings of Salvation.
 
 {: .tanks }
 > {% glossary Dalamud Dive %} Nael jumps onto her target, dealing significant splash damage. Make sure to spread away from the tank to prevent any extra damage.
@@ -232,6 +227,41 @@ Two sets of dives go off during this where each player will be hit by a small AO
 > {% glossary Bahamuts Claw %} Physical tankbuster consisting of 5 successive hits to her target.
 > 
 > Nael enters with {% glossary Dalamud Dive %} on **Tank with last aggro on Twintania**, followed by {% glossary Bahamuts Claw %}. Use an Invuln here and keep this away from party.
+
+### Icebitten and Firescorched
+
+Through the phase, dragons will attack players with iceballs and AOE other players with a fire tether, each applies a debuff or removes the opposite debuff. If you have either debuff and you are hit by the same effect again (ie: hit by fireball and you already have firescorched) you will die.
+
+To safely manage this, you will stack together for Fire tethers, to remove the ice debuffs from the party. There will be **FOUR** fire tethers during the phase and they should be stacked or taken out of the group using the following order;
+
+**IN > OUT > IN > IN**
+
+This means the first tether is stacked, the second tether is taken out of the party, and the third and fourth fire tether are also stacked with the party. It is each members responsibility to monitor their debuffs and ensure they are in the fire stacks in time.
+
+{: .important }
+Whoever gets the second fire tether and takes it out of the party must AVOID the third fire tether as they will already have the fire debuff and this will kill them if they join the stack.
+
+### Quotes
+
+Through the phase Nael will say various quotes, these are indicators for upcoming mechanics, if you cannot translate the quotes then you will die to the mechanics. Each quote translates to a pair of mechanics in this phase. 
+
+| Quote                                                                                              | Mechanics                     |
+|:---------------------------------------------------------------------------------------------------|:------------------------------|
+| O hallowed moon, take fire and scorch my foes!                                                     | Lunar Dynamo > Thermionic Beam|
+| O hallowed moon, shine you the iron path!                                                          | Lunar Dynamo > Iron Chariot   |
+| Blazing path, lead me to iron rule!                                                                | Thermionic Beam > Iron Chariot|
+| Take fire, O hallowed moon!                                                                        | Thermionic Beam > Lunar Dynamo|
+| From on high I descend, the iron path to call! or From on high I descend, the iron path to walk!   | Raven's Dive > Iron Chariot   |
+| From on high I descend, the hallowed moon to call!                                                 | Raven's Dive > Lunar Dynamo   |
+| Fleeting light! 'Neath the red moon, scorch you the earth!                                         | Dalamud Dive > Thermionic Beam|
+| Fleeting light! Amid a rain of stars, exalt you the red moon!                                      | Meteor Stream > Dalamud Dive  |
+
+
+At the start of the phase, a pillar will drop in the middle with a death zone around it. Pillar will drop into the ground and send out two waves of cones.
+Two sets of dives go off during this where each player will be hit by a small AOE, taking two is fatal, spread out to avoid being hit. The pillar will dissapear and Nael will drop down on the tank.
+
+
+
 
 ## Phase 3: Bahamut
 Coming Soon
