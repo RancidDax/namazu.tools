@@ -158,17 +158,20 @@ After each player takes an AOE, two stacks will then appear on two random player
 
 Light Party 1 will always anchor West, and Light Party 2 will either be pushed South for Mid Glitch, or East for Remote Glitch.
 
-If the stack players are part of the **same light party** the south most stack relative to the eye must swap positions with their partner. **(video)**
+If the stack players are part of the **same light party** the north most stack relative to the eye must swap positions with their partner. **(video)**
 
 {: .tanks }
 > Between the start of the phase and after party synergy Omega-M has changed to Omega-F and vice versa, meaning you will both have to re-provoke your boss.
 
 {: .everyone }
-> The party should pre-position at South-West for the upcoming mechanic.
+> The party should pre-position at South-South-West for the upcoming mechanic.
 
 After ~5 auto-attacks from each boss, both Omega-M and Omega-F will cast:
 
 ### Limitless Synergy
+
+{: .everyone }
+> The party should pre-position at South-South-West for this mechanic.
 
 {: .damage }
 > As the Limitless Synergy cast finishes the Packet Filter debuff will disappear, allowing about 1/2 GCDs of cleave damage.
@@ -285,23 +288,23 @@ After rots expire Omega will cast another hard hitting raid wide **Critical Erro
 ## Monitors
 
 {: .everyone }
-> Players should pre-position in the cheatsheet lineup for monitors to quickly find their spots.
+> The party should pre-position in the cheatsheet lineup for monitors to quickly find their spots.
 
 After ~3 more auto-attacks, Omega will begin to cast **Oversampled Wave Cannon** and point a set of blue monitors either true east or true west. 
 
 3 random players will also be inflicted with **Oversampled Wave Cannon Loading**, putting the same east/west facing monitors on their person. Players must position and align themselves such that **each monitor** is only hitting **2 people** at a time. If hit by a monitor, a large AOE will explode on the player for high damage and they will be inflicted by **Twice-come Ruin**.
 
-Misaligning your monitor will result in players either: not being hit by monitor, or hit by 2+ monitors which will result in **doom** being inflicted, resulting in death.
+Misaligning your monitor will result in players either: not being hit by monitor, or hit by 2+ monitors which will result in **doom** being inflicted.
 
 {: .note }
-> The monitor positions "lock-in" at the very end of the **Oversampled Wave Cannon** cast, allowing monitor players to greed GCDs. 
+> The monitor positions "lock-in" as the **Oversampled Wave Cannon** cast **finishes**, allowing monitor players to greed GCDs. 
 
 If solved correctly, Omega will cast it's enrage: **Ion Efflux**.
 
 ## Phase 4: Blue Screen
 
 {: .damage }
-> Depending on team comp or damage needs, mDPS LB3 can be sent at the end of P3 or at the start of P4. Sending in P4 requires 2 mins to be used during **monitors**.
+> Depending on team comp or damage needs, DPS LB3 can be sent at the end of P3 or at the start of P4. Sending in P4 requires 2 mins to be used during **monitors**.
 
 This phase is fairly straight forward, with each player taking a protean and then taking two stacks south of the boss. This set of mechanics repeats 3 times. Just before the 2nd proteans, the party must step in to avoid **Wave Repeater**. Similiarly, after the 3rd stack the party must wait, and then step in to avoid another **Wave Repeater**.
 
