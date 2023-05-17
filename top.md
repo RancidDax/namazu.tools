@@ -80,6 +80,7 @@ The cleaves will then either rotate clockwise or counter-clockwise. As the cleav
 
 {: .Everyone }
 > It is very easy for the puddles to get out of hand, so stack as tightly as possible and move along the edge of **Omega's hitbox** whilst moving as a group. 
+
 > Players whose turn it is to leave the stack should wait for a puddle to drop under their feet before exiting the stack. Using **sprint** can help but isn't required.
 
 Omega will then cast two tank buster cleaves on the two furthest players, and 6 line AOEs on the non-tanks. Both tanks **stack north, outside of the hitbox** using invulnerability and the party spreads within Omegas hitbox as seen in the cheatsheet.
