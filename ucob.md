@@ -6,7 +6,7 @@ parent: Ultimates
 
 {% include custom.html %}
 
-<img src="./assets/images/goldenbaha.png" alt="Bahamut" width="150" style="float: right">
+<img src="./assets/images/goldenbaha.png" alt="Bahamut" width="150px" style="float: right">
 
 # The Unending Coil of Bahamut
 
@@ -154,7 +154,7 @@ Golden Bahamut Mits
 >
 > Your role is to position the boss in a way to drop a {% glossary Neurolink %} on each of the 1,2,3 markers in order. This will happen when the boss hits 74%, 44% and 0%. You should be on the outside of the boss towards the wall unless moving in to stack with party for other mechanics.
 >
-> <img src="./assets/images/ucobmarkers.png" alt="UCOB Markers" height="400">
+> <img src="./assets/images/ucobmarkers.png" alt="UCOB Markers" height="300px">
 
 {: .damage }
 > You will have two roles in this phase, firstly **Ranged** will need to bait {% glossary Liquid Hell %} by being the furthest player from the boss through the phase. Assign a **Primary Baiter** and **Backup Baiter**.
@@ -239,7 +239,7 @@ To safely manage this, you will stack together for Fire tethers, to remove the i
 This means the first tether is stacked, the second tether is taken out of the party, and the third and fourth fire tether are also stacked with the party. It is each members responsibility to monitor their debuffs and ensure they are in the fire stacks in time.
 
 The second fire tether is usually taken out to the LEFT of the party stack location.
-<img src="./assets/images/ucobfire2.png" alt="UCOB Markers" height="300">
+<img src="./assets/images/ucobfire2.png" alt="UCOB Markers" height="200px">
 
 {: .important }
 Whoever gets the second fire tether and takes it out of the party must AVOID the third fire tether as they will already have the fire debuff and this will kill them if they join the stack.
@@ -260,20 +260,20 @@ Through the phase Nael will say various quotes, these are indicators for upcomin
 Quotes come in pairs, either one of the two can happen and you need to be able to read the quote to identify them. It is easier to remember them when you break them down to pairs of two possible mechanics.
 
 Quote 1:
-IN → STACK
-IN → SPREAD
+- IN → STACK
+- IN → SPREAD
 
 Quote 2:
-STACK → IN
-STACK → OUT
+- STACK → IN
+- STACK → OUT
 
 Quote 3: 
-SPREAD → IN
-SPREAD → OUT
+- SPREAD → IN
+- SPREAD → OUT
 
 QUOTE 4:
-TANKBUSTER DIVE → STACK
-SPREAD → TANKBUSTER DIVE
+- TANKBUSTER DIVE → STACK
+- SPREAD → TANKBUSTER DIVE
 
 *Don't tell yoshi-p but there are some good tools to help quickly translate quotes to more understandable mechanics...*
 
@@ -284,12 +284,12 @@ The fight starts and a pillar will drop in the room, spread out for Meteor Strea
 Boss will enter on a tank and the party will stack up behind the boss ready for the first quotes. Two players will get {% glossary Thunderstruck %}.
 
 Quotes 1: 
-- O hallowed moon, take fire and scorch my foes! = {% glossary Lunar Dynamo %} → {% glossary Thermionic Beam %}
-- O hallowed moon, shine you the iron path! = {% glossary Lunar Dynamo %} → {% glossary Iron Chariot %}
+- O hallowed moon, take fire and scorch my foes! (IN → STACK)
+- O hallowed moon, shine you the iron path! (IN → SPREAD)
 
 The two players with {% glossary Thunderstruck %} must seperate from the party and take up a position near the boss opposite the party. Thunderstruck will resolve before the second mechanic in the quote.
 
-<img src="./assets/images/ucobthunder.png" alt="UCOB Markers" height="300">
+<img src="./assets/images/ucobthunder.png" alt="UCOB Markers" height="200px">
 
 
 ## Phase 3: Bahamut
