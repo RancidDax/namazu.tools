@@ -135,6 +135,14 @@ F - Staff | M - Sword
 F - Skates | M - Shield
 F - Skates | M - Sword
 
+
+| Female | Male   |
+|:-------|:------ |
+| Staff  | Shield |
+| Staff  | Sword  |
+| Skates | Shield |
+| Skates | Sword  |
+
 {: .note }
 > The "cursed" pattern (F-Staff & M-Shield) can be easily resolved by using the far edges of the waymarks eitherside of the male.
 > 
