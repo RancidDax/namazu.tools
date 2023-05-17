@@ -20,7 +20,7 @@ PF Strats
 We hope you can find this site useful in your adventures in FF14, you can join the conversation at our discord server with the link below or start contributing to this open-source project following the github link.
 
 {: .important }
-> This site is still early in development and we are actively updating it with new content, we apologize if some area's appear unfinished!
+This site is still early in development and we are actively updating it with new content, we apologize if some area's appear unfinished!
 
 ## Get started...
 Some sites are still in progress and as such their buttons are green here.
