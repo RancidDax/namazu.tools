@@ -88,6 +88,8 @@ Omega will then cast two tank buster cleaves on the two furthest players, and 6 
 After this Omega will cast **Atomic Ray**, it's enrage.
 
 ## Phase 2
+{: .tanks }
+> Rampart can be cast as Omega "jumps", allowing a usage during the opening tank buster and in Limitless Synergy
 
 Phase 2 begins and Omega-M and Omega-F will spawn. 
 
@@ -117,7 +119,7 @@ The party is inflicted with either **Mid Glitch** or **Remote Glitch**. Each pla
 
 At the same time, **Omega's Eye** will spawn on a random cardinal/intercardinal. **This will be designated as relative north**.
 
-Clones will then spawn around the center of the arena, 2 Omega-M, and 2 Omega-F. An Omega-M and Omega-F pair will always be facing eachother and should be focused on. These two will perform two sets of AOEs that are dependant on the weapons they are holding.
+Clones will then spawn around the center of the arena, 2 Omega-M, and 2 Omega-F. An Omega-M and Omega-F pair will always be facing eachother and should be focused on. These two will perform a set of AOEs that are dependant on the weapons they are holding.
 
 The possible combinations are:
 
@@ -133,7 +135,7 @@ F - Skates | M - Sword
 
 Once the dodge is made, all players must resolve their Mid/Remote Glitch by splitting into the previously designated light parties and moving to the West (LP1) and East (LP2) **relative to Omega's Eye**. 
 
-After each player takes an AOE, two stacks will then appear on two random players. Multiple clones will spawn around the arena, including a line of 3 males, and 1 female in the center. Using the **middle of the 3 males as relative north**, the party must form two stacks in their designated light parties around the female to get pushed back to 1 of 3 safe spots.
+After each player takes an AOE, two stacks will then appear on two random players. Multiple clones will spawn around the arena, including a line of 3 Males, and 1 Female in the center. Using the **middle of the 3 males as relative north**, the party must form two stacks in their designated light parties around the female to get pushed back to 1 of 3 safe spots.
 
 Light Party 1 will always anchor West, and Light Party 2 will either be pushed South for Mid Glitch, or East for Remote Glitch.
 
@@ -148,6 +150,51 @@ If the stack players are part of the **same light party** the south most stack r
 After ~5 auto-attacks from each boss, both Omega-M and Omega-F will cast:
 
 ### Limitless Synergy
+{: .damage }
+> As the Limitless Synergy cast finishes the Packet Filter debuff will disappear, allowing about 1/2 GCDs of cleave damage.
+
+Omega-F will become invulnerable, forcing the party to attack the Male. Two tethers will spawn on two random players, orginating from two Omega clones. Both tanks will grab their designated tether (as seen in the cheatsheet).
+
+At the same time, a Male clone will spawn on a random cardinal/intercardinal and cast Optimized Sagitarrius Arrow on a random player. This AOE will bait across the hitbox but leave a safe spot within it, which the non-tanks will move into.
+
+{: .tanks }
+> Once the AOE is baited, both tanks take their tether to the wall close to their clone and rotate clock wise on the edge of the arena. Heavy personal mitigation is required to survive this tank buster.
+>
+> While you are taking your tank buster you should also find where the **shield male** is.
+
+Once the tank busters resolve, everyone but the tanks should **stack under Omega-M** as 3 flare markers will appear on 3 random players. These can be ignored. The Male clone with a shield that is on the edge of the arena will then cast **beyond defense** which will be baited by both tanks.
+
+The tank that was not hit joins the stack, and the tank that was hit should then move away from the Male so that the stack is closest to the Male's new position as it will then cast **Pile Pitch**.
+
+{: .everyone }
+>This strategy requires **HEAVY** mitigation to survive, as not only are you stacking all the flares, you are also taking a stack and then a heavy hitting raidwide immediately after. 
+>
+>To cover both sets of hits, you can cast your mitigation at around 4/5 pulses of the flares.
+
+Throughout this whole mechanic Omega F has been casting her enrage **Laser Shower**. Once Omega-M is defeated, Omega-F becomes targetable. 
+
+Upon defeating Omega-F, the transition begins.
+
+#### Phase 2 -> Phase 3 Transition
+
+The party lines up from East to West in their priority line-up before debuffs are assigned. 
+
+{: .healers }
+> To survive this transition the party must have *at least* a barrier healer's shield covering the hits.
+
+The debuffs assigned will target 4 players with **Sniper Cannon Fodder** (spread), 2 players with **High-powered Sniper Cannon Fodder** (stack) and 2 players will not be assigned a debuff.
+
+Players must spread according their debuff and priority, with the stacks and non-debuff players along the south edge of the arena, and the spread players along the north edge.
+
+Two sets of **Arms** will appear that will cause large circular AOEs, as well as a cascading donut AOE (Wave Repeater) originating from the center. To easily resolve this, players will dodge Wave Repeater by moving in and out from the edge of the arena, and then dodging into the first arm explosion where they will take their spread or stack.
+
+{ .note }
+> Using sprint can help make the 2->1 dodge easier, but isn't required.
+
+## Phase 3
+
+
+
 
 
 
