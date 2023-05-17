@@ -22,10 +22,7 @@ We hope you can find this site useful in your adventures in FF14, you can join t
 {: .warning }
 This site is still early in development and we are actively updating it with new content, we apologize if some pages appear unfinished! 🙂
 
-## Get started...
-Some sites are still in progress and as such their buttons are green here.
-
-### Ultimates
+## Ultimates
 [UWU](/uwu){: .btn .btn-green }
 [UCOB](/ucob){: .btn .btn-green }
 [TEA](/tea){: .btn .btn-green }
@@ -33,7 +30,7 @@ Some sites are still in progress and as such their buttons are green here.
 [TOP](/top){: .btn .btn-green }
 
 
-### Pandaemonium (Savage)
+## Pandaemonium (Savage)
 
 Coming Soon 
 {: .label .label-red }
@@ -53,7 +50,7 @@ Coming Soon
 [P11S](/){: .btn }
 [P12S](/){: .btn }
 
-### Other
+## Other
 [Glossary](/glossary){: .btn .btn-blue }
 
 ## Important Links
