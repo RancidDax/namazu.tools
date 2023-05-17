@@ -50,10 +50,12 @@ Space = Hold to select numbers
 
 ### Cheatsheets and Visual Guides
 
-#### Wormhole Visual Guide
+**Wormhole Visual Guide**
+
 [![](https://cdn.discordapp.com/attachments/1074285128299327508/1108006238308024360/image.png)](https://cdn.discordapp.com/attachments/1074285128299327508/1108006238308024360/image.png)
 
-#### Perfect Alexander Cheatsheet
+**Perfect Alexander Cheatsheet**
+
 [![](https://cdn.discordapp.com/attachments/1074285128299327508/1105403205246005279/image-19.png)](https://cdn.discordapp.com/attachments/1074285128299327508/1105403205246005279/image-19.png)
 
 ## Written Guide
