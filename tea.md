@@ -6,7 +6,7 @@ parent: Ultimates
 
 {% include custom.html %}
 
-<img src="./assets/images/bjcc2.png" alt="BJCC" width="150" style="float: right">
+<img src="./assets/images/BJCC2.png" alt="BJCC" width="150" style="float: right">
 
 # The Epic of Alexander
 
