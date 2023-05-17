@@ -23,9 +23,9 @@ TEA has multiple Toolboxes, each are listed here in order of phases in the fight
 [Living Liquid](https://ff14.toolboxgaming.space/?id=830419115443951&preview=1){: .btn .btn-blue }
 [Limit Cut 1256](https://ff14.toolboxgaming.space/?id=240411819443951&preview=1){: .btn .btn-blue }
 [BJCC Split](https://ff14.toolboxgaming.space/?id=340414049443951&preview=1){: .btn .btn-blue }
-[Alexander Prime](https://ff14.toolboxgaming.space/?id=279973556822761&preview=1){: .btn .btn-blue }
+[Alex Prime](https://ff14.toolboxgaming.space/?id=279973556822761&preview=1){: .btn .btn-blue }
 [Wormhole](https://ff14.toolboxgaming.space/?id=236244852760461&preview=1){: .btn .btn-blue }
-[Perfect Alexander](https://ff14.toolboxgaming.space/?id=908766479219561&preview=1){: .btn .btn-blue }
+[Perfect Alex](https://ff14.toolboxgaming.space/?id=908766479219561&preview=1){: .btn .btn-blue }
 
 ### PoVs
 
