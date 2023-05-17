@@ -58,3 +58,13 @@
   definition: Will kill the player when the timer reaches zero.
 - term: Wings of Salvation
   definition: Large white puddles appear on the ground exploding shortly after.
+- term: Lunar Dynamo
+  definition: A Dount shaped AOE centered on the boss.
+- term: Thermionic Beam
+  definition: Heavy hitting party stack AOE.
+- term: Iron Chariot
+  definition: Large Point-Blank AOE centered on the boss with heavy knockback.
+- term: Raven's Dive
+  definition: Boss will jump to a player and hit them with a small AOE knocking back anyone nearby.
+- term: Meteor Stream
+  definition: Boss dives down on several players hitting them with a heavy attack in an AOE around them.
