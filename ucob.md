@@ -253,15 +253,17 @@ Through the phase Nael will say various quotes, these are indicators for upcomin
 | Take fire, O hallowed moon!                                                                        | Thermionic Beam > Lunar Dynamo|
 | From on high I descend, the iron path to call! or From on high I descend, the iron path to walk!   | Raven's Dive > Iron Chariot   |
 | From on high I descend, the hallowed moon to call!                                                 | Raven's Dive > Lunar Dynamo   |
-| Fleeting light! 'Neath the red moon, scorch you the earth!                                         | Dalamud Dive > Thermionic Beam|
-| Fleeting light! Amid a rain of stars, exalt you the red moon!                                      | Meteor Stream > Dalamud Dive  |
+| Fleeting light! 'Neath the red moon, scorch you the earth!                                         | {% glossary Dalamud Dive %} > Thermionic Beam|
+| Fleeting light! Amid a rain of stars, exalt you the red moon!                                      | Meteor Stream > {% glossary Dalamud Dive %}  |
 
 
 At the start of the phase, a pillar will drop in the middle with a death zone around it. Pillar will drop into the ground and send out two waves of cones.
 Two sets of dives go off during this where each player will be hit by a small AOE, taking two is fatal, spread out to avoid being hit. The pillar will dissapear and Nael will drop down on the tank.
 
-
-
+{% glossary Raven's Dive %}
+{% glossary Thermionic Beam %}
+{% glossary Iron Chariot %}
+{% glossary Meteor Stream %}
 
 ## Phase 3: Bahamut
 Coming Soon
