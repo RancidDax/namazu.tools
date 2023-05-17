@@ -230,7 +230,7 @@ Finally, Stand in a {% glossary Neurolink %} for phase transition.
 
 ### Icebitten and Firescorched
 
-Through the phase <img src="./assets/images/icons/firescorched.png" class="bufficon">, dragons will attack players with iceballs and AOE other players with a fire tether, each applies a debuff or removes the opposite debuff. If you have either debuff and you are hit by the same effect again (ie: hit by fireball and you already have firescorched) you will die.
+Through the phase, dragons will attack players with iceballs and AOE other players with a fire tether, each applies a debuff or removes the opposite debuff. If you have either debuff and you are hit by the same effect again (ie: hit by fireball and you already have firescorched <img src="./assets/images/icons/firescorched.png" class="bufficon">) you will die.
 
 To safely manage this, you will stack together for Fire tethers, to remove the ice debuffs from the party. There will be **FOUR** fire tethers during the phase and they should be stacked or taken out of the group using the following order;
 
