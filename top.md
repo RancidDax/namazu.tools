@@ -45,7 +45,10 @@ Add Macro Here
 ### Waymarks
 Waymarks are incredibly important in TOP as they are used for many mechanics in the fight for easy solves.
 
-## Phase 1
+
+Guide written by Juno
+
+## Phase 1: Omega
 
 {: .tanks }
 > It is very important in this phase to keep Omega in the center of the arena.
@@ -90,7 +93,7 @@ Omega will then cast two tank buster cleaves on the two furthest players, and 6 
 
 After this Omega will cast **Atomic Ray**, it's enrage.
 
-## Phase 2
+## Phase 2: Omega-M & F
 
 {: .tanks }
 > Rampart can be cast as Omega "jumps", allowing a usage during the opening tank buster and in Limitless Synergy
@@ -195,9 +198,20 @@ Players must spread according to their debuff and priority, with the stacks and 
 Two sets of **Arms** will appear that will cause large circular AOEs, as well as a cascading donut AOE (Wave Repeater) originating from the center. To resolve this, players will dodge Wave Repeater by moving in and out from the edge of the arena, and then dodging into the first arm explosion where they will take their spread or stack. **video**
 
 {: .note }
-> Using sprint can help make the 2->1 dodge easier, but isn't required.
+> Using **sprint** can help make the 2->1 dodge easier, but isn't required.
 
-## Phase 3
+## Phase 3: Reconfigured Omega
+Coming Soon
+
+## Phase 4: Blue Screen
+Coming Soon
+
+## Phase 5: Dynamis M & F - (Run:Dynamis)
+Coming Soon
+
+## Phase 6: Alpha Omega
+Coming Soon
+
 
 
 
