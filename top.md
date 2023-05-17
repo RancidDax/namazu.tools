@@ -40,7 +40,7 @@ Add Macro Here
 
 ### Cheatsheet
 
-<a href="https://media.discordapp.net/attachments/1068375437346091069/1102446800243273790/OCE_TOP_Cheat_Sheet_Alt.jpg" target="_blank"><img src="https://media.discordapp.net/attachments/1068375437346091069/1102446800243273790/OCE_TOP_Cheat_Sheet_Alt.jpg"></img></a>
+<a href="https://media.discordapp.net/attachments/1068375437346091069/1102446800243273790/OCE_TOP_Cheat_Sheet_Alt.jpg" target="_blank"><img src="https://media.discordapp.net/attachments/1068375437346091069/1102446800243273790/OCE_TOP_Cheat_Sheet_Alt.jpg"></a>
 
 ### Waymarks
 Waymarks are incredibly important in TOP as they are used for many mechanics in the fight for easy solves.
