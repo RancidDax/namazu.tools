@@ -96,7 +96,7 @@ Phase 2 begins and Omega-M and Omega-F will spawn.
 > 
 > 2 minute raid buffs should be used either before they are targetable or on the 1st GCD.
 
-Omega-M and F will then cast **Firewall**, targeting the 4 closest players to each boss. If a player is close to M they will be inflicted with **Packet Filter F** (can maybe make this a glossary instead of explaining it) and be unable to damage Omega-F. If a player is close to F the opposite happens. 
+Omega-M and F will then cast **Firewall**, targeting the 4 closest players to each boss. If a player is close to M they will be inflicted with **Packet Filter F** and be unable to damage Omega-F. If a player is close to F the opposite happens. 
 
 The party will split up into light parties for this so each boss will have a healer, tank, and two DPS able to damage it.
 
@@ -108,14 +108,16 @@ Omega-M and Omega-F will then cast:
 
 Both bosses will become untargetable and disappear as the mechanic begins. 
 
-Each player is inflicted with either **Mid Glitch** or **Remote Glitch**. Each player is also assigned 1 of 4 coloured shapes above their head, with two of each. 
+The party is inflicted with either **Mid Glitch** or **Remote Glitch**. Each player is also assigned 1 of 4 coloured symbols above their head, with two of each. 
 
 {: .everyone }
-> The party should line-up from East to West as seen in the cheatsheet. The furthest left shape of a pair will be designated as light party 1, whilst the furthest right will be designated light party 2.
+> The party should line-up from East to West as seen in the cheatsheet. 
+> 
+> The furthest left symbol of a pair will be designated as light party 1, whilst the furthest right will be designated light party 2.
 
-At the same time, **Omega's Eye** will spawn on a random cardinal/intercardinal. **This will be designated as relative north**
+At the same time, **Omega's Eye** will spawn on a random cardinal/intercardinal. **This will be designated as relative north**.
 
-4 clones will then spawn around the center of the arena, 2 Omega-M, and 2 Omega-F. An Omega-M and Omega-F pair will always be facing eachother and should be focused on. These two will perform two sets of AOEs that are dependant on the weapons they are holding.
+Clones will then spawn around the center of the arena, 2 Omega-M, and 2 Omega-F. An Omega-M and Omega-F pair will always be facing eachother and should be focused on. These two will perform two sets of AOEs that are dependant on the weapons they are holding.
 
 The possible combinations are:
 
@@ -125,7 +127,7 @@ F - Skates | M - Shield
 F - Skates | M - Sword
 
 {: .note }
-> The "cursed" pattern (F-Staff | M-Shield) can be easily resolved by using the edges of the waymarks eitherside of the male.
+> The "cursed" pattern (F-Staff & M-Shield) can be easily resolved by using the edges of the waymarks eitherside of the male.
 > 
 > These waymarks also help to position during Mid/Remote Glitch.
 
