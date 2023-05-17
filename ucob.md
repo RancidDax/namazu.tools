@@ -254,9 +254,28 @@ Through the phase Nael will say various quotes, these are indicators for upcomin
 - Fleeting light! 'Neath the red moon, scorch you the earth! = {% glossary Dalamud Dive %} → {% glossary Thermionic Beam %}
 - Fleeting light! Amid a rain of stars, exalt you the red moon! = {% glossary Meteor Stream %} → {% glossary Dalamud Dive %}
 
+Quotes come in pairs, either one of the two can happen and you need to be able to read the quote to identify them. It is easier to remember them when you break them down to pairs of two possible mechanics.
 
-At the start of the phase, a pillar will drop in the middle with a death zone around it. Pillar will drop into the ground and send out two waves of cones.
-Two sets of dives go off during this where each player will be hit by a small AOE, taking two is fatal, spread out to avoid being hit. The pillar will dissapear and Nael will drop down on the tank.
+Quote 1:
+IN → STACK
+IN → SPREAD
+
+Quote 2:
+STACK → IN
+STACK → OUT
+
+Quote 3: 
+SPREAD → IN
+SPREAD → OUT
+
+QUOTE 4:
+TANKBUSTER DIVE → STACK
+SPREAD → TANKBUSTER DIVE
+
+*Don't tell yoshi-p but there are some good tools to help quickly translate quotes to more understandable mechanics...*
+
+### Phase Timeline
+Coming Soon
 
 ## Phase 3: Bahamut
 Coming Soon
