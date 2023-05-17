@@ -10,7 +10,7 @@ aux_links:
 
 favicon_ico: "/assets/images/favicon.ico"
 
-color_scheme: namastyle
+color_scheme: namastyle-dark
 
 emoji:
   src: "/assets/images/emoji"
