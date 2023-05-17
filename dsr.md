@@ -48,4 +48,7 @@ Add Macro Here
 
 ### Cheatsheet
 
-[![](https://cdn.discordapp.com/attachments/1045899020536651796/1062243565356466237/DSR_Materia_Strats_Cheat_Sheet.jpg)](https://cdn.discordapp.com/attachments/1045899020536651796/1062243565356466237/DSR_Materia_Strats_Cheat_Sheet.jpg)
+<details markdown=1>
+<summary>View Cheatsheet</summary>
+<a href="https://cdn.discordapp.com/attachments/1045899020536651796/1062243565356466237/DSR_Materia_Strats_Cheat_Sheet.jpg" target="_blank"><img src="https://cdn.discordapp.com/attachments/1045899020536651796/1062243565356466237/DSR_Materia_Strats_Cheat_Sheet.jpg"></a>
+</details>
