@@ -13,6 +13,10 @@ parent: Ultimates
 MUR Strats 
 {: .label .label-purple }
 
+### Toolboxes
+
+[Phase 1: Knights](https://ff14.toolboxgaming.space/?id=199680719834861&preview=1){: .btn .btn-blue }
+[Phase 2: Thordan](https://ff14.toolboxgaming.space/?id=199680719834861&preview=1){: .btn .btn-blue }
 
 ### PoVs
 
@@ -30,14 +34,22 @@ Mitigation Plan Spreadsheet
 <details markdown=1>
 <summary>View All Macros</summary>
 
-**Macro 1**
+**Playstation Chains**
 ```
-Add Macro Here
+――【Playstation chains】――――――――――――――――――
+　　D△  T× T□
+　　D〇　 　D〇　west: D1>2>3>4: east
+　　D□  H×  H△
 ```
 
-**Macro 2**
+**Haurchefant**
 ```
-Add Macro Here
+――【Haurchefant】――――――――――――――――――
+　　　cleave　cleave　　　※ cleaves towards
+　　H/R AoE ★ T/M AoE　　　ring (True South)
+　　　　　 party
+　East cleaves: H1 > D1 > D3 > MT
+　West cleaves: H2 > D2 > D4 > ST
 ```
 
 </details>
