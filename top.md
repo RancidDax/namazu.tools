@@ -237,16 +237,16 @@ For those interested I've attached the ignorable debuffs in the dropdown below:
 <details markdown=1>
 <summary>Hello World Debuffs</summary>
 
-**Cascading Latent Defect**
+**Cascading Latent Defect** <img src="./assets/images/icons/latent cascade.png" class="bufficon">
 > Received from soaking a red puddle. Cleansed by allowing **Critical Underflow Bug** to expire. Failing to do so will wipe the raid.
 
-**Latent Performance Defect**
+**Latent Performance Defect** <img src="./assets/images/icons/latent performance defect.png" class="bufficon">
 > Received from soaking a blue puddle. Cleansed by allowing **Critical Performance Bug** to expire. Failing to do so will wipe the raid.
 
-**Latent Defect**
+**Latent Defect** <img src="./assets/images/icons/latent defect.png" class="bufficon">
 > Players must take damage before the debuff expires or they will die. This is assigned to **Christmas Tether** players.
 
-**Latent Synchronization Bug**
+**Latent Synchronization Bug** <img src="./assets/images/icons/latent synch.png" class="bufficon">
 > Must be hit by **Critical Synchronization Bug** to remove. Failure to do so results in death.
 
 </details>
@@ -254,15 +254,15 @@ For those interested I've attached the ignorable debuffs in the dropdown below:
 However, to actually resolve the mechanic we only care about 5 of them:
 
 - **Critical Underflow Bug** (aka Red Rot) <img src="./assets/images/icons/Red Rot.webp" class="bufficon">
-- **Critical Performance Bug** (aka Blue Rot)
+- **Critical Performance Bug** (aka Blue Rot) <img src="./assets/images/icons/Blue Rot.webp" class="bufficon">
 - **Critical Overflow Bug** (aka Defamation) <img src="./assets/images/icons/Defamation.webp" class="bufficon">
 - **Critical Synchronization Bug** (aka Stack) <img src="./assets/images/icons/Stack (HW).webp" class="bufficon">
-- **Local Code Smell/Local Regression** (aka Christmas Tether)
-- **Remote Code Smell/Remote Regression** (aka Blue Tether)
+- **Local Code Smell/Local Regression** (aka Christmas Tether) <img src="./assets/images/icons/local regression.png" class="bufficon">
+- **Remote Code Smell/Remote Regression** (aka Blue Tether) <img src="./assets/images/icons/remote regression.png" class="bufficon">
 
 Throughout the phase, each player will have to get each of these debuffs. Once you have received and resolved your debuff, you will become immune to getting it again.
 
-Omega will then begin casting **Latent Defect**, causing 2 red and 2 blue puddles to spawn. The corresponding rot players will have to soak these puddles. As rot passes on contact, these players should be extremely cautious getting to their positions
+Upon casting **Latent Defect**, 2 red and 2 blue puddles spawn on opposite sides of the arena. The corresponding coloured rot players will have to soak these puddles. As rot passes on contact, these players should be extremely cautious getting to their positions
 
 **Critical Overflow Bug** and **Critical Synchronization Bug** are assigned randomly to one colour of rot. This will persist through the rest of the mechanic such that if red is defamation to begin with, red will be defamation for the remainder of the mechanic.
 
