@@ -38,12 +38,9 @@ TODO: Insert waymark code here.
 Guide written by Juno
 
 ### Table of Contents
-- [Phase 1: Omega](/top#phase-1-omega)
-- [Phase 2: Omega-M & F](/top#phase-2-omega-m--f)
-- [Phase 3: Reconfigured Omega](/top.html#phase-3-reconfigured-omega)
-- [Phase 4: Blue Screen](/top.html#phase-3-reconfigured-omega)
-- [Phase 5: Dynamis M & F - (Run:Dynamis)](/top.html#phase-5-dynamis-m--f---rundynamis)
-- [Phase 6: Alpha Omega](/top.html#phase-6-alpha-omega)
+
+1. TOC
+{:toc}
 
 ## Phase 1: Omega
 
