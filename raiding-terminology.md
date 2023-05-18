@@ -11,10 +11,19 @@ There are many unusual terms and words used in FF14 raid guides, here we try to 
 Area-of-Effect, typically used to describe any mechanic or ability which affects multiple enemies/players in an area. Players will use AOE abilites in a dungeon to deal damage to multiple foes at once.
 
 ## CHARIOT
-(explanation needed)
+A large circular AOE that surrounds the boss.
+
+## DYNAMO
+A large donut AOE that surrounds the boss.
 
 ## DEFAMATION
-(explanation needed)
+A large circular AOE that is centered on a player. 
+
+## PROTEAN
+Cone AOEs that are targeted at several/all players in a raid.
+
+## EXAFLARE
+Delayed, sequential attacks that move in a direction. Only the first explosion is marked.
 
 ## ENUMS
 A mechanic which requires a specific number of players to soak a mechanic, similar to STACK/SOAK but with a specific number of players.
