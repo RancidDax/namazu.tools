@@ -9,6 +9,7 @@ parent: Ultimates
 <img src="./assets/images/ultima.webp" alt="Ultima Weapon" width="150px" style="float: right">
 
 # The Weapons Refrain
+{: .no_toc }
 
 MUR Strats v
 {: .label .label-purple }
@@ -21,11 +22,13 @@ This fight is commonly referred to as **UWU** for *Ultima Weapon: Ultimate*, and
 The fight will see you squaring off against Garuda, Ifrit and Titan before completing a LB3-filled intermission with Lahabrea before facing the Ultima Weapon itself, angrier than ever.
 
 ### Credits
+{: .no_toc }
 Written Guide by Em'gram
 Toolboxes by MUR
 PoVs by Kur Rumi
 
 ### Toolboxes
+{: .no_toc }
 
 Toolboxes are an interactive guide that allows you to click through each phase indiviudally and review the mechanics in a easy to understand manner.
 UWU has multiple Toolboxes, each are listed here in order of phases in the fight.
@@ -39,11 +42,13 @@ UWU has multiple Toolboxes, each are listed here in order of phases in the fight
 [Suppression](https://ff14.toolboxgaming.space/?id=192261294862561&preview=1){: .btn .btn-blue }
 
 ### Waymarks
+{: .no_toc }
 These can be imported using an XIV Launcher Plugin.
 
 [Waymarks Pastebin](https://pastebin.com/KvHDCE6e){: .btn }
 
 ### PoV Videos
+{: .no_toc }
 by Kur Rumi
 
 [DPS](https://www.youtube.com/watch?v=tD4w2xntOaI){: .btn }
@@ -51,6 +56,7 @@ by Kur Rumi
 [Tank](https://www.youtube.com/watch?v=vcBajEouNNI&t){: .btn }
 
 ### Macros
+{: .no_toc }
 
 <details markdown=1>
 <summary>View All Macros</summary>
@@ -116,21 +122,22 @@ D3                                D4
 </details>
 
 ### Puddles (Candy)
+{: .no_toc }
 Throughout the first 3 phases, you will be aiming to complete special requirements to **Awaken** all three primals, once awoken their mechanics may change and they will drop a puddle (Candy) when they die, this must be picked up in a specific order, these will give you extra LB3's later which are required to clear the fight.
 
 **Healer (Garuda) > Caster (Ifrit) > Melee (Titan)**
 
 # Phase Summaries
+{: .no_toc }
 
 ## Table of Contents
-- [Phase 1: Garuda](/uwu#phase-1-garuda)
-- [Phase 2: Ifrit](/uwu#phase-2-ifrit)
-- [Phase 3: Titan](/uwu#phase-3-titan)
-- [Phase 4: Lahabrea](/uwu#phase-4-lahabread)
-- [Phase 5.1: Predation](/uwu#phase-51-predation)
-- [Phase 5.2: Annihilation](/uwu#phase-52-annihilation)
-- [Phase 5.3: Suppression](/uwu#phase-53-suppression)
-- [Phase 5.4: Roulette](/uwu#phase-54-roulette)
+{: .no_toc }
+
+<details open markdown="block">
+<summary>View Table of Contents</summary>
+1. TOC
+{:toc}
+</details>
 
 ## Phase 1: Garuda
 [Toolbox](https://ff14.toolboxgaming.space/?id=882261013862561&preview=1){: .btn .btn-blue }

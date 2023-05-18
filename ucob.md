@@ -9,6 +9,7 @@ parent: Ultimates
 <img src="./assets/images/goldenbaha.png" alt="Bahamut" width="150px" style="float: right">
 
 # The Unending Coil of Bahamut
+{: .no_toc }
 
 MUR Strats 
 {: .label .label-purple }
@@ -18,16 +19,19 @@ This guide is based of the original and very detailed guide by Clees, which can 
 [Clees Guide](https://clees.me/guides/ucob/){: .btn .btn-purple }
 
 ### Credits
+{: .no_toc }
 Written Guide by Em'gram
 PoVs by Kur Rumi
 
 ### PoVs
+{: .no_toc }
 
 [DPS](https://www.youtube.com/watch?v=nYFW4YKTk-8){: .btn }
 [Healer](https://www.youtube.com/watch?v=wfVuqFvT0AE){: .btn }
 [Tank](https://www.youtube.com/watch?v=4R_b3AauWGk){: .btn }
 
 ### Macros
+{: .no_toc }
 
 <details markdown=1>
 <summary>View All Macros</summary>
@@ -139,6 +143,15 @@ Golden Bahamut Mits
 ==========================================
 ```
 
+</details>
+
+### Table of Contents
+{: .no_toc }
+
+<details open markdown="block">
+<summary>View Table of Contents</summary>
+1. TOC
+{:toc}
 </details>
 
 ## Phase 1: Twintania
