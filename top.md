@@ -10,9 +10,6 @@ parent: Ultimates
 
 # The Omega Protocol
 
-MUR Strats 
-{: .label .label-purple }
-
 ### Credits
 - Written guide by Juno
 - Diagrams by Bird, MUR
