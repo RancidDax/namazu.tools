@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Raid Terminology
+title: Raiding Terminology
 ---
 
 # Raid Terminology Glossary
