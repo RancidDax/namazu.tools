@@ -10,10 +10,11 @@ There are many unusual terms and words used in FF14 raid guides, here we try to 
 ## AOE
 Area-of-Effect, typically used to describe any mechanic or ability which affects multiple enemies/players in an area. Players will use AOE abilites in a dungeon to deal damage to multiple foes at once.
 
-## Telegraph/Broadcast
-The term usually used to describe the indicators we can see before a mechanic goes off, usually orange circles or lines on the ground, but can also be things that appear above players/enemies heads or any other indicator that shows you what is about to happen.
+## CHARIOT
+<explanation needed>
 
-Commonly in Ultimates, many mechanics will NOT telegraph, you instead need to look at castbars or other indicators.
+## DEFAMATION
+<explanation needed>
 
 ## ENUMS
 A mechanic which requires a specific number of players to soak a mechanic, similar to STACK/SOAK but with a specific number of players.
@@ -35,3 +36,9 @@ Side Tank, the other tank, same as OT. Commonly used in JP.
 
 ## SPREAD
 A mechanic that requires party members to spread out to prevent overlapping damage.
+
+## TELEGRAPH or BROADCAST
+The term usually used to describe the indicators we can see before a mechanic goes off, usually orange circles or lines on the ground, but can also be things that appear above players/enemies heads or any other indicator that shows you what is about to happen.
+
+Commonly in Ultimates, many mechanics will NOT telegraph, you instead need to look at castbars or other indicators.
+
