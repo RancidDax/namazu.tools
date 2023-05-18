@@ -19,12 +19,14 @@ parent: Ultimates
 ### PoVs
 {: .no_toc }
 
+
 [DPS](ADD LINK HERE){: .btn }
 [Healer](ADD LINK HERE){: .btn }
 [Tank](ADD LINK HERE){: .btn }
 
 ### Cheatsheet
 {: .no_toc }
+
 
 <details= markdown=1>
 <summary>View Cheatsheet</summary>
@@ -47,6 +49,7 @@ Guide written by Juno
 {: .no_toc }
 
 <details open markdown="block">
+<summary>View Table of Contents</summary>
 1. TOC
 {:toc}
 </details>
