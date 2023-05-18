@@ -13,14 +13,15 @@ parent: Ultimates
 MUR Strats 
 {: .label .label-purple }
 
-## General Resources and Links
-
 This guide is based of the original and very detailed guide by Clees, which can be found below:
 
 [Clees Guide](https://clees.me/guides/ucob/){: .btn .btn-purple }
 
+### Credits
+Written Guide by Em'gram
+PoVs by Kur Rumi
+
 ### PoVs
-By Kur Rumi
 
 [DPS](https://www.youtube.com/watch?v=nYFW4YKTk-8){: .btn }
 [Healer](https://www.youtube.com/watch?v=wfVuqFvT0AE){: .btn }

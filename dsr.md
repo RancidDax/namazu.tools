@@ -13,10 +13,6 @@ parent: Ultimates
 MUR Strats 
 {: .label .label-purple }
 
-## General Resources and Links
-Guides and resources based on MUR strats and the following pastebin.
-
-[DSR Pastebin](https://pastebin.com/98bWNGmT){: .btn .btn-purple }
 
 ### PoVs
 

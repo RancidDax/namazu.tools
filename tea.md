@@ -13,7 +13,10 @@ parent: Ultimates
 MUR Strats 
 {: .label .label-purple }
 
-## General Resources and Links
+### Credits
+Toolboxes by MUR
+PoVs by Kur Rumi
+Cheatsheets by MUR and Em'gram
 
 ### Toolboxes
 
