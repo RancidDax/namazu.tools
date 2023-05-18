@@ -30,5 +30,8 @@ Point-Blank Area-of-Effect, usually an enemy ability that causes a large AOE dam
 ## STACK/SOAK
 A mechanic that requires the party or a number of players to stand together to share the damage taken.
 
+## ST
+Side Tank, the other tank, same as OT. Commonly used in JP.
+
 ## SPREAD
 A mechanic that requires party members to spread out to prevent overlapping damage.
