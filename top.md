@@ -10,33 +10,15 @@ parent: Ultimates
 
 # The Omega Protocol
 
-MUR Strats 
-{: .label .label-purple }
-
-## General Resources and Links
+### Credits
+- Written guide by Juno
+- Diagrams by Bird, MUR
 
 ### PoVs
 
 [DPS](ADD LINK HERE){: .btn }
 [Healer](ADD LINK HERE){: .btn }
 [Tank](ADD LINK HERE){: .btn }
-
-### Macros
-
-<details markdown=1>
-<summary>View All Macros</summary>
-
-**Macro 1**
-```
-Add Macro Here
-```
-
-**Macro 2**
-```
-Add Macro Here
-```
-
-</details>
 
 ### Cheatsheet
 
@@ -47,6 +29,10 @@ Add Macro Here
 
 ### Waymarks
 Waymarks are incredibly important in TOP as they are used for many mechanics in the fight for easy solves.
+
+```
+TODO: Insert waymark code here.
+```
 
 ## Fight Summary
 Guide written by Juno

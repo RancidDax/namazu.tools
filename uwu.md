@@ -20,7 +20,10 @@ This fight is commonly referred to as **UWU** for *Ultima Weapon: Ultimate*, and
 
 The fight will see you squaring off against Garuda, Ifrit and Titan before completing a LB3-filled intermission with Lahabrea before facing the Ultima Weapon itself, angrier than ever.
 
-## General Notes & Resources
+### Credits
+Written Guide by Em'gram
+Toolboxes by MUR
+PoVs by Kur Rumi
 
 ### Toolboxes
 

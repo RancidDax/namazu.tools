@@ -13,10 +13,6 @@ parent: Ultimates
 MUR Strats 
 {: .label .label-purple }
 
-## General Resources and Links
-Guides and resources based on MUR strats and the following pastebin.
-
-[DSR Pastebin](https://pastebin.com/98bWNGmT){: .btn .btn-purple }
 
 ### PoVs
 
@@ -52,3 +48,6 @@ Add Macro Here
 <summary>View Cheatsheet</summary>
 <a href="https://cdn.discordapp.com/attachments/1045899020536651796/1062243565356466237/DSR_Materia_Strats_Cheat_Sheet.jpg" target="_blank"><img src="https://cdn.discordapp.com/attachments/1045899020536651796/1062243565356466237/DSR_Materia_Strats_Cheat_Sheet.jpg"></a>
 </details>
+
+## Fight Writeup
+<coming soon>
