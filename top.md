@@ -13,30 +13,15 @@ parent: Ultimates
 MUR Strats 
 {: .label .label-purple }
 
-## General Resources and Links
+### Credits
+- Written guide by Juno
+- Diagrams by Bird, MUR
 
 ### PoVs
 
 [DPS](ADD LINK HERE){: .btn }
 [Healer](ADD LINK HERE){: .btn }
 [Tank](ADD LINK HERE){: .btn }
-
-### Macros
-
-<details markdown=1>
-<summary>View All Macros</summary>
-
-**Macro 1**
-```
-Add Macro Here
-```
-
-**Macro 2**
-```
-Add Macro Here
-```
-
-</details>
 
 ### Cheatsheet
 
