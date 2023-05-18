@@ -19,7 +19,6 @@ parent: Ultimates
 ### PoVs
 {: .no_toc }
 
-
 [DPS](ADD LINK HERE){: .btn }
 [Healer](ADD LINK HERE){: .btn }
 [Tank](ADD LINK HERE){: .btn }
@@ -27,8 +26,7 @@ parent: Ultimates
 ### Cheatsheet
 {: .no_toc }
 
-
-<details= markdown=1>
+<details markdown=1>
 <summary>View Cheatsheet</summary>
 <a href="https://media.discordapp.net/attachments/1068375437346091069/1102446800243273790/OCE_TOP_Cheat_Sheet_Alt.jpg" target="_blank"><img src="https://media.discordapp.net/attachments/1068375437346091069/1102446800243273790/OCE_TOP_Cheat_Sheet_Alt.jpg"></a>
 </details>
