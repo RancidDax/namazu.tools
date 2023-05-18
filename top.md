@@ -68,9 +68,9 @@ The phase begins with heavy hitting auto-attacks before starting the first mecha
 
 ### Program Loop
 
-Program loop begins with each player being assigned a number from 1 to 4, with two of each across the party. This mechanic requires 4 sets of 2 towers to be soaked in a sequential order **(1->2->3->4)** that will deal significant damage to the player inside. 
+Program loop begins with each player being assigned a number from 1 to 4, with two of each across the party. This mechanic requires 4 sets of 2 towers to be soaked in a sequential order **(<img src="./assets/images/icons/first-in-line.png" class="bufficon"> → <img src="./assets/images/icons/second-in-line.png" class="bufficon"> → <img src="./assets/images/icons/third-in-line.png" class="bufficon"> → <img src="./assets/images/icons/fourth-in-line.png" class="bufficon">)** that will deal significant damage to the player inside. 
 
-For each set of towers that needs to be soaked, two tethers must be taken by two players and taken away from the towers in the order **(3->4->1->2)**.
+For each set of towers that needs to be soaked, two tethers must be taken by two players and taken away from the towers in the order **(<img src="./assets/images/icons/third-in-line.png" class="bufficon"> → <img src="./assets/images/icons/fourth-in-line.png" class="bufficon"> → <img src="./assets/images/icons/first-in-line.png" class="bufficon"> → <img src="./assets/images/icons/second-in-line.png" class="bufficon">)**.
 
 These tethers will explode in a large AOE on the targeted player and inflict a HP penalty debuff which will wear off after 10 seconds. 
 
@@ -128,7 +128,7 @@ Omega-M and Omega-F will then cast:
 
 Both bosses will become untargetable and disappear as the mechanic begins. 
 
-The party is inflicted with either **Mid Glitch** or **Remote Glitch**. Each player is also assigned 1 of 4 coloured symbols above their head, with two of each. 
+The party is inflicted with either **Mid Glitch** <img src="./assets/images/icons/mid-glitch.png" class="bufficon">  or **Remote Glitch** <img src="./assets/images/icons/remote-glitch.png" class="bufficon">. Each player is also assigned 1 of 4 coloured symbols above their head, with two of each. 
 
 {: .everyone }
 > The party should line-up from East to West as seen in the cheatsheet. 
@@ -209,7 +209,7 @@ Upon defeating Omega-F, the transition begins:
 {: .healers }
 > To survive this transition the party must have *at least* a barrier healer's shield covering the hits.
 
-The debuffs assigned will target 4 players with **Sniper Cannon Fodder** (spread), 2 players with **High-powered Sniper Cannon Fodder** (stack) and 2 players will not be assigned a debuff.
+The debuffs assigned will target 4 players with **Sniper Cannon Fodder** (spread) <img src="./assets/images/icons/sniper.png" class="bufficon">, 2 players with **High-powered Sniper Cannon Fodder** (stack) <img src="./assets/images/icons/high-power-sniper.png" class="bufficon"> and 2 players will not be assigned a debuff.
 
 Players must spread according to their debuff and priority, with the stacks and non-debuff players along the south edge of the arena, and the spread players along the north edge.
 
@@ -254,7 +254,7 @@ For those interested I've attached the ignorable debuffs in the dropdown below:
 However, to actually resolve the mechanic we only care about 5 of them:
 
 - **Critical Underflow Bug** (aka Red Rot) <img src="./assets/images/icons/Red Rot.webp" class="bufficon">
-- **Critical Performance Bug** (aka Blue Rot) <img src="./assets/images/icons/Blue Rot.webp" class="bufficon">
+- **Critical Performance Bug** (aka Blue Rot) <img src="./assets/images/icons/Blue Rot.png" class="bufficon">
 - **Critical Overflow Bug** (aka Defamation) <img src="./assets/images/icons/Defamation.webp" class="bufficon">
 - **Critical Synchronization Bug** (aka Stack) <img src="./assets/images/icons/Stack (HW).webp" class="bufficon">
 - **Local Code Smell/Local Regression** (aka Christmas Tether) <img src="./assets/images/icons/local regression.png" class="bufficon">
