@@ -355,7 +355,7 @@ Two **Blue Tether Players** will also receive **Hello, Distant World** and **Hel
 
 [![](https://github.com/RancidDax/namazu.tools/assets/104756079/1d95a258-2f1d-4b07-9c57-42f650ce9b60)](https://github.com/RancidDax/namazu.tools/assets/104756079/1d95a258-2f1d-4b07-9c57-42f650ce9b60)
 
-Much like phase 3, breaking tethers results in a **large raid-wide hit** as well as inflicting **Thrice-come Ruin** on the party. However if the tether debuffs expire the party is killed. As such, we want to gradually break all 4 throughout the course of the mechanic so that the damage does not kill the party, but that we are also still able to still solve the mechanic.
+Much like phase 3, breaking tethers results in a **large raid-wide hit** as well as inflicting **Thrice-come Ruin** on the party. However if the tether debuffs expire the party is killed. As such, we want to gradually break all 4 throughout the course of the mechanic so that the damage does not kill the party whilst not letting the tethers expire.
 
 As the tethers are still **inactive**, the **Outer Blue Tether** will stretch so that it will break immediately upon becoming active.
 
@@ -394,11 +394,27 @@ After the Monitors resolve, **Beetle Omega** will cleave one side of the arena w
 Omega-M will then do another tank buster which the OT will invuln, before casting:
 
 ### Run: Dynamis (Sigma Version)
-Coming Soon 
+
+{: .note }
+> MUR employs blasphemous strategies of using AMs (they're actually really nice for the last trio), that simplifies the **Hello World** section of Sigma. However, it's pretty straightforward without them.
+
+At the beginning of Sigma, each player will be assigned 1 of 4 symbols and be inflicted with **Mid Glitch** or **Remote Glitch**, identical to **Party Synergy**. Two players will also be assigned a **Hello, Distant World** and **Hello, Near World** debuff. Two **Arms** will then spawn eitherside of a random cardinal/intercardinal and attach tethers to the two **furthest players** away from them. Directly opposite this is where **Omega-F** will spawn, where the party will move to line up as seen in the MUR cheatsheet.
+
+Players will then be assigned targeting markers on their head for a line AOE, such that **2 pairs will have 2 markers**, and **2 pairs will have 1 marker**. The 2 players with **no marker**, must be on the **Omega-F relative** North-East and North-West to bait two line AOEs from the Arms.
+
+Players will move to their designated positions, stepping in front of their waymarker for **Mid Glitch**, and moving to the wall for **Remote Glitch**.
+
+As MUR is using the **Waymark strat**, players will remember the waymark they spread to as they come to the middle. **Omega-F** will then knock-back each player, where **Mid/Remote Glitch** will be resolved.  **(images)**
+
+After the towers are soaked, **Final Omega's Blades** will spawn in the center with spinning arrows, and **Omega-F** will appear on a cardinal with either a staff or skates. Three players with 1 **Spark of Hope** stack are sent to the female, and the rest stack on the opposite side of the arena. If **Omega-F** has a **staff**, the players must wait against the edge of the AOE once it starts moving to avoid her cleave. If **Omega-F** has skates, simply chase the AOE after it begins moving.
+
+Players will then move into their **Hello World** positions as seen below:
+
+{: .note }
+> If solved correctly, 4 players will have 1 stack of **Spark of Hope**, and 4 players will have 2 stacks of **Spark of Hope**.
 
 ### Run: Dynamis (Omega Version)
-Coming Soon!
-
+Coming Soon
 
 ## Phase 6: Alpha Omega
 Coming Soon
