@@ -9,25 +9,30 @@ parent: Ultimates
 <img src="./assets/images/alphaomega.webp" alt="Bahamut" width="150" style="float: right">
 
 # The Omega Protocol
+{: .no_toc }
 
 ### Credits
+{: .no_toc }
 - Written guide by Juno
 - Diagrams by Bird, MUR
 
 ### PoVs
+{: .no_toc }
 
 [DPS](ADD LINK HERE){: .btn }
 [Healer](ADD LINK HERE){: .btn }
 [Tank](ADD LINK HERE){: .btn }
 
 ### Cheatsheet
+{: .no_toc }
 
-<details markdown=1>
+<details= markdown=1>
 <summary>View Cheatsheet</summary>
 <a href="https://media.discordapp.net/attachments/1068375437346091069/1102446800243273790/OCE_TOP_Cheat_Sheet_Alt.jpg" target="_blank"><img src="https://media.discordapp.net/attachments/1068375437346091069/1102446800243273790/OCE_TOP_Cheat_Sheet_Alt.jpg"></a>
 </details>
 
 ### Waymarks
+{: .no_toc }
 Waymarks are incredibly important in TOP as they are used for many mechanics in the fight for easy solves.
 
 ```
@@ -35,15 +40,13 @@ TODO: Insert waymark code here.
 ```
 
 ## Fight Summary
+{: .no_toc }
 Guide written by Juno
 
 ### Table of Contents
+{: .no_toc }
 
 <details open markdown="block">
-  <summary>
-    Table of contents
-  </summary>
-  {: .text-delta }
 1. TOC
 {:toc}
 </details>
@@ -370,7 +373,7 @@ After baiting their Arms, **Outer Blue Tethers** will go to the middle to stack 
 After the Monitors resolve, **Beetle Omega** will cleave one side of the arena with a 60% angled cleave. The **Non-debuff Blue Tether Players** will move to the side opposite of **Beetle Omega**. The **Outer Christmas Tethers** will rotate so that the player that is currently within the cleave ends up under Omega, and the **Inner Christmas Tether** will then break their tether as everyone else lines up for **Hello World** as seen below:
 
 [![](https://github.com/RancidDax/namazu.tools/assets/104756079/0a1c5576-830f-4ea1-8d00-5d12a23f06e4)](https://github.com/RancidDax/namazu.tools/assets/104756079/0a1c5576-830f-4ea1-8d00-5d12a23f06e4)
-##### Image by Bird
+*Image by Bird*
 
 {: .warning}
 > **Christmas Tether** breaks must be done at the right time. Due to **Twice-come Ruin** debuffs from **Monitors** and **Pile Pitch**, the first break must be delayed. However, the first **Christmas Tether Players** can use the tether timer and break their tether at 15s as it will always be safe.
