@@ -253,10 +253,10 @@ For those interested I've attached the ignorable debuffs in the dropdown below:
 
 However, to actually resolve the mechanic we only care about 5 of them:
 
-- **Critical Underflow Bug** (aka Red Rot)
+- **Critical Underflow Bug** (aka Red Rot) <img src="./assets/images/icons/Red Rot.webp" class="bufficon">
 - **Critical Performance Bug** (aka Blue Rot)
-- **Critical Overflow Bug** (aka Defamation)
-- **Critical Synchronization Bug** (aka Stack)
+- **Critical Overflow Bug** (aka Defamation) <img src="./assets/images/icons/Defamation.webp" class="bufficon">
+- **Critical Synchronization Bug** (aka Stack) <img src="./assets/images/icons/Stack (HW).webp" class="bufficon">
 - **Local Code Smell/Local Regression** (aka Christmas Tether)
 - **Remote Code Smell/Remote Regression** (aka Blue Tether)
 
@@ -275,7 +275,7 @@ Omega will then begin casting **Latent Defect**, causing 2 red and 2 blue puddle
 > 
 > All players should never pass through the direct center of the arena to avoid walking through the H2 player.
 
-Tethers players will initially have an "inactive" buff, meaning that they can be any distance away from eachother without causing it to break. Once their tether becomes active, if **Blue Tethers** move far apart, the tether will break, and if **Christmas Tethers** move close together, their tether will break. Both breaks cause **high raid-wide** "patch" damage and a **Thrice-come Ruin debuff** to be inflicted on each player.
+Tethers players will initially have an "inactive" buff, meaning that they can be any distance away from eachother without causing it to break. Once their tether becomes active, if **Blue Tethers** move far apart, the tether will break, and if **Christmas Tethers** move close together, their tether will break. Both breaks cause **high raid-wide** "patch" damage and a **Thrice-come Ruin debuff** <img src="./assets/images/icons/Thrice come Ruin.webp" class="bufficon"> to be inflicted on each player.
 
 Failing to break a tether before it expires results in a wipe.
 
