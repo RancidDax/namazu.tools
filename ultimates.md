@@ -8,4 +8,4 @@ has_children: true
 
 Use the following links to find guides for each current **Ultimate Raid**.
 
-<div><a href="./UWU"><img src="./assets/images/banners/UWU.png"></a></div>
+<div><a href="./uwu"><img src="./assets/images/banners/UWU.png"></a></div>
