@@ -405,7 +405,7 @@ Player's tower positions are designated by the waymark that they **originally sp
 
 [![](https://github.com/RancidDax/namazu.tools/assets/104756079/8af3cafd-9756-4ef9-a9d5-08c511d9185c)](https://github.com/RancidDax/namazu.tools/assets/104756079/8af3cafd-9756-4ef9-a9d5-08c511d9185c)
 
-> As an example, if my spread position is in line with the **A Waymark**, my tower to soak would be the **A Tower** as shown in the pictures above.
+> As an example, if my spread position is the **A Waymark**, my tower to soak would be the **A Tower** as shown in the pictures above.
 
 **Omega-F** will then move to the center and knock-back each player to their designated tower, where **Mid/Remote Glitch** will be resolved.
 
