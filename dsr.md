@@ -14,6 +14,7 @@ MUR Strats
 {: .label .label-purple }
 
 ### Toolboxes
+Toolboxes are an interactive guide that allows you to click through each phase indiviudally and review the mechanics in a easy to understand manner. DSR has multiple Toolboxes, each are listed here in order of phases in the fight.
 
 [Phase 1: Knights](https://ff14.toolboxgaming.space/?id=199680719834861&preview=1){: .btn .btn-blue }
 [Phase 2: Thordan](https://ff14.toolboxgaming.space/?id=199680719834861&preview=1){: .btn .btn-blue }
