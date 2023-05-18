@@ -335,7 +335,7 @@ After Omega-M becomes targetable, he will immediately cast a tank buster on the 
 After 2 auto-attacks, Omega-M will then cast: 
 
 ### Run: Dynamis (Delta Version)
-I highly recommend looking at the toolbox for this trio as well as reading this guide, as this is a very intensive mechanic that becomes hard to digest through entirely text alone.
+I highly recommend looking at the toolbox for this trio as well as reading this guide. This is a very intensive mechanic that becomes hard to digest through entirely text alone.
 
 {: .healers}
 > This is a very hard hitting mechanic and it becomes difficult to heal due to tethers. When able, healers should be given priority for inner tethers and after the initial monitor hit, players should squeeze in for healing.
@@ -391,17 +391,23 @@ Omega-M will then do another tank buster which the OT will invuln, before castin
 {: .note }
 > MUR employs blasphemous strategies of using AMs (they're actually really nice for the last trio), that simplifies the **Hello World** section of Sigma. However, it's pretty straightforward even without them.
 
-At the beginning of Sigma, each player will be assigned 1 of 4 symbols and be inflicted with **Mid Glitch** or **Remote Glitch**, identical to **Party Synergy**. Two players will also be assigned a **Hello, Distant World** and **Hello, Near World** debuff. Two **Arms** will then spawn eitherside of a random cardinal/intercardinal and attach tethers to the two **furthest players** away from them. Directly opposite this is where **Omega-F** will spawn, where the party will move to line up as seen in the MUR cheatsheet.
+At the beginning of Sigma, each player will be assigned 1 of 4 symbols and be inflicted with **Mid Glitch** or **Remote Glitch**, identical to **Party Synergy**. Two players will also be assigned a **Hello, Distant World** and **Hello, Near World** debuff. Two **Arms** will then spawn eitherside of a random cardinal/intercardinal and attach tethers to the two **furthest players** away from them. Directly opposite this is where **Omega-M** will spawn, where the party will move to line up as seen in the MUR cheatsheet. 
 
-Players will then be assigned targeting markers on their head for a line AOE, such that **2 pairs will have 2 markers**, and **2 pairs will have 1 marker**. The 2 players with **no marker**, must be on the **Omega-F relative** North-East and North-West to bait two line AOEs from the Arms.
+This **Omega-M (or the waymark he is on)** becomes **relative North** for the remainder of the tether mechanic.
 
-Players will move to their designated positions, stepping in front of their waymarker for **Mid Glitch**, and moving to the wall for **Remote Glitch**.
+Six players will then be assigned targeting markers on their head for a line AOE, such that **2 pairs will have 2 markers**, and **2 pairs will have 1 marker**. 
 
-As MUR is using the **Waymark strat**, players will remember the waymark they spread to as they come to the middle. If the party is inflicted with **Mid Glitch** 6 towers in a "smiley face" pattern will spawn, or if inflicted with **Remote Glitch**; 5 towers in a "star" pattern. This pattern will spawn relative to the **Omega-F opposite the Arms**, and can also be flipped vertically. Because these towers must be soaked whilst also **resolving Mid/Remote Glitch**, everyone must take a particular tower. These are designated by the waymark that the player initially spread to: 
+Players will move to their designated positions as seen in the MUR cheatsheet, stepping in front of their waymarker for **Mid Glitch**, and moving to the wall for **Remote Glitch**. The 2 players with **no marker**, must be **relative North-East** and **relative North-West** to bait two line AOEs from the Arms. This is to ensure that none of the players already being targeted get hit and killed.
 
-[![](https://github.com/RancidDax/namazu.tools/assets/104756079/b2cef15f-ae0d-4989-a06d-a943fc34c366)](https://github.com/RancidDax/namazu.tools/assets/104756079/b2cef15f-ae0d-4989-a06d-a943fc34c366)
+After the party spreads and takes their line AOEs, **Omega-M will change to Omega-F** and towers will spawn. If the party is inflicted with **Mid Glitch** 6 towers in a "smiley face" pattern will spawn. If inflicted with **Remote Glitch**, 5 towers in a "star" pattern will spawn. This pattern will spawn relative to the **Relative North Omega-F**, and can also be flipped vertically. Because these towers must be soaked whilst also **resolving Mid/Remote Glitch** everyone must take a particular tower. 
 
-**Omega-F** will then knock-back each player to their designated tower, where **Mid/Remote Glitch** will be resolved.
+Player's tower positions are designated by the waymark that they **originally spread to**:
+
+[![](https://github.com/RancidDax/namazu.tools/assets/104756079/8af3cafd-9756-4ef9-a9d5-08c511d9185c)](https://github.com/RancidDax/namazu.tools/assets/104756079/8af3cafd-9756-4ef9-a9d5-08c511d9185c)
+
+> As an example, if my spread position is in line with the **A Waymark**, my tower to soak would be the **A Tower** as shown in the pictures above.
+
+**Omega-F** will then move to the center and knock-back each player to their designated tower, where **Mid/Remote Glitch** will be resolved.
 
 {: .note }
 > For **Mid Glitch**, players should stand in the middle of their tower. For **Remote Glitch**, each player must stretch as far as possible to satisfy the mechanic.
@@ -413,7 +419,9 @@ Players will then move into their **Hello World** positions as seen below:
 {: .note }
 > If solved correctly, 4 players will have 1 stack of **Spark of Hope**, and 4 players will have 2 stacks of **Spark of Hope**.
 
+**Omega-F** will then spawn in the center and become targetable.
 
+After another tankbuster that the MT invulns, **Omega-F** casts:
 
 ### Run: Dynamis (Omega Version)
 Coming Soon
