@@ -30,6 +30,10 @@ parent: Ultimates
 ### Waymarks
 Waymarks are incredibly important in TOP as they are used for many mechanics in the fight for easy solves.
 
+```
+TODO: Insert waymark code here.
+```
+
 ## Fight Summary
 Guide written by Juno
 
