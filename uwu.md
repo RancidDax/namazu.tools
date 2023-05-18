@@ -146,6 +146,8 @@ Throughout the first 3 phases, you will be aiming to complete special requiremen
 
 {: .everyone }
 > {% glossary Feather Rain %} Garuda will make a shriek sound and without any castbar, feathers will drop on all players, this will happen many times during the fight.
+>
+> **Friction** garuda casts a small heavy Soak on a single target, applying friction to anyone hit who is outside the Spiny Plume Bubble. Party needs to be tightly stacked.
 
 {: .tanks }
 > {% glossary Slipstream %} A dodge-able cleave, be careful not to face this into the party.
@@ -164,10 +166,13 @@ STOP {% glossary AOE %} IMMEDIATELY. The Spiny plume will become fixated on the 
 
 Once the plumes have gathered on the party, {% glossary AOE %} them down leaving the Spiny plume with some health left (aim for 25%ish).
 
-After {% glossary Feather Rain %}, wait for {% glossary OT %} to take second hit from Spiny Plume, then kill the plume to spawn a bubble, party can then move into this ready for cleanses.
+After {% glossary Feather Rain %}, wait for {% glossary OT %} to take second hit from Spiny Plume, then kill the spiny plume to spawn a bubble, party can then move into this ready for cleanses.
 
 ### Cleanses
-The following is a mechanic where we will take turns to gain and cleanse stacks by entering and leaving bubble, the order is very precise and required to be able to clear the fight, if you fail the order but survive the mechanic, you will fail later mechanics.
+The following is a mechanic where we will take turns to gain and cleanse Friction stacks by entering and leaving bubble, the order is very precise and required to be able to clear the fight, if you fail the order but survive the mechanic, you will fail later mechanics. You will gain Friction stacks if you are outside the bubble when Friction hits you. You will lose friction stacks when you enter the bubble dealing a heavy raidwide damage.
+
+{: .tanks }
+You must have two stacks of friction before the Spiny Plume dies, you gain this from the heavy attack from the Spiny Plume.
 
 - Kill spiny plume, everyone except {% glossary OT %} move into bubble.
 - After Raidwide, {% glossary OT %} enter bubble and cleanse stacks.
