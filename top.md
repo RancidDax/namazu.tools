@@ -283,7 +283,7 @@ This mechanic repeats **Latent Defect** a total of 4 times, where for the final 
 
 After rots expire Omega will cast another hard hitting raid wide **Critical Error**, before starting the next mechanic:
 
-## Monitors
+### Monitors
 
 {: .everyone }
 > The party should pre-position in the cheatsheet lineup for monitors to quickly find their spots.
@@ -344,7 +344,7 @@ Omega-M will become untargetable and disappear, **Beetle Omega** and **Final Ome
 
 Two **Blue Tether Players** will also receive **Hello, Distant World** and **Hello, Near World**.
 
-**Blues Tethers** will then go to **Beetle Omega**, and **Christmas Tethers** to **Final Omega**. Both pairs of tethers will line up parallel to the edge of the arena on their side, such that there is a tether closer to the center of the arena (**Inner Tether**), and a tether closer to the edge of the arena (**Outer Tether**). 
+**Blues Tethers** will then go to **Beetle Omega**, and **Christmas Tethers** to **Final Omega**. Both pairs of tethers will line up parallel to the edge of the arena on their respective side. This is so that  there is a tether closer to the center of the arena (**Inner Tether**), and a tether closer to the edge of the arena (**Outer Tether**). 
 
 [![](https://github.com/RancidDax/namazu.tools/assets/104756079/1d95a258-2f1d-4b07-9c57-42f650ce9b60)](https://github.com/RancidDax/namazu.tools/assets/104756079/1d95a258-2f1d-4b07-9c57-42f650ce9b60)
 
@@ -389,7 +389,7 @@ Omega-M will then do another tank buster which the OT will invuln, before castin
 ### Run: Dynamis (Sigma Version)
 
 {: .note }
-> MUR employs blasphemous strategies of using AMs (they're actually really nice for the last trio), that simplifies the **Hello World** section of Sigma. However, it's pretty straightforward without them.
+> MUR employs blasphemous strategies of using AMs (they're actually really nice for the last trio), that simplifies the **Hello World** section of Sigma. However, it's pretty straightforward even without them.
 
 At the beginning of Sigma, each player will be assigned 1 of 4 symbols and be inflicted with **Mid Glitch** or **Remote Glitch**, identical to **Party Synergy**. Two players will also be assigned a **Hello, Distant World** and **Hello, Near World** debuff. Two **Arms** will then spawn eitherside of a random cardinal/intercardinal and attach tethers to the two **furthest players** away from them. Directly opposite this is where **Omega-F** will spawn, where the party will move to line up as seen in the MUR cheatsheet.
 
@@ -397,14 +397,23 @@ Players will then be assigned targeting markers on their head for a line AOE, su
 
 Players will move to their designated positions, stepping in front of their waymarker for **Mid Glitch**, and moving to the wall for **Remote Glitch**.
 
-As MUR is using the **Waymark strat**, players will remember the waymark they spread to as they come to the middle. **Omega-F** will then knock-back each player, where **Mid/Remote Glitch** will be resolved.  **(images)**
+As MUR is using the **Waymark strat**, players will remember the waymark they spread to as they come to the middle. If the party is inflicted with **Mid Glitch** 6 towers in a "smiley face" pattern will spawn, or if inflicted with **Remote Glitch**; 5 towers in a "star" pattern. This pattern will spawn relative to the **Omega-F opposite the Arms**, and can also be flipped vertically. Because these towers must be soaked whilst also **resolving Mid/Remote Glitch**, everyone must take a particular tower. These are designated by the waymark that the player initially spread to: 
 
-After the towers are soaked, **Final Omega's Blades** will spawn in the center with spinning arrows, and **Omega-F** will appear on a cardinal with either a staff or skates. Three players with 1 **Spark of Hope** stack are sent to the female, and the rest stack on the opposite side of the arena. If **Omega-F** has a **staff**, the players must wait against the edge of the AOE once it starts moving to avoid her cleave. If **Omega-F** has skates, simply chase the AOE after it begins moving.
+[![](https://github.com/RancidDax/namazu.tools/assets/104756079/b2cef15f-ae0d-4989-a06d-a943fc34c366)](https://github.com/RancidDax/namazu.tools/assets/104756079/b2cef15f-ae0d-4989-a06d-a943fc34c366)
+
+**Omega-F** will then knock-back each player to their designated tower, where **Mid/Remote Glitch** will be resolved.
+
+{: .note }
+> For **Mid Glitch**, players should stand in the middle of their tower. For **Remote Glitch**, each player must stretch as far as possible to satisfy the mechanic.
+
+After the towers are soaked, **Final Omega's Blades** will spawn in the center with spinning arrows, and **Omega-F** will appear on a cardinal with either a staff or skates. Three players with 1 **Spark of Hope** stack are sent to the female's side of the arena, and the rest stack on the opposite side of the arena. If **Omega-F** has a **staff**, the players must wait against the edge of the AOE once it starts moving to avoid her cleave. If **Omega-F** has skates, simply chase the AOE after it begins moving.
 
 Players will then move into their **Hello World** positions as seen below:
 
 {: .note }
 > If solved correctly, 4 players will have 1 stack of **Spark of Hope**, and 4 players will have 2 stacks of **Spark of Hope**.
+
+
 
 ### Run: Dynamis (Omega Version)
 Coming Soon
