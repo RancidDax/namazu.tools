@@ -397,9 +397,13 @@ This **Omega-M (or the waymark he is on)** becomes **relative North** for the re
 
 Six players will then be assigned targeting markers on their head for a line AOE, such that **2 pairs will have 2 markers**, and **2 pairs will have 1 marker**. 
 
-Players will move to their designated positions as seen in the MUR cheatsheet, stepping in front of their waymarker for **Mid Glitch**, and moving to the wall for **Remote Glitch**. The 2 players with **no marker**, must be **relative North-East** and **relative North-West** to bait two line AOEs from the Arms. This is to ensure that none of the players already being targeted get hit and killed.
+The **North-most** pair of **2 markers** will spread to the North South cardinals, and the **South-most** pair will spread to the East West cardinals.
 
-After the party spreads and takes their line AOEs, **Omega-M will change to Omega-F** and towers will spawn. If the party is inflicted with **Mid Glitch** 6 towers in a "smiley face" pattern will spawn. If inflicted with **Remote Glitch**, 5 towers in a "star" pattern will spawn. This pattern will spawn relative to the **Relative North Omega-F**, and can also be flipped vertically. Because these towers must be soaked whilst also **resolving Mid/Remote Glitch** everyone must take a particular tower. 
+The **North-most** pair of **1 marker** will move to the North-West and South-East intercardinals, and the **South-most** pair will spread to the North-East and South-West intercardinals.
+
+Players will move to their designated positions, stepping in front of their waymarker for **Mid Glitch**, and moving to the wall for **Remote Glitch**. The 2 players with **no marker**, must be in the **relative North-East** and **relative North-West** position to bait two line AOEs from the Arms. This is to ensure that none of the players already being targeted get hit and killed.
+
+After the AOEs resolve, **Omega-M will change to Omega-F** and towers will spawn. If the party is inflicted with **Mid Glitch**, 6 towers in a "smiley face" pattern will spawn. If inflicted with **Remote Glitch**, 5 towers in a "star" pattern will spawn. This pattern will spawn relative to the **Relative North Omega-F**, and can also be flipped vertically. Because these towers must be soaked whilst also **resolving Mid/Remote Glitch** everyone must take a particular tower. 
 
 Player's tower positions are designated by the waymark that they **originally spread to**:
 
