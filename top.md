@@ -11,6 +11,9 @@ parent: Ultimates
 # The Omega Protocol
 {: .no_toc }
 
+MUR Strats 
+{: .label .label-purple }
+
 ### Credits
 {: .no_toc }
 - Written guide by Juno
