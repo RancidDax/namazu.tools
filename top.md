@@ -72,6 +72,7 @@ Guide written by Juno
 </details>
 
 ## Phase 1: Omega
+[P1 Beetle](https://ff14.toolboxgaming.space/?id=758088204654761&preview=1){: .btn .btn-blue }
 
 {: .tanks }
 > It is very important in this phase to keep Omega in the center of the arena.
@@ -117,6 +118,7 @@ Omega will then cast two tank buster cleaves on the two furthest players, and 6 
 After this Omega will cast it's enrage: **Atomic Ray**.
 
 ## Phase 2: Omega-M & F
+[P2 M&F](https://ff14.toolboxgaming.space/?id=043186470764761&preview=1){: .btn .btn-blue }
 
 {: .tanks }
 > Rampart can be cast as Omega "jumps", allowing a usage during the opening tank buster and in Limitless Synergy.
@@ -230,6 +232,7 @@ Two sets of **Arms** will appear that will cause large circular AOEs, as well as
 > Using **sprint** can help make the 2->1 dodge easier, but isn't required.
 
 ## Phase 3: Reconfigured Omega
+[P3 Final Omega](https://ff14.toolboxgaming.space/?id=949384711756761&preview=1){: .btn .btn-blue }
 
 {: .tanks }
 > There are hard hitting auto-attacks throughout this entire phase. The OT should be using their targeted mitigation on the MT as much as possible to help reduce the strain on the healers.
