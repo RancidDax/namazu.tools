@@ -11,7 +11,7 @@ parent: Ultimates
 # The Weapons Refrain
 {: .no_toc }
 
-MUR Strats v
+MUR Strats
 {: .label .label-purple }
 
 The Weapons Refrain is a multi-phase fight that covers an alternative retelling of the Warrior of Light's fight against the Primals and the Ultima Weapon.
