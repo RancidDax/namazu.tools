@@ -14,7 +14,7 @@ parent: Ultimates
 ### Credits
 {: .no_toc }
 - Written guide by Juno
-- Diagrams by Bird, MUR
+- Diagrams by Juno, Bird, MUR
 
 ### PoVs
 {: .no_toc }
@@ -317,15 +317,22 @@ Omega must be below 20% health before it's enrage is cast: **Blue Screen**.
 
 This phase is very mechanically heavy, having 3 trios and lasting approximately 5 minutes.
 
-Each trio is split into a "mechanic" section and a "Hello World" section. During the Hello World sections, two players are assigned the debuffs:
+Each trio is split into a "mechanic" section and a "Hello World" section. During the Hello World sections, 2 players are assigned the debuffs:
 
 **Hello, Distant World** <img src="./assets/images/icons/distant-world.png" class="bufficon">
- > Causes a large AOE on the player, inflicting them with 1 stack of **Quickening Dynamis** <img src="./assets/images/icons/quickening-dynamis.png" class="bufficon">. The AOE will then "bounce" to the **furthest player** away causing a smaller AOE and inflicting that player with 1 stack of **Quickening Dynamis** <img src="./assets/images/icons/quickening-dynamis.png" class="bufficon">. The AOE will bounce once more to the **furthest player** away, causing the same small AOE and inflicting the player with 1 stack of **Quickening Dynamis** <img src="./assets/images/icons/quickening-dynamis.png" class="bufficon">.
+> Causes a large AOE on the player. This AOE "bounces" to the **furthest player away** causing a smaller AOE. This AOE then "bounces" once more to the **furthest player away** again. 
+> 
+> These AOEs inflict 1 stack of **Quickening Dynamis** <img src="./assets/images/icons/quickening-dynamis.png" class="bufficon"> to each player.
 
 **Hello, Near World** <img src="./assets/images/icons/near-world.png" class="bufficon">
- > Causes a large AOE on the player, inflicting them with 1 stack of **Quickening Dynamis** <img src="./assets/images/icons/quickening-dynamis.png" class="bufficon">. The AOE will then "bounce" to the **closest player** to them, causing a smaller AOE and inflicting that player with 1 stack of **Quickening Dynamis** <img src="./assets/images/icons/quickening-dynamis.png" class="bufficon">. The AOE will bounce once more to the **closest player** again, causing the same small AOE and inflicting the player with 1 stack of **Quickening Dynamis** <img src="./assets/images/icons/quickening-dynamis.png" class="bufficon">.
+> Causes a large AOE on the player. This AOE "bounces" to the **closest player** causing a smaller AOE. This AOE then "bounces" once more to the **closest player** again. 
+> 
+> These AOEs inflict 1 stack of **Quickening Dynamis** <img src="./assets/images/icons/quickening-dynamis.png" class="bufficon"> to each player.
 
-The goal of the entirety of phase 5 is to end the phase with three stacks of **Quickening Dynamis** <img src="./assets/images/icons/quickening-dynamis.png" class="bufficon"> on every player, as this is required to complete phase 6.
+The goal of the entirety of phase 5 is to end the phase with 3 stacks of **Quickening Dynamis** <img src="./assets/images/icons/quickening-dynamis.png" class="bufficon"> on every player, as this is required to complete phase 6.
+
+{: .note }
+> MUR employs blasphemous strategies of using AMs (they're actually really nice for the last trio), that simplifies the **Hello World** sections of Sigma and Omega. This guide is written assuming players will be using these, though I will explain why some players are *required* to be in certain positions.
 
 After Omega-M becomes targetable, he will immediately cast a **Solar Ray** tank buster on the player with the highest emnity. This should be tank swapped. 
 
@@ -387,10 +394,6 @@ After the Monitors resolve, **Beetle Omega** will cleave one side of the arena w
 Omega-M will then do another **Solar Ray** tank buster which the OT will invuln, before casting:
 
 ### Run: Dynamis (Sigma Version)
-
-{: .note }
-> MUR employs blasphemous strategies of using AMs (they're actually really nice for the last trio), that simplifies the **Hello World** section of Sigma. However, it's pretty straightforward even without them.
-
 At the beginning of Sigma, each player will be assigned 1 of 4 symbols and be inflicted with **Mid Glitch** or **Remote Glitch**, identical to **Party Synergy**. Two players will also be assigned a **Hello, Distant World** <img src="./assets/images/icons/distant-world.png" class="bufficon"> and **Hello, Near World** <img src="./assets/images/icons/near-world.png" class="bufficon"> debuff. Two **Arms** will then spawn eitherside of a random cardinal/intercardinal and attach tethers to the two **furthest players** away from them. Directly opposite this is where **Omega-M** will spawn, where the party will move to line up as seen in the MUR cheatsheet. 
 
 This **Omega-M (or the waymark he is on)** becomes **relative North** for the remainder of the tether mechanic.
@@ -438,13 +441,15 @@ After another **Solar Ray** tank buster that the MT invulns, **Omega-F** casts:
 
 After the initial raid-wide, 4 players are assigned **Hello World** debuffs. Two players are assigned with **First in Line** <img src="./assets/images/icons/first-in-line.png" class="bufficon">, and two others will be assigned with **Second in Line** <img src="./assets/images/icons/second-in-line.png" class="bufficon">. One player from each pair will be assigned **Hello, Distant World** <img src="./assets/images/icons/distant-world.png" class="bufficon"> and the other **Hello, Near World** <img src="./assets/images/icons/near-world.png" class="bufficon">.
 
-**Omega-F** will remain targetable and **Final Omega** will spawn in the center of the arena. Clones of **Omega-M** and **Omega-F** will appear on opposite intercardinals next to **Final Omega** with the same **Staff/Skates + Sword/Shield** combo that's seen in phase 2. **Final Omega** will then cleave two opposite cardinals of the arena, before cleaving the opposite cardinals.
+**Omega-F** will remain targetable and **Final Omega** will spawn in the center of the arena. Clones of **Omega-M** and **Omega-F** will appear on opposite intercardinals next to **Final Omega** with the same **Staff/Skates + Sword/Shield** combo that's seen in phase 2. **Final Omega** will then cast 2 large cleaves on opposite cardinals of the arena, before cleaving the opposite cardinals.
 
 This dodge sounds incredibly complicated but it can be split up into several segments to quickly solve it:
 
-> Players will first determine **which Omega clone** will have the safe side on it, i.e. **shield Omega-M** will always be the safe side to avoid the dynamo hit.
+> Players will first determine **which Omega clone** will have the safe side on it. Often, the party will go to **Omega-M** cardinals UNLESS its the pattern **F(In) M(Out)**.
 >
 > Players must then determine if the dodge is going to be an **inner, mid, or outer** dodge as shown by the diagram below:
+>
+> [![](https://github.com/RancidDax/namazu.tools/assets/104756079/3ca2e364-ef75-4099-ab62-690ea1bc88e7)](https://github.com/RancidDax/namazu.tools/assets/104756079/3ca2e364-ef75-4099-ab62-690ea1bc88e7)
 >
 > The 2 cardinals adjacent to the safe clone will be the two possible safe spots after that. **Final Omega** will then point it's blades either North/South or East/West for it's cleave, leaving the one cardinal that is uncleaved to be the safespot.
 
@@ -464,13 +469,13 @@ Anyone who fails to make this dodge will take **HEAVY** damage and be inflicted 
 
 After the dodges are resolved, **Omega-F** will become untargetable and disappear. **Final Omega** will then point a monitor at either true East or true West. Like before, two players must be hit by this monitor while the rest need to line up for the **first Hello World** section.
 
-The two players that must be hit by the monitor are picked to be players with 2 stacks of **Quickening Dynamis** <img src="./assets/images/icons/quickening-dynamis.png" class="bufficon">. Players with 2 stacks *and* **Second in Line** take priority for this position.
+The two players that must be hit by the monitor are picked to be players with 2 stacks of **Quickening Dynamis** <img src="./assets/images/icons/quickening-dynamis.png" class="bufficon">. Players with 2 stacks *and* **Second in Line** <img src="./assets/images/icons/second-in-line.png" class="bufficon"> take priority for this position.
 
 The party will then line up as seen below:
 
 (image)
 
-> If you are not running AMs, the line up used in this strategy can prove awkward and difficult to pre-position for.
+> If you are not running AMs, the line up used in this strategy can prove awkward and difficult to pre-position for, so a different line up (such as in JP strats) can be used to make it more comfy.
 
 {: .note }
 > If solved correctly, 2 players will have 3 stacks of **Quickening Dynamis** <img src="./assets/images/icons/quickening-dynamis.png" class="bufficon"> and the remaining 6 will have 2 stacks of **Quickening Dynamis** <img src="./assets/images/icons/quickening-dynamis.png" class="bufficon">.
