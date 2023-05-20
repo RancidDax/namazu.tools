@@ -449,7 +449,7 @@ This dodge sounds incredibly complicated but it can be split up into several seg
 >
 > Players must then determine if the dodge is going to be an **inner, mid, or outer** dodge as shown by the diagram below:
 >
-> [![](https://github.com/RancidDax/namazu.tools/assets/104756079/3ca2e364-ef75-4099-ab62-690ea1bc88e7)](https://github.com/RancidDax/namazu.tools/assets/104756079/3ca2e364-ef75-4099-ab62-690ea1bc88e7)
+> [![](https://github.com/The-Seat-of-Namazu/namazu.tools/assets/104756079/1d70b8eb-cecc-428c-9d60-57658bddbfcd)](https://github.com/The-Seat-of-Namazu/namazu.tools/assets/104756079/1d70b8eb-cecc-428c-9d60-57658bddbfcd)
 >
 > The 2 cardinals adjacent to the safe clone will be the two possible safe spots after that. **Final Omega** will then point it's blades either North/South or East/West for it's cleave, leaving the one cardinal that is uncleaved to be the safespot.
 
