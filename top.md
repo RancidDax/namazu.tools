@@ -19,7 +19,7 @@ MUR Strats
 - Written guide by Juno
 - Diagrams by Juno, Bird, MUR
 
-### PoVs
+### PoVs (Soon™)
 {: .no_toc }
 
 [DPS](ADD LINK HERE){: .btn }
@@ -34,7 +34,7 @@ MUR Strats
 <a href="https://cdn.discordapp.com/attachments/1102126227264905257/1108266166763405432/OCE_TOP_Cheat_Sheet_Alt.png" target="_blank"><img src="https://cdn.discordapp.com/attachments/1102126227264905257/1108266166763405432/OCE_TOP_Cheat_Sheet_Alt.png"></a>
 </details>
 
-### Waymarks
+### Waymarks (Soon™)
 {: .no_toc }
 Waymarks are incredibly important in TOP as they are used for many mechanics in the fight for easy solves.
 
