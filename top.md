@@ -28,7 +28,7 @@ parent: Ultimates
 
 <details markdown=1>
 <summary>View Cheatsheet</summary>
-<a href="https://media.discordapp.net/attachments/1068375437346091069/1102446800243273790/OCE_TOP_Cheat_Sheet_Alt.jpg" target="_blank"><img src="https://media.discordapp.net/attachments/1068375437346091069/1102446800243273790/OCE_TOP_Cheat_Sheet_Alt.jpg"></a>
+<a href="https://cdn.discordapp.com/attachments/1102126227264905257/1108266166763405432/OCE_TOP_Cheat_Sheet_Alt.png" target="_blank"><img src="https://cdn.discordapp.com/attachments/1102126227264905257/1108266166763405432/OCE_TOP_Cheat_Sheet_Alt.png"></a>
 </details>
 
 ### Waymarks
