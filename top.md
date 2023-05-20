@@ -327,7 +327,7 @@ Each trio is split into a "mechanic" section and a "Hello World" section. During
 
 The goal of the entirety of phase 5 is to end the phase with three stacks of **Spark of Hope** on every player, as this is required to complete phase 6.
 
-After Omega-M becomes targetable, he will immediately cast a tank buster on the player with the highest emnity. This should be tank swapped. 
+After Omega-M becomes targetable, he will immediately cast a **Solar Ray** tank buster on the player with the highest emnity. This should be tank swapped. 
 
 {: .note } 
 > Party member's 15 second mitigations can be used at the 2nd tank buster hit, allowing it to be up for the future trios.  
@@ -384,7 +384,7 @@ After the Monitors resolve, **Beetle Omega** will cleave one side of the arena w
 {: .note }
 > If solved correctly, 6 players will have 1 stack of **Spark of Hope**.
 
-Omega-M will then do another tank buster which the OT will invuln, before casting:
+Omega-M will then do another **Solar Ray** tank buster which the OT will invuln, before casting:
 
 ### Run: Dynamis (Sigma Version)
 
@@ -422,16 +422,21 @@ After the towers are soaked, **Final Omega's Blades** will spawn in the center w
 
 Players will then move into their **Hello World** positions as seen below:
 
+(image) 
+
+
+> If you are not running AMs players can pre-position in a line up while they are waiting for the rotating AOE to begin, indicating which position they will take.
+
 {: .note }
 > If solved correctly, 4 players will have 1 stack of **Spark of Hope**, and 4 players will have 2 stacks of **Spark of Hope**.
 
 **Omega-F** will then spawn in the center and become targetable.
 
-After another tankbuster that the MT invulns, **Omega-F** casts:
+After another **Solar Ray** tank buster that the MT invulns, **Omega-F** casts:
 
 ### Run: Dynamis (Omega Version)
 
-After the initial raid-wide, 4 players are assigned **Hello World** debuffs. Two players are assigned with **First in Line** <img src="./assets/images/icons/first-in-line.png" class="bufficon">, and two others will be assigned with **Second in Line** <img src="./assets/images/icons/first-in-line.png" class="bufficon">. One player from each pair will be assigned **Hello, Distant World** and the other **Hello, Near World**.
+After the initial raid-wide, 4 players are assigned **Hello World** debuffs. Two players are assigned with **First in Line** <img src="./assets/images/icons/first-in-line.png" class="bufficon">, and two others will be assigned with **Second in Line** <img src="./assets/images/icons/second-in-line.png" class="bufficon">. One player from each pair will be assigned **Hello, Distant World** and the other **Hello, Near World**.
 
 **Omega-F** will remain targetable and **Final Omega** will spawn in the center of the arena. Clones of **Omega-M** and **Omega-F** will appear on opposite intercardinals next to **Final Omega** with the same **Staff/Skates + Sword/Shield** combo that's seen in phase 2. **Final Omega** will then cleave two opposite cardinals of the arena, before cleaving the opposite cardinals.
 
@@ -445,16 +450,43 @@ This dodge sounds incredibly complicated but it can be split up into several seg
 
 Before the first dodge is made a 2nd set of clones will spawn. As **Final Omega** always cleaves the opposite cardinals of the first cleave, the 2nd dodge **will always** be a 90 degree dodge from the first position.
 
-{: .warning }
+{: .note }
 > If a pattern occurs where the safe spots have a large distance between them: Inner C to Outer B, players should pop **Sprint** to make the timing comfy as the cleaves happen in quick succession.
 
 User **sausoftheroll** has compiled a list of possible dodges into a YouTube playlist:
 [DODGES](https://www.youtube.com/playlist?list=PLFRB_87JHX5WmAGqkThmV0laFQurUdoak){: .btn }
 
-{: .note }
-Anyone who fails to make this dodge will take **HEAVY** damage, and be inflicted by a damage down debuff.
+{: .warning }
+Anyone who fails to make this dodge will take **HEAVY** damage and be inflicted by a damage down debuff.
 
-After the dodges are resolved **Omega-F** will become untargetable and dissapear. **Final Omega** will then point a monitor at either true East or true West. Like before, two players must be hit by this monitor
+After the dodges are resolved **Omega-F** will become untargetable and dissapear. **Final Omega** will then point a monitor at either true East or true West. Like before, two players must be hit by this monitor while the rest need to line up for the **first Hello World** section.
+
+The party will then line up as seen below:
+
+(image)
+
+> If you are not running AMs, the two players that must be hit by the monitor are picked to be players with 2 stacks of **Spark of Hope**. Players with 2 stacks *and* **Second in Line** take priority for this position.
+> 
+> However, the line up used in this strategy can prove awkward and difficult to pre-position for if not using AMs.
+
+{: .note }
+If solved correctly, 2 players will have 3 stacks of **Spark of Hope** and the remaining 6 will have 2 stacks of **Spark of Hope**
+
+**Beetle Omega** will then spawn on a random cardinal, and a second **Hello World** line up must be formed. The players with **3 stacks** of **Spark of Hope** must take two tethers from **Beetle Omega** while the other 6 players position themselves as seen below:
+
+(image)
+
+{: .note }
+> If solved correctly **all 8 players will have 3 stacks of Spark of Hope**.
+
+Omega-F will then become targetable and do one last **Solar Ray** tank buster, forcing a tank swap.
+
+Omega-F must be below 20% health before she finishes casting her enrage: **Blind Faith**
+
+All players will be knocked back to the edge of the arena before the cutscene plays.
+
+{: .note }
+> Where you are knocked back to is where you will begin the next phase. Everyone should be knocked to **true South** as mitigation is applied early in phase 6.
 
 ## Phase 6: Alpha Omega
 Coming Soon
