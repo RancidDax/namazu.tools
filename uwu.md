@@ -2,6 +2,7 @@
 layout: default
 title: UWU
 parent: Ultimates
+nav_order: 4
 ---
 
 {% include custom.html %}
