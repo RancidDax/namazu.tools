@@ -526,6 +526,22 @@ You may need to run into the middle after **Megaflares** to top up the party as 
 
 Once more, Bahamut will use {% glossary Flare Breath %} followed by {% glossary Flatten %}.
 
+### Blackfire Trio (BFT)
+[BFT Toolbox](https://ff14.toolboxgaming.space/?id=838145884536361&preview=1){: .btn .btn-blue }
+
+Players stack center and look for Nael on the wall, this becomes relative north.
+
+{% glossary Liquid Hell %} will start hitting party, move together towards Nael and stay stacked for {% glossary Thermionic Beam %}.
+
+{: .healers }
+This is heavy damage and needs to be topped up fast. Suggest saving swift-cast and other OGCD heals for this as you will not have time to stop and heal here.
+
+Party will split into roles at the wall, Tanks and Healers split left and DPS right.
+
+
+
+
+
 ## Phase 4: Adds
 Coming Soon
 
