@@ -415,13 +415,25 @@ There are 8 possible locations for the Dragons to spawn.
 
 ![image](https://github.com/The-Seat-of-Namazu/namazu.tools/assets/85346345/c687614b-96af-4f14-b6d3-5f42866b8482)
 
-You need to bait the dives in such a way to avoid the middle of the room, such as the following where RED is the first dive, YELLOW is the second dive and BLUE is the third dive.
+You need to bait the dives in such a way to avoid the middle of the room, such as the following example where RED is the first dive, YELLOW is the second dive and BLUE is the third dive.
+
+If you have an experience party member, they will often call the bait positions using clock numbers to indicate where each bait should go, the solution for this example would be: **"2 6 10"**
 
 ![image](https://github.com/The-Seat-of-Namazu/namazu.tools/assets/85346345/f15b6fa4-c5e2-493e-ade0-3ec4c5374370)
 
-Some alternative possible patterns...
+<details markdown=1>
+<summary>More Examples..</summary>
 
+Solution: **3 7 10**
 ![image](https://github.com/The-Seat-of-Namazu/namazu.tools/assets/85346345/00b5589c-8430-4b5b-af15-2f22f0180db6)
+
+Solution: **5 9 12**
+![image](https://github.com/The-Seat-of-Namazu/namazu.tools/assets/85346345/bd087b32-a861-406b-b791-2b21cc9ff614)
+
+Solution: **11 5 7**
+![image](https://github.com/The-Seat-of-Namazu/namazu.tools/assets/85346345/6d04b1c7-5842-4d4f-be86-3ad29e863d6a)
+
+</details>
 
 Try out the Divebomb simulator here to practice solving these yourself: 
 
@@ -430,7 +442,7 @@ Try out the Divebomb simulator here to practice solving these yourself:
 Nael will also be targetting the furthest players with {% glossary Hypernova %}, players baiting dives will need to watch out for these as they move out.
 
 {: .note }
-The Dragons will LOCK ON to the players position when the green marker above them dissapears, so they need to be in the correct position when it vanishes.
+The Dragons will lock on to the players position when the green marker above them **dissapears**. This might mean dodging some {% glossary Hypernova %} before moving into the correct position.
 
 
 ## Phase 3: Bahamut
