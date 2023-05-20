@@ -70,3 +70,11 @@
   definition: Boss dives down on several players hitting them with a heavy attack in an AOE around them.
 - term: Hypernova
   definition: Boss will target a player with a AoE puddle at their location, staying in the puddle too long is fatal.
+- term: Flare Breath
+  definition: Conal cleave dealing very significant magic damage. Treat it like a mini-tankbuster.
+- term: Flatten
+  definition: Physical tankbuster dealing massive physical damage, that must be mitigated.
+- term: Earth Shaker
+  definition: Large conal AoE targetted towards a player.
+- term: Tempest Wing
+  definition: A teher which eventually explodes with magical splash damage and knockback to other people.
