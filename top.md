@@ -540,6 +540,7 @@ After taking their line AOEs, players will stack on C as the **Wave Cannon** cas
 Both melee DPS will use their LB3's after **Unlimited Wave Cannon**, and after two auto-attacks, everyone will group up under **Alpha Omega** as it casts:
 
 ### Cosmo Meteor
+
 {: .everyone }
 > The physical ranged player of the group will take the North waymark for this mechanic, with the MT moving to the North West waymark to replace them.
 
