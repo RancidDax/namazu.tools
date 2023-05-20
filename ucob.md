@@ -322,7 +322,7 @@ QUOTE 4:
 
 </details>
 
-Quotes 1: 
+**Quotes 1**
 - O hallowed moon, take fire and scorch my foes! = {% glossary Lunar Dynamo %} → {% glossary Thermionic Beam %}
 - O hallowed moon, shine you the iron path! = {% glossary Lunar Dynamo %} → {% glossary Iron Chariot %}
 
@@ -367,7 +367,7 @@ Second Fire Tether appears and this should be taken **OUT**** of the party stack
 
 Party should be stacked in preparation for second quotes.
 
-Quotes 2: 
+**Quotes 2**
 - Blazing path, lead me to iron rule! = {% glossary Thermionic Beam %} → {% glossary Iron Chariot %}
 - Take fire, O hallowed moon! = {% glossary Thermionic Beam %} → {% glossary Lunar Dynamo %}
 
@@ -393,7 +393,7 @@ D1    H1   D2
 D3    H2   D4
 ```
 
-Quotes 3:
+**Quotes 3**
 - From on high I descend, the iron path to call! or From on high I descend, the iron path to walk! = {% glossary Raven's Dive %} → {% glossary Iron Chariot %}
 - From on high I descend, the hallowed moon to call! = {% glossary Raven's Dive %} → {% glossary Lunar Dynamo %}
 
