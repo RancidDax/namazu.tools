@@ -277,7 +277,7 @@ The **Blue Tether** players will move to the stack rots and in between the puddl
 {: .warning }
 > Popping the **Blue Tether** *too* early can cause wipes as the initial hits from defamation and the stack give a magic vulnerability debuff for 1 second.
 
-The **Christmas Tether** players will be standing outside the puddle next to the defamation players, and giving themself rot once the defamation AOE occurs. They will then break their tether by **getting close to one another**, being careful not to do it too soon after the first tether break as it will wipe the raid due to **Thrice-come Ruin**.
+The **Christmas Tether** players will be standing outside the puddle next to the defamation players, and giving themself rot once the defamation AOE occurs. They will then break their tether by **getting close to one another**, being careful not to do it too soon after the first tether break as it will wipe the raid due to **Thrice-come Ruin** <img src="./assets/images/icons/Thrice come Ruin.webp" class="bufficon">.
 
 This mechanic repeats **Latent Defect** a total of 4 times, where for the final **Latent Defect** all players (except defamation) will move to the **stack rot** side. This will cause the **Christmas Tether** to break immediately, and then the **Blue Tether** will be broken manually after.
 
@@ -290,9 +290,10 @@ After rots expire Omega will cast another hard hitting raid wide **Critical Erro
 
 After ~3 more auto-attacks, Omega will begin to cast **Oversampled Wave Cannon** and point a set of blue monitors either true East or true West. 
 
-3 random players will also be inflicted with **Oversampled Wave Cannon Loading**, putting the same East/West facing monitors on their person. Players must position and align themselves such that **each monitor** is only hitting **2 people** at a time, as seen in the MUR cheatsheet. If hit by a monitor, a large AOE will explode on the player for high damage and they will be inflicted by **Twice-come Ruin**.
+3 random players will also be inflicted with **Oversampled Wave Cannon Loading**, putting the same East/West facing monitors on their person. Players must position and align themselves such that **each monitor** is only hitting **2 people** at a time, as seen in the MUR cheatsheet. If hit by a monitor, a large AOE will explode on the player for high damage and they will be inflicted by **Twice-come Ruin** <img src="./assets/images/icons/Thrice come Ruin.webp" class="bufficon">.
 
-Misaligning your monitor will result in players either: not being hit by monitor, or hit by 2+ monitors which will result in **doom** being inflicted.
+Misaligning your monitor will result in players either: not being hit by monitor, or hit by 2+ monitors. 
+If a monitor does not hit 2 players it will randomly select a player. If hit by 2+ monitors the player will be inflicted with **doom** due to **Twice-come Ruin**  <img src="./assets/images/icons/Thrice come Ruin.webp" class="bufficon">.
 
 {: .note }
 > The monitor positions "lock-in" as the **Oversampled Wave Cannon** cast **finishes**, allowing monitor players to greed GCDs. 
@@ -355,7 +356,7 @@ Two **Blue Tether Players** will also receive **Hello, Distant World** <img src=
 
 [![](https://github.com/RancidDax/namazu.tools/assets/104756079/1d95a258-2f1d-4b07-9c57-42f650ce9b60)](https://github.com/RancidDax/namazu.tools/assets/104756079/1d95a258-2f1d-4b07-9c57-42f650ce9b60)
 
-Much like phase 3, breaking tethers results in a **large raid-wide hit** as well as inflicting **Thrice-come Ruin** on the party. However if the tether debuffs expire the party is killed. As such, we want to gradually break all 4 throughout the course of the mechanic so that the damage does not kill the party whilst not letting the tethers expire.
+Much like phase 3, breaking tethers results in a **large raid-wide hit** as well as inflicting **Thrice-come Ruin** <img src="./assets/images/icons/Thrice come Ruin.webp" class="bufficon"> on the party. However if the tether debuffs expire the party is killed. As such, we want to gradually break all 4 throughout the course of the mechanic so that the damage does not kill the party whilst not letting the tethers expire.
 
 As the tethers are still **inactive**, the **Outer Blue Tether** will stretch so that it will break immediately upon becoming active.
 
@@ -384,7 +385,7 @@ After the Monitors resolve, **Beetle Omega** will cleave one side of the arena w
 *Image by Bird*
 
 {: .warning}
-> **Christmas Tether** breaks must be done at the right time. Due to **Twice-come Ruin** debuffs from **Monitors** and **Pile Pitch**, the first break must be delayed. However, the first **Christmas Tether Players** can use the tether timer and break their tether at 15s as it will always be safe.
+> **Christmas Tether** breaks must be done at the right time. Due to **Twice-come Ruin**  <img src="./assets/images/icons/Thrice come Ruin.webp" class="bufficon"> debuffs from **Monitors** and **Pile Pitch**, the first break must be delayed. However, the first **Christmas Tether Players** can use the tether timer and break their tether at 15s as it will always be safe.
 >
 > Similarly, the second **Christmas Tether** break can be done at ~2 seconds.
 
@@ -465,7 +466,7 @@ User **sausoftheroll** has compiled a list of possible dodges into a YouTube pla
 
 
 {: .warning }
-Anyone who fails to make this dodge will take **HEAVY** damage and be inflicted by a damage down debuff.
+Anyone who fails to make this dodge will take **HEAVY** damage and be inflicted by a **damage down debuff**. To survive the hit, non-tanks require at least a shield.
 
 After the dodges are resolved, **Omega-F** will become untargetable and disappear. **Final Omega** will then point a monitor at either true East or true West. Like before, two players must be hit by this monitor while the rest need to line up for the first **Hello World** section.
 
@@ -550,18 +551,32 @@ Each player will get a large puddle AOE under them and they will spread to their
 {: .note }
 > Players should be standing on the front edge of their waymark to ensure they receive healing.
 
-The Caster will then LB3 the dead center of the arena to kill the **Cosmo Comets** and significantly damage to the **Cosmo Meteors**. Four random players will then be hit by a **Cosmo Meteor** attack that deals proximity damage to surrounding players. Shortly after the remaining four players will take another set of **Cosmo Meteor** attacks. As soon as possible, the physical ranged player must LB3 **Alpha Omega** to cleave both **Cosmo Meteors** and kill them.
+The Caster will then LB3 the dead center of the arena to kill the **Cosmo Comets** and deal significant damage to the **Cosmo Meteors**. All 8 players will get hit by 2 sets of 4 **Cosmo Meteors** that will deal proximity damage to surrounding players.  As soon as possible, the physical ranged player must LB3 **Alpha Omega** to cleave both **Cosmo Meteors** and kill them.
 
-While they are locked in their LB3 animation, 3 random players will be marked with **flares**. If the physical ranged player **does not** have a flare, the party will stack on them (the **A waymark**). If they **do** have a flare, the party will stack on the **C waymark**. The flares will spread to the other 3 cardinals that the party is not stacking on.
+While they are locked in their LB3 animation, 3 random players will be marked with **flares**. If the physical ranged player **does not** have a flare, the party will stack on them (the **A waymark**). If they **do** have a flare, the party will stack on the opposite side of the arena (the **C waymark**). The flares will spread to the other 3 cardinals that the party is not stacking on.
 
 A random **non-flare** player will then be targeted with a non-telegraphed stack that will be soaked with the party.
 
 {: .healers }
-> Healers will top up everyone to full for the last time after cosmo meteor, as there is no more lethal damage after this point.
+> Healers will top up everyone to full for the very last time after cosmo meteor, as there is no more lethal damage after this point.
 
 **Alpha Omega** will then begin to cast:
 
 ### Magic Number
+
+**Alpha Omega** will then cast the first **Magic Number**. Tanks must LB3 this to survive. Shortly after the hit a 6s **Magic Number** <img src="./assets/images/icons/magic-number.png" class="bufficon"> debuff will be applied to the party, killing the player once the debuff falls off. This debuff is cleansed by a healer LB3.
+
+{: .note }
+> Although I said before that it's important to not have players die in p6, there is an exception. DRK is able to **click off** the tank LB3 for both magic numbers, and get resurrected by the healer LB3. This results in **no weakness** and **full mana** when they are resurrected, netting a DPS gain.
+
+{: .healers }
+> Healers should wait for the debuff to actually appear before casting their LB3, as **Magic Number** <img src="./assets/images/icons/magic-number.png" class="bufficon"> takes a second or two to apply after the initial damage goes out.
+
+This set of mechanics repeats twice, until **Alpha Omega** casts the final enrage:
+
+## **Run: Dynamis**
+{: .no_toc }
+
 
 
 
