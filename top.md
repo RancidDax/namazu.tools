@@ -319,13 +319,13 @@ This phase is very mechanically heavy, having 3 trios and lasting approximately 
 
 Each trio is split into a "mechanic" section and a "Hello World" section. During the Hello World sections, two players are assigned the debuffs:
 
-**Hello, Distant World**
- > Causes a large AOE on the player, inflicting them with 1 stack of **Quickening Dynamis**. The AOE will then "bounce" to the **furthest player** away causing a smaller AOE and inflicting that player with 1 stack of **Quickening Dynamis**. The AOE will bounce once more to the **furthest player** away, causing the same small AOE and inflicting the player with 1 stack of **Quickening Dynamis**
+**Hello, Distant World** <img src="./assets/images/icons/distant-world.png" class="bufficon">
+ > Causes a large AOE on the player, inflicting them with 1 stack of **Quickening Dynamis** <img src="./assets/images/icons/quickening-dynamis.png" class="bufficon">. The AOE will then "bounce" to the **furthest player** away causing a smaller AOE and inflicting that player with 1 stack of **Quickening Dynamis** <img src="./assets/images/icons/quickening-dynamis.png" class="bufficon">. The AOE will bounce once more to the **furthest player** away, causing the same small AOE and inflicting the player with 1 stack of **Quickening Dynamis** <img src="./assets/images/icons/quickening-dynamis.png" class="bufficon">.
 
-**Hello, Near World**
- > Causes a large AOE on the player, inflicting them with 1 stack of **Quickening Dynamis**. The AOE will then "bounce" to the **closest player** to them, causing a smaller AOE and inflicting that player with 1 stack of **Quickening Dynamis**. The AOE will bounce once more to the **closest player** again, causing the same small AOE and inflicting the player with 1 stack of **Quickening Dynamis**
+**Hello, Near World** <img src="./assets/images/icons/near-world.png" class="bufficon">
+ > Causes a large AOE on the player, inflicting them with 1 stack of **Quickening Dynamis** <img src="./assets/images/icons/quickening-dynamis.png" class="bufficon">. The AOE will then "bounce" to the **closest player** to them, causing a smaller AOE and inflicting that player with 1 stack of **Quickening Dynamis** <img src="./assets/images/icons/quickening-dynamis.png" class="bufficon">. The AOE will bounce once more to the **closest player** again, causing the same small AOE and inflicting the player with 1 stack of **Quickening Dynamis** <img src="./assets/images/icons/quickening-dynamis.png" class="bufficon">.
 
-The goal of the entirety of phase 5 is to end the phase with three stacks of **Spark of Hope** on every player, as this is required to complete phase 6.
+The goal of the entirety of phase 5 is to end the phase with three stacks of **Quickening Dynamis** <img src="./assets/images/icons/quickening-dynamis.png" class="bufficon"> on every player, as this is required to complete phase 6.
 
 After Omega-M becomes targetable, he will immediately cast a **Solar Ray** tank buster on the player with the highest emnity. This should be tank swapped. 
 
@@ -342,7 +342,7 @@ I highly recommend looking at the toolbox for this trio as well as reading this 
 
 Omega-M will become untargetable and disappear, **Beetle Omega** and **Final Omega** will then spawn randomly on the East/West cardinals, and **Omega's Eye** will spawn at North. Each player will then be inflicted with **Local Code Smell** and **Remote Code Smell**, such that there will be **2 Blue Tethers** and **2 Christmas Tethers**.
 
-Two **Blue Tether Players** will also receive **Hello, Distant World** and **Hello, Near World**.
+Two **Blue Tether Players** will also receive **Hello, Distant World** <img src="./assets/images/icons/distant-world.png" class="bufficon"> and **Hello, Near World** <img src="./assets/images/icons/near-world.png" class="bufficon">.
 
 **Blues Tethers** will then go to **Beetle Omega**, and **Christmas Tethers** to **Final Omega**. Both pairs of tethers will line up parallel to the edge of the arena on their respective side. This is so that  there is a tether closer to the center of the arena (**Inner Tether**), and a tether closer to the edge of the arena (**Outer Tether**). 
 
@@ -382,7 +382,7 @@ After the Monitors resolve, **Beetle Omega** will cleave one side of the arena w
 > Similarly, the second **Christmas Tether** break can be done at ~2 seconds.
 
 {: .note }
-> If solved correctly, 6 players will have 1 stack of **Quickening Dynamis**.
+> If solved correctly, 6 players will have 1 stack of **Quickening Dynamis** <img src="./assets/images/icons/quickening-dynamis.png" class="bufficon">.
 
 Omega-M will then do another **Solar Ray** tank buster which the OT will invuln, before casting:
 
@@ -391,7 +391,7 @@ Omega-M will then do another **Solar Ray** tank buster which the OT will invuln,
 {: .note }
 > MUR employs blasphemous strategies of using AMs (they're actually really nice for the last trio), that simplifies the **Hello World** section of Sigma. However, it's pretty straightforward even without them.
 
-At the beginning of Sigma, each player will be assigned 1 of 4 symbols and be inflicted with **Mid Glitch** or **Remote Glitch**, identical to **Party Synergy**. Two players will also be assigned a **Hello, Distant World** and **Hello, Near World** debuff. Two **Arms** will then spawn eitherside of a random cardinal/intercardinal and attach tethers to the two **furthest players** away from them. Directly opposite this is where **Omega-M** will spawn, where the party will move to line up as seen in the MUR cheatsheet. 
+At the beginning of Sigma, each player will be assigned 1 of 4 symbols and be inflicted with **Mid Glitch** or **Remote Glitch**, identical to **Party Synergy**. Two players will also be assigned a **Hello, Distant World** <img src="./assets/images/icons/distant-world.png" class="bufficon"> and **Hello, Near World** <img src="./assets/images/icons/near-world.png" class="bufficon"> debuff. Two **Arms** will then spawn eitherside of a random cardinal/intercardinal and attach tethers to the two **furthest players** away from them. Directly opposite this is where **Omega-M** will spawn, where the party will move to line up as seen in the MUR cheatsheet. 
 
 This **Omega-M (or the waymark he is on)** becomes **relative North** for the remainder of the tether mechanic.
 
@@ -428,7 +428,7 @@ Players will then move into their **Hello World** positions as seen below:
 > If you are not running AMs players can pre-position in a line up while they are waiting for the rotating AOE to begin, indicating which position they will take.
 
 {: .note }
-> If solved correctly, 4 players will have 1 stack of **Quickening Dynamis**, and 4 players will have 2 stacks of **Spark of Hope**.
+> If solved correctly, 4 players will have 1 stack of **Quickening Dynamis** <img src="./assets/images/icons/quickening-dynamis.png" class="bufficon">, and 4 players will have 2 stacks of **Quickening Dynamis** <img src="./assets/images/icons/quickening-dynamis.png" class="bufficon">.
 
 **Omega-F** will then spawn in the center and become targetable.
 
@@ -436,7 +436,7 @@ After another **Solar Ray** tank buster that the MT invulns, **Omega-F** casts:
 
 ### Run: Dynamis (Omega Version)
 
-After the initial raid-wide, 4 players are assigned **Hello World** debuffs. Two players are assigned with **First in Line** <img src="./assets/images/icons/first-in-line.png" class="bufficon">, and two others will be assigned with **Second in Line** <img src="./assets/images/icons/second-in-line.png" class="bufficon">. One player from each pair will be assigned **Hello, Distant World** and the other **Hello, Near World**.
+After the initial raid-wide, 4 players are assigned **Hello World** debuffs. Two players are assigned with **First in Line** <img src="./assets/images/icons/first-in-line.png" class="bufficon">, and two others will be assigned with **Second in Line** <img src="./assets/images/icons/second-in-line.png" class="bufficon">. One player from each pair will be assigned **Hello, Distant World** <img src="./assets/images/icons/distant-world.png" class="bufficon"> and the other **Hello, Near World** <img src="./assets/images/icons/near-world.png" class="bufficon">.
 
 **Omega-F** will remain targetable and **Final Omega** will spawn in the center of the arena. Clones of **Omega-M** and **Omega-F** will appear on opposite intercardinals next to **Final Omega** with the same **Staff/Skates + Sword/Shield** combo that's seen in phase 2. **Final Omega** will then cleave two opposite cardinals of the arena, before cleaving the opposite cardinals.
 
@@ -464,7 +464,7 @@ Anyone who fails to make this dodge will take **HEAVY** damage and be inflicted 
 
 After the dodges are resolved, **Omega-F** will become untargetable and disappear. **Final Omega** will then point a monitor at either true East or true West. Like before, two players must be hit by this monitor while the rest need to line up for the **first Hello World** section.
 
-The two players that must be hit by the monitor are picked to be players with 2 stacks of **Quickening Dynamis**. Players with 2 stacks *and* **Second in Line** take priority for this position.
+The two players that must be hit by the monitor are picked to be players with 2 stacks of **Quickening Dynamis** <img src="./assets/images/icons/quickening-dynamis.png" class="bufficon">. Players with 2 stacks *and* **Second in Line** take priority for this position.
 
 The party will then line up as seen below:
 
@@ -473,14 +473,14 @@ The party will then line up as seen below:
 > If you are not running AMs, the line up used in this strategy can prove awkward and difficult to pre-position for.
 
 {: .note }
-If solved correctly, 2 players will have 3 stacks of **Quickening Dynamis** and the remaining 6 will have 2 stacks of **Spark of Hope**
+> If solved correctly, 2 players will have 3 stacks of **Quickening Dynamis** <img src="./assets/images/icons/quickening-dynamis.png" class="bufficon"> and the remaining 6 will have 2 stacks of **Quickening Dynamis** <img src="./assets/images/icons/quickening-dynamis.png" class="bufficon">.
 
-**Beetle Omega** will then spawn on a random cardinal, and a second **Hello World** line up must be formed. The players with **3 stacks** of **Quickening Dynamis** must take two tethers from **Beetle Omega** while the other 6 players position themselves as seen below:
+**Beetle Omega** will then spawn on a random cardinal, and a second **Hello World** line up must be formed. The players with **3 stacks** of **Quickening Dynamis** <img src="./assets/images/icons/quickening-dynamis.png" class="bufficon"> must take two tethers from **Beetle Omega** while the other 6 players position themselves as seen below:
 
 (image)
 
 {: .note }
-> If solved correctly all 8 players will have 3 stacks of **Quickening Dynamis**.
+> If solved correctly all 8 players will have 3 stacks of **Quickening Dynamis** <img src="./assets/images/icons/quickening-dynamis.png" class="bufficon">.
 
 Omega-F will then become targetable and do one last **Solar Ray** tank buster, forcing a tank swap.
 
