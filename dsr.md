@@ -18,6 +18,11 @@ Toolboxes are an interactive guide that allows you to click through each phase i
 
 [Phase 1: Knights](https://ff14.toolboxgaming.space/?id=199680719834861&preview=1){: .btn .btn-blue }
 [Phase 2: Thordan](https://ff14.toolboxgaming.space/?id=199680719834861&preview=1){: .btn .btn-blue }
+[Phase 3](){: .btn }
+[Phase 4](){: .btn }
+[Phase 5](){: .btn }
+[Phase 6: Double Dragons](https://ff14.toolboxgaming.space/?id=610785126654861&preview=1){: .btn .btn-blue }
+[Phase 7](){: .btn }
 
 ### PoVs
 
