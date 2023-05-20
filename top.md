@@ -513,7 +513,7 @@ The party will then line up as seen below:
 
 **Beetle Omega** will then spawn on a random cardinal, and a second and final **Hello World** line up must be formed. The players with **3 stacks** of **Quickening Dynamis** <img src="./assets/images/icons/quickening-dynamis.png" class="bufficon"> must take two tethers from **Beetle Omega** while the other 6 players position themselves as seen below:
 
-[![](https://github.com/The-Seat-of-Namazu/namazu.tools/assets/104756079/939c9abc-6e5b-411f-8992-b59d4f560487)](https://github.com/The-Seat-of-Namazu/namazu.tools/assets/104756079/939c9abc-6e5b-411f-8992-b59d4f560487)
+[![](https://github.com/The-Seat-of-Namazu/namazu.tools/assets/104756079/751a990e-660a-40ec-9c3a-2d8e90865b2b)](https://github.com/The-Seat-of-Namazu/namazu.tools/assets/104756079/751a990e-660a-40ec-9c3a-2d8e90865b2b)
 
 {: .note }
 > If solved correctly all 8 players will have 3 stacks of **Quickening Dynamis** <img src="./assets/images/icons/quickening-dynamis.png" class="bufficon">.
