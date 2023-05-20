@@ -454,7 +454,10 @@ Before the first dodge is made a 2nd set of clones will spawn. As **Final Omega*
 > If a pattern occurs where the safe spots have a large distance between them: Inner C to Outer B, players should pop **Sprint** to make the timing comfy as the cleaves happen in quick succession.
 
 User **sausoftheroll** has compiled a list of possible dodges into a YouTube playlist:
+
+
 [DODGES](https://www.youtube.com/playlist?list=PLFRB_87JHX5WmAGqkThmV0laFQurUdoak){: .btn }
+
 
 {: .warning }
 Anyone who fails to make this dodge will take **HEAVY** damage and be inflicted by a damage down debuff.
