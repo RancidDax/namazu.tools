@@ -552,6 +552,8 @@ H2    STACK   D4
 
 Before towers resolve, Nael will send out two {% glossary Hypernova %}, wait for these to go out **Before** moving into the towers.
 
+![image](https://github.com/The-Seat-of-Namazu/namazu.tools/assets/85346345/ad209dff-0561-4d3c-a6bf-2b50f2235f4f)
+
 After towers resolve, party stack and heal for a {% glossary Gigaflare %}, followed by {% glossary Flare Breath %} followed by {% glossary Flatten %} on Tanks.
 
 ### Fellruin Trio (FRT)
