@@ -411,6 +411,18 @@ The Dragons will dive in sets of **2-1-2** starting at True North. The 1st and 2
 
 Your goal is to position the three marked players in such a way that they bait the Dragon Dives away from the middle of the room.
 
+There are 8 possible locations for the Dragons to spawn.
+
+![image](https://github.com/The-Seat-of-Namazu/namazu.tools/assets/85346345/c687614b-96af-4f14-b6d3-5f42866b8482)
+
+You need to bait the dives in such a way to avoid the middle of the room, such as the following where RED is the first dive, YELLOW is the second dive and BLUE is the third dive.
+
+![image](https://github.com/The-Seat-of-Namazu/namazu.tools/assets/85346345/f15b6fa4-c5e2-493e-ade0-3ec4c5374370)
+
+Try out the Divebomb simulator here to practice solving these yourself: 
+
+[Divebomb Simulator](https://freehaha.github.io/nael-dive/){: .btn .btn-purple }
+
 Nael will also be targetting the furthest players with {% glossary Hypernova %}, players baiting dives will need to watch out for these as they move out.
 
 {: .note }
