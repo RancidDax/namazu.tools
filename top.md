@@ -469,7 +469,9 @@ Anyone who fails to make this dodge will take **HEAVY** damage and be inflicted 
 
 After the dodges are resolved, **Omega-F** will become untargetable and disappear. **Final Omega** will then point a monitor at either true East or true West. Like before, two players must be hit by this monitor while the rest need to line up for the first **Hello World** section.
 
-The two players that must be hit by the monitor are picked to be players with 2 stacks of **Quickening Dynamis** <img src="./assets/images/icons/quickening-dynamis.png" class="bufficon">. Players with 2 stacks *and* **Second in Line** <img src="./assets/images/icons/second-in-line.png" class="bufficon"> take priority for this position. If these players are not given the monitor position, they cannot line up for the 2nd Hello World as they will have 3 stacks of **Quickening Dynamis** <img src="./assets/images/icons/quickening-dynamis.png" class="bufficon"> and will get a 4th from their own **Hello World** debuff, forcing a wipe.
+The two players that must be hit by the monitor are picked to be players with 2 stacks of **Quickening Dynamis** <img src="./assets/images/icons/quickening-dynamis.png" class="bufficon">. Players with 2 stacks *and* **Second in Line** <img src="./assets/images/icons/second-in-line.png" class="bufficon"> take priority for this position. 
+
+If these players are not given the monitor position, they cannot line up for the 2nd Hello World as they will have 3 stacks of **Quickening Dynamis** <img src="./assets/images/icons/quickening-dynamis.png" class="bufficon"> and will get a 4th from their own **Hello World** debuff, forcing a wipe.
 
 The party will then line up as seen below:
 
@@ -489,13 +491,80 @@ The party will then line up as seen below:
 
 Omega-F will then become targetable and do one last **Solar Ray** tank buster, forcing a tank swap.
 
-Omega-F must be below 20% health before she finishes casting her enrage: **Blind Faith**, which will knock back all players to the edge of the arena before the cutscene plays.
+Omega-F must be below 20% health before she finishes casting her enrage: **Blind Faith**, which will knock back all players into the killzone at the edge of the arena before the cutscene plays.
 
 {: .note }
 > Where you are knocked back to is where you will begin the next phase. Everyone should be knocked to **true South** as mitigation is applied early in phase 6.
 
 ## Phase 6: Alpha Omega
-Coming Soon
+
+{: .everyone }
+> Players should move forward immediately to get out of the killzone. 
+> 
+> This phase requires heavy mitigation on almost every mechanic.  
+
+{: .tanks }
+> Between every mechanic Alpha Omega will do 2 AOE auto-attacks. These will target the player with the highest emnity and the player who is **furthest** from the boss. The OT should stand outside the hitbox between mechanics to take these.
+
+**Alpha Omega** will become targetable and immediately begin casting **Cosmo Memory**, which requires a tank LB3 to survive. Upon taking damage from **Cosmo Memory**, everyone's 3 stacks of **Quickening Dynamis** <img src="./assets/images/icons/quickening-dynamis.png" class="bufficon"> will be transformed to **Brilliant Dynamis** <img src="./assets/images/icons/brilliant-dynamis.png" class="bufficon">.
+
+The **Brilliant Dynamis** <img src="./assets/images/icons/brilliant-dynamis.png" class="bufficon"> buff allows every player to use a LB3 during the phase, as it will refund the gauge upon use. Once this limit break is used, **Brilliant Dynamis** <img src="./assets/images/icons/brilliant-dynamis.png" class="bufficon"> will turn into **Spark of Dynamis** <img src="./assets/images/icons/spark-dynamis.png" class="bufficon">. Any player **without** **Brilliant Dynamis** <img src="./assets/images/icons/brilliant-dynamis.png" class="bufficon"> or **Spark of Dynamis** <img src="./assets/images/icons/spark-dynamis.png" class="bufficon"> will take lethal damage from any damage the boss inflicts. 
+
+{: .warning }
+> **Brilliant Dynamis** <img src="./assets/images/icons/brilliant-dynamis.png" class="bufficon"> and **Spark of Dynamis** <img src="./assets/images/icons/spark-dynamis.png" class="bufficon"> buffs are lost upon death so it is imperative players do not die during this phase until the very end.
+
+**Alpha Omega** will then cast **Cosmo Arrow** (aka **Exasquares**), and will perform 1 of 2 patterns of AOEs. These patterns are referred to as plus (in), or square/box (out):
+
+(image)
+
+Players must dodge these together at South West and mitigate as **Alpha Omega** will begin to cast **Cosmo Dive** as players are dodging the exasquares.
+
+**Cosmo Dive** will target the furthest player away with a stack AOE, and the two closest players with tankbuster AOEs.
+
+After 2 auto-attacks **Alpha Omega** will cast **Unlimited Wave Cannon** (aka **Exaflares**). Each player will stack under the boss to bait puddles, and move to the side of the **first exaflare** that spawned. They will then rotate **into** the exaflare and along the edge of the boss's hitbox until **6 puddles** have been dropped.
+
+{: .note }
+> **Sprint** can be used on the 4th/5th puddle drop to help players reach their spots, and mitigation can be used on the 5th/6th puddle drop.
+
+**Wave Cannon** will then begin casting. Players will run to their clock positions immediately after dropping the 6th puddle in **Unlimited Wave Cannon**. 
+
+During the **Wave Cannon** castbar 4 random players will be targeted for large line AOEs, then the other remaining 4 will be hit soon after. Players will then stack on C as **Wave Cannon** finishes casting, inflicting a high damage line stack. The 2 players at the front of the party will take increased damage, so tanks will take this position. 
+
+After 2 more auto-attacks, **Alpha Omega** will then cast another **Cosmo Arrow**. Players will have to split into groups of 2 on each intercardinal to dodge this pattern, as another **Wave Cannon** will be cast during **Cosmo Arrow**, requiring players to move to their clock positions during the dodge. DPS will be paired with a Support class during **Cosmo Arrow**, and **DPS will dodge clock-wise**, and **Supports will dodge counter clock-wise**.
+
+After taking their line AOEs, players will stack on C as the **Wave Cannon** cast finishes.
+
+**Alpha Omega** will then cast another **Unlimited Wave Cannon** followed by a **Cosmo Dive**. After the 6th puddle drop, the party will stay onm the edge of the hitbox whilst tanks move in to bait the tankbusters.
+
+Both melee DPS will use their LB3's after **Unlimited Wave Cannon**, and after two auto-attacks, everyone will group up under **Alpha Omega** as it casts:
+
+### Cosmo Meteor
+{: .everyone }
+> The physical ranged player of the group will take the North waymark for this mechanic, with the MT moving to the North West waymark to replace them.
+
+{: .healers }
+> After spreading to clock spots, the pure healer should be assigned the middle of the arena to help with heals.
+
+Each player will get a large puddle AOE under them and they will spread to their clock positions. Several meteor adds will then spawn in a circle around **Alpha Omega**: 6 **Cosmo Comets** and 2 **Cosmo Meteors** that will wipe the raid when they land. The Cosmo Meteors will always be aligned on the North/South Axis. 
+
+{: .note }
+> Players should be standing on the front edge of their waymark to ensure they receive healing.
+
+The Caster will then LB3 the dead center of the arena to kill the **Cosmo Comets** and significantly damage to the **Cosmo Meteors**. Four random players will then be hit by a **Cosmo Meteor** attack that deals proximity damage to surrounding players. Shortly after the remaining four players will take another set of **Cosmo Meteor** attacks. As soon as possible, the physical ranged player must LB3 **Alpha Omega** to cleave both **Cosmo Meteors** and kill them.
+
+While they are locked in their LB3 animation, 3 random players will be marked with **flares**. If the physical ranged player **does not** have a flare, the party will stack on them (the **A waymark**). If they **do** have a flare, the party will stack on the **C waymark**. The flares will spread to the other 3 cardinals that the party is not stacking on.
+
+A random **non-flare** player will then be targeted with a non-telegraphed stack that will be soaked with the party.
+
+{: .healers }
+> Healers will top up everyone to full for the last time after cosmo meteor, as there is no more lethal damage after this point.
+
+**Alpha Omega** will then begin to cast:
+
+### Magic Number
+
+
+
 
 
 
