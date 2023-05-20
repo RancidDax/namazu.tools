@@ -459,7 +459,7 @@ User **sausoftheroll** has compiled a list of possible dodges into a YouTube pla
 {: .warning }
 Anyone who fails to make this dodge will take **HEAVY** damage and be inflicted by a damage down debuff.
 
-After the dodges are resolved **Omega-F** will become untargetable and dissapear. **Final Omega** will then point a monitor at either true East or true West. Like before, two players must be hit by this monitor while the rest need to line up for the **first Hello World** section.
+After the dodges are resolved, **Omega-F** will become untargetable and disappear. **Final Omega** will then point a monitor at either true East or true West. Like before, two players must be hit by this monitor while the rest need to line up for the **first Hello World** section.
 
 The party will then line up as seen below:
 
