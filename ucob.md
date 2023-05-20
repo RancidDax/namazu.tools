@@ -2,6 +2,7 @@
 layout: default
 title: UCOB
 parent: Ultimates
+nav_order: 5
 ---
 
 {% include custom.html %}
