@@ -320,10 +320,14 @@ This phase is very mechanically heavy, having 3 trios and lasting approximately 
 Each trio is split into a "mechanic" section and a "Hello World" section. During the Hello World sections, two players are assigned the debuffs:
 
 **Hello, Distant World** <img src="./assets/images/icons/distant-world.png" class="bufficon">
- > Causes a large AOE on the player, inflicting them with 1 stack of **Quickening Dynamis** <img src="./assets/images/icons/quickening-dynamis.png" class="bufficon">. The AOE will then "bounce" to the **furthest player** away causing a smaller AOE and inflicting that player with 1 stack of **Quickening Dynamis** <img src="./assets/images/icons/quickening-dynamis.png" class="bufficon">. The AOE will bounce once more to the **furthest player** away, causing the same small AOE and inflicting the player with 1 stack of **Quickening Dynamis** <img src="./assets/images/icons/quickening-dynamis.png" class="bufficon">.
+> Causes a large AOE on the player. This AOE "bounces" to the **furthest player away** causing a smaller AOE. The AOE then "bounces" once more to the **furthest player away** again. 
+> 
+> These AOEs inflict 1 stack of **Quickening Dynamis** <img src="./assets/images/icons/quickening-dynamis.png" class="bufficon"> to each player.
 
 **Hello, Near World** <img src="./assets/images/icons/near-world.png" class="bufficon">
- > Causes a large AOE on the player, inflicting them with 1 stack of **Quickening Dynamis** <img src="./assets/images/icons/quickening-dynamis.png" class="bufficon">. The AOE will then "bounce" to the **closest player** to them, causing a smaller AOE and inflicting that player with 1 stack of **Quickening Dynamis** <img src="./assets/images/icons/quickening-dynamis.png" class="bufficon">. The AOE will bounce once more to the **closest player** again, causing the same small AOE and inflicting the player with 1 stack of **Quickening Dynamis** <img src="./assets/images/icons/quickening-dynamis.png" class="bufficon">.
+> Causes a large AOE on the player. This AOE "bounces" to the **closest player** causing a smaller AOE. The AOE then "bounces" once more to the **closest player** again. 
+> 
+> These AOEs inflict 1 stack of **Quickening Dynamis** <img src="./assets/images/icons/quickening-dynamis.png" class="bufficon"> to each player.
 
 The goal of the entirety of phase 5 is to end the phase with three stacks of **Quickening Dynamis** <img src="./assets/images/icons/quickening-dynamis.png" class="bufficon"> on every player, as this is required to complete phase 6.
 
@@ -464,7 +468,7 @@ Anyone who fails to make this dodge will take **HEAVY** damage and be inflicted 
 
 After the dodges are resolved, **Omega-F** will become untargetable and disappear. **Final Omega** will then point a monitor at either true East or true West. Like before, two players must be hit by this monitor while the rest need to line up for the **first Hello World** section.
 
-The two players that must be hit by the monitor are picked to be players with 2 stacks of **Quickening Dynamis** <img src="./assets/images/icons/quickening-dynamis.png" class="bufficon">. Players with 2 stacks *and* **Second in Line** take priority for this position.
+The two players that must be hit by the monitor are picked to be players with 2 stacks of **Quickening Dynamis** <img src="./assets/images/icons/quickening-dynamis.png" class="bufficon">. Players with 2 stacks *and* **Second in Line** <img src="./assets/images/icons/second-in-line.png" class="bufficon"> take priority for this position.
 
 The party will then line up as seen below:
 
