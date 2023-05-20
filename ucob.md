@@ -226,7 +226,41 @@ Finally, Stand in a {% glossary Neurolink %} for phase transition.
 
 ## Phase 2: Nael
 
-### Key Mechanics
+<details markdown=1>
+<summary>View Nael Timeline</summary>
+
+1. TB + 2min opener
+2. Thunder debuffs out - form a mickey mouse
+3. 1st Quotes, prepare to resolve (IN + OUT/STACK)
+4. First doom + Fire Tether (IN)
+5. Second doom + TB
+6. Fire Tether (OUT)
+7. Thunders out, away from party + 2nd Quotes (STACK + IN/OUT)
+8. First doom
+9. Second doom + Thunders out, away from party
+10. Third doom + Fire Tether (IN)
+11. TB + spread out loosely 
+12. 3rd Quote + Nael dive (SPREAD + IN/OUT)
+13. Thunder debuffs out + Fire Tether (IN) (Thunder leave as soon as fire tether animation is gone, 3sec on Debuff)
+14. First doom 
+15. Second doom
+16. Third doom
+17. Ravensbeak (SWAP)
+18. Dive bait 1 out
+19. 4th Quotes out (TB + STACK or SPREAD + TB) + Dive bait 2 out
+20. Dive bait 3 out + Nael drops on ST
+21. ST TB
+22. Other things we hope to skip that has all the quotes 
+
+If you have not phased yet, just get ready for misc quotes until Enrage or you hit 0%.
+
+</details>
+
+The fight starts and a pillar will drop in the room, spread out for Meteor Stream and dodge the cleaves.
+
+Boss will enter on a tank and the party will stack up behind the boss ready for the first quotes. Nael will use {% glossary Bahamuts Claw %} and then summon 5 dragons around the room with **Bahamuts Favor**
+
+The 5 dragons will use various abilities through the phase that players need to deal with:
 
 {: .everyone }
 > {% glossary Thunderstruck %} Two players are targeted with the {% glossary Thunderstruck %} debuff and need to stay away from the party to avoid killing party members or giving them paralysis.
@@ -234,6 +268,10 @@ Finally, Stand in a {% glossary Neurolink %} for phase transition.
 > {% glossary Wings of Salvation %} Large white puddles appear on the ground exploding shortly after, lethal damage if you are in the puddle when it explodes. It leaves behind a small white puddle after the explosion which can remove doom.
 > 
 > {% glossary Doom %} Inflicted to multiple players, will kill the player when the timer reaches zero. You can remove this by stepping in the light-puddle left behind by Wings of Salvation.
+> 
+> **Icebitten**: Ice Dragon will hit players with Iceball applying the Icebitten debuff or removing Firescorched, if you are hit with Iceball again while you have Icebitten you will die.
+>
+> **Firescorched**: Fire Dragon will target players with a tether, this eventually explodes in a small AOE applying **Firescorched** or removing **Icebitten**. Being hit by the AOE from the tether while you already have **Firescorched** is fatal.
 
 {: .tanks }
 > {% glossary Dalamud Dive %} Nael jumps onto her target, dealing significant splash damage. Make sure to spread away from the tank to prevent any extra damage.
@@ -242,25 +280,16 @@ Finally, Stand in a {% glossary Neurolink %} for phase transition.
 > 
 > Nael enters with {% glossary Dalamud Dive %} on **Tank with last aggro on Twintania**, followed by {% glossary Bahamuts Claw %}. Use an Invuln here and keep this away from party.
 
-### Icebitten and Firescorched
+### First Quotes
 
-Through the phase, dragons will attack players with iceballs and AOE other players with a fire tether, each applies a debuff or removes the opposite debuff. If you have either debuff and you are hit by the same effect again (ie: hit by fireball and you already have firescorched <img src="./assets/images/icons/firescorched.png" class="bufficon">) you will die.
+Two players will now get {% glossary Thunderstruck %} followed by the first set of quotes.
 
-To safely manage this, you will stack together for Fire tethers, to remove the ice debuffs from the party. There will be **FOUR** fire tethers during the phase and they should be stacked or taken out of the group using the following order;
-
-**IN > OUT > IN > IN**
-
-This means the first tether is stacked, the second tether is taken out of the party, and the third and fourth fire tether are also stacked with the party. It is each members responsibility to monitor their debuffs and ensure they are in the fire stacks in time.
-
-The second fire tether is usually taken out to the LEFT of the party stack location.
-<img src="./assets/images/ucobfire2.png" alt="UCOB Markers" style="height: 300px">
-
-{: .important }
-Whoever gets the second fire tether and takes it out of the party must AVOID the third fire tether as they will already have the fire debuff and this will kill them if they join the stack.
-
-### Quotes
+<details markdown=1>
+<summary>Nael Quotes Explained</summary>
 
 Through the phase Nael will say various quotes, these are indicators for upcoming mechanics, if you cannot translate the quotes then you will die to the mechanics. Each quote translates to a pair of mechanics in this phase. 
+
+Here are all the possible quotes from this phase:
 
 - O hallowed moon, take fire and scorch my foes! = {% glossary Lunar Dynamo %} → {% glossary Thermionic Beam %}
 - O hallowed moon, shine you the iron path! = {% glossary Lunar Dynamo %} → {% glossary Iron Chariot %}
@@ -291,19 +320,101 @@ QUOTE 4:
 
 *Don't tell yoshi-p but there are some good tools to help quickly translate quotes to more understandable mechanics...*
 
-### Phase Overview
-
-The fight starts and a pillar will drop in the room, spread out for Meteor Stream and dodge the cleaves.
-
-Boss will enter on a tank and the party will stack up behind the boss ready for the first quotes. Two players will get {% glossary Thunderstruck %}.
+</details>
 
 Quotes 1: 
-- O hallowed moon, take fire and scorch my foes! (IN → STACK)
-- O hallowed moon, shine you the iron path! (IN → SPREAD)
+- O hallowed moon, take fire and scorch my foes! = {% glossary Lunar Dynamo %} → {% glossary Thermionic Beam %}
+- O hallowed moon, shine you the iron path! = {% glossary Lunar Dynamo %} → {% glossary Iron Chariot %}
 
-The two players with {% glossary Thunderstruck %} must seperate from the party and take up a position near the boss opposite the party. Thunderstruck will resolve before the second mechanic in the quote.
+The two players with {% glossary Thunderstruck %} must seperate from the party and take up a position near the boss on north side. {% glossary Thunderstruck %} will resolve before the second mechanic in the quote. Two players who had {% glossary Thunderstruck %} then rejoin or run out depending on quotes.
 
 <img src="./assets/images/ucobthunder.png" alt="UCOB Markers" style="height: 300px">
+
+{% glossary Doom %} will apply to two players (6s and 10s). {% glossary Wings of Salvation %} will target a party member and the party should rotate **clockwise** around the boss. Shortest {% glossary Doom %} timer takes the small puddle after {% glossary Wings of Salvation %} explodes. Another {% glossary Wings of Salvation %} and {% glossary Doom %} cleanse following that. {% glossary Bahamuts Claw %} will happen during {% glossary Doom %} cleanses.
+
+You should be taking the cleanse puddle when your Doom is less than **5 seconds**.
+
+During the first quotes, a player will also get targetted with a **Fire Tether**, this should be stacked with the party to remove and **Icebitten** debuffs. 
+
+<details markdown=1>
+<summary>Fire Tethers Explained</summary>
+
+### Icebitten and Firescorched Debuffs
+
+Through the phase, dragons will attack players with iceballs and AOE other players with a fire tether, each applies a debuff or removes the opposite debuff. If you have either debuff and you are hit by the same effect again (ie: hit by fireball and you already have firescorched <img src="./assets/images/icons/firescorched.png" class="bufficon">) you will die.
+
+To safely manage this, you will stack together for Fire tethers, to remove the ice debuffs from the party. There will be **FOUR** fire tethers during the phase and they should be stacked or taken out of the group using the following order;
+
+**IN > OUT > IN > IN**
+
+This means the first tether is stacked, the second tether is taken out of the party, and the third and fourth fire tether are also stacked with the party. It is each members responsibility to monitor their debuffs and ensure they are in the fire stacks in time.
+
+{: .important }
+Whoever gets the second fire tether and takes it out of the party must AVOID the third fire tether as they will already have the fire debuff and this will kill them if they join the stack.
+
+</details>
+
+{: .note }
+Party should aim to move together as one, **clockwise** around the boss as each {% glossary Wings of Salvation %} to avoid accidentally stealing the cleanse puddles needed to remove {% glossary Doom %}.
+
+Second Fire Tether appears and this should be taken **OUT**** of the party stack.
+
+<img src="./assets/images/ucobfire2.png" alt="UCOB Markers" style="height: 300px">
+
+{% glossary Thunderstruck %} will apply to two players after fireball resolves, these need to leave the party stack.
+
+### Second Quotes
+
+Party should be stacked in preparation for second quotes.
+
+Quotes 2: 
+- Blazing path, lead me to iron rule! = {% glossary Thermionic Beam %} → {% glossary Iron Chariot %}
+- Take fire, O hallowed moon! = {% glossary Thermionic Beam %} → {% glossary Lunar Dynamo %}
+
+This will always be a stack first, so prep with some light mits. Following quotes will be another set of {% glossary Doom %} and {% glossary Wings of Salvation %}, this time on **Three** players.
+
+After the third {% glossary Wings of Salvation %} another two players will get {% glossary Thunderstruck %} and should leave the party stack. 
+
+Third **Fire Tether** will appear and this should be stacked with the party. Players who had {% glossary Thunderstruck %} will need to make sure they get back to the stack for this. 
+
+{: .note }
+The player who had to take Second Fire Tether MUST NOT be in the Third Fire Tether stack, otherwise you will die due to still having **Firescorched** from the Second Tether.
+
+Nael will follow this up with another {% glossary Bahamuts Claw %} for Tanks.
+
+### Third Quotes
+
+Prepare for Third Quotes by pre-spreading as this will always start with a {% glossary Raven's Dive %} spread.
+
+This is the default spread with H1 on waymark 4.
+```
+   MT    ST
+D1    H1   D2
+D3    H2   D4
+```
+
+Quotes 3:
+- From on high I descend, the iron path to call! or From on high I descend, the iron path to walk! = {% glossary Raven's Dive %} → {% glossary Iron Chariot %}
+- From on high I descend, the hallowed moon to call! = {% glossary Raven's Dive %} → {% glossary Lunar Dynamo %}
+
+During the quotes, another Fire Tether will target a player and two more players will get {% glossary Thunderstruck %}. This {% glossary Thunderstruck %} will resolve **AFTER** the Fire Tether. The party will stack for the Fire Ball and players with {% glossary Thunderstruck %} should run out when they have 3 seconds left on their {% glossary Thunderstruck %} debuff to ensure they get hit by the Fire Ball.
+
+Following the fireball will be another set of {% glossary Doom %} and {% glossary Wings of Salvation %} on **Three** players.
+
+### Divebombs and Fourth Quotes
+
+The dragons on the outside of the room will start targetting players for Dives, Three players will be fixated with a green marker on their head, these go out one at a time.
+
+<img src="./assets/images/divemarker.png" alt="Dive Marker" style="height: 200px">
+
+The Dragons will dive in sets of **2-1-2** starting at True North. The 1st and 2nd Dragon will fixate on the 1st marked player. The 3rd Dragon will fixate on the 2nd marked player, and the last two dragons will fixate on the 3rd marked player.
+
+Your goal is to position the three marked players in such a way that they bait the Dragon Dives away from the middle of the room.
+
+Nael will also be targetting the furthest players with {% glossary Hypernova %}, players baiting dives will need to watch out for these as they move out.
+
+{: .note }
+The Dragons will LOCK ON to the players position when the green marker above them dissapears, so they need to be in the correct position when it vanishes.
 
 
 ## Phase 3: Bahamut

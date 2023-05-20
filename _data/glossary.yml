@@ -68,3 +68,5 @@
   definition: Boss will jump to a player and hit them with a small AOE knocking back anyone nearby.
 - term: Meteor Stream
   definition: Boss dives down on several players hitting them with a heavy attack in an AOE around them.
+- term: Hypernova
+  definition: Boss will target a player with a AoE puddle at their location, staying in the puddle too long is fatal.
