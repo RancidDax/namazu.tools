@@ -146,21 +146,20 @@ The possible combinations are:
 {: .note }
 > The "cursed" pattern (F-Staff & M-Shield) can be easily resolved by using the far edges of the waymarks eitherside of the male.
 > 
-> These waymarks also help to position during Mid/Remote Glitch.
+> These waymarks also help to position during **Mid/Remote Glitch.**
 
-Once the dodge is made, all players must resolve their Mid/Remote Glitch by splitting into the previously designated light parties and moving to the West (LP1) and East (LP2) **relative to Omega's Eye**. 
+Once the dodge is made, all players must resolve their **Mid/Remote Glitch** by splitting into the previously designated light parties and moving to the West (LP1) and East (LP2) **relative to Omega's Eye**. 
 
 After each player takes an AOE, two stacks will then appear on two random players. Multiple clones will spawn around the arena, including a line of 3 Males, and 1 Female in the center. Using the **middle of the 3 males as relative north**, the party must form two stacks in their designated light parties around the female to get pushed back to 1 of 3 safe spots.
 
-Light Party 1 will always anchor West, and Light Party 2 will either be pushed South for Mid Glitch, or East for Remote Glitch.
+Light Party 1 will always anchor West, and Light Party 2 will either be pushed South for **Mid Glitch** <img src="./assets/images/icons/mid-glitch.png" class="bufficon">, or East for **Remote Glitch** <img src="./assets/images/icons/remote-glitch.png" class="bufficon">.
 
-If the stack players are part of the **same light party** the north most stack relative to the eye must swap positions with their partner. **(video)**
+If the stack players are part of the **same light party** the north most stack relative to the eye must swap positions with their partner. 
+
+**(video)**
 
 {: .tanks }
 > Between the start of the phase and after party synergy Omega-M has changed to Omega-F and vice versa, meaning you will both have to re-provoke your boss.
-
-{: .everyone }
-> The party should pre-position at South-South-West for the upcoming mechanic.
 
 After ~5 auto-attacks from each boss, both Omega-M and Omega-F will cast:
 
