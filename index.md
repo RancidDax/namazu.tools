@@ -17,15 +17,23 @@ We hope you can find this site useful in your adventures in FF14, you can join t
 This site is still early in development and we are actively updating it with new content, we apologize if some pages appear unfinished! 🙂
 
 ## Ultimates
-[UWU](/uwu){: .btn .btn-purple }
 [UCOB](/ucob){: .btn .btn-purple }
-[TEA](/tea){: .btn .btn-purple }
-[DSR](/dsr){: .btn .btn-purple }
+
 [TOP](/top){: .btn .btn-purple }
 
+[TEA](/tea){: .btn .btn-purple }
+Coming Soon
+{: .label .label-red }
 
-## Pandaemonium (Savage)
+[DSR](/dsr){: .btn .btn-purple }
+Coming Soon
+{: .label .label-red }
 
+[UWU](/uwu){: .btn .btn-purple }
+Coming Soon
+{: .label .label-red }
+
+## Pandaemonium (Coming Soon)
 Coming Soon 
 {: .label .label-red }
 
