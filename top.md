@@ -467,9 +467,9 @@ User **sausoftheroll** has compiled a list of possible dodges into a YouTube pla
 {: .warning }
 Anyone who fails to make this dodge will take **HEAVY** damage and be inflicted by a damage down debuff.
 
-After the dodges are resolved, **Omega-F** will become untargetable and disappear. **Final Omega** will then point a monitor at either true East or true West. Like before, two players must be hit by this monitor while the rest need to line up for the **first Hello World** section.
+After the dodges are resolved, **Omega-F** will become untargetable and disappear. **Final Omega** will then point a monitor at either true East or true West. Like before, two players must be hit by this monitor while the rest need to line up for the first **Hello World** section.
 
-The two players that must be hit by the monitor are picked to be players with 2 stacks of **Quickening Dynamis** <img src="./assets/images/icons/quickening-dynamis.png" class="bufficon">. Players with 2 stacks *and* **Second in Line** <img src="./assets/images/icons/second-in-line.png" class="bufficon"> take priority for this position.
+The two players that must be hit by the monitor are picked to be players with 2 stacks of **Quickening Dynamis** <img src="./assets/images/icons/quickening-dynamis.png" class="bufficon">. Players with 2 stacks *and* **Second in Line** <img src="./assets/images/icons/second-in-line.png" class="bufficon"> take priority for this position. If these players are not given the monitor position, they cannot line up for the 2nd Hello World as they will have 3 stacks of **Quickening Dynamis** <img src="./assets/images/icons/quickening-dynamis.png" class="bufficon"> and will get a 4th from their own **Hello World** debuff, forcing a wipe.
 
 The party will then line up as seen below:
 
@@ -480,7 +480,7 @@ The party will then line up as seen below:
 {: .note }
 > If solved correctly, 2 players will have 3 stacks of **Quickening Dynamis** <img src="./assets/images/icons/quickening-dynamis.png" class="bufficon"> and the remaining 6 will have 2 stacks of **Quickening Dynamis** <img src="./assets/images/icons/quickening-dynamis.png" class="bufficon">.
 
-**Beetle Omega** will then spawn on a random cardinal, and a second **Hello World** line up must be formed. The players with **3 stacks** of **Quickening Dynamis** <img src="./assets/images/icons/quickening-dynamis.png" class="bufficon"> must take two tethers from **Beetle Omega** while the other 6 players position themselves as seen below:
+**Beetle Omega** will then spawn on a random cardinal, and a second and final **Hello World** line up must be formed. The players with **3 stacks** of **Quickening Dynamis** <img src="./assets/images/icons/quickening-dynamis.png" class="bufficon"> must take two tethers from **Beetle Omega** while the other 6 players position themselves as seen below:
 
 (image)
 
