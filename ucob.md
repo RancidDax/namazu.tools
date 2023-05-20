@@ -419,6 +419,10 @@ You need to bait the dives in such a way to avoid the middle of the room, such a
 
 ![image](https://github.com/The-Seat-of-Namazu/namazu.tools/assets/85346345/f15b6fa4-c5e2-493e-ade0-3ec4c5374370)
 
+Some alternative possible patterns...
+
+![image](https://github.com/The-Seat-of-Namazu/namazu.tools/assets/85346345/00b5589c-8430-4b5b-af15-2f22f0180db6)
+
 Try out the Divebomb simulator here to practice solving these yourself: 
 
 [Divebomb Simulator](https://freehaha.github.io/nael-dive/){: .btn .btn-purple }
