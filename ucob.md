@@ -14,7 +14,7 @@ parent: Ultimates
 MUR Strats 
 {: .label .label-purple }
 
-This guide is based of the original and very detailed guide by Clees, which can be found below:
+This guide is based off the original and very detailed guide by Clees, which can be found below:
 
 [Clees Guide](https://clees.me/guides/ucob/){: .btn .btn-purple }
 
