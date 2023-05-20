@@ -2,6 +2,7 @@
 layout: default
 title: DSR
 parent: Ultimates
+nav_order: 2
 ---
 
 {% include custom.html %}
