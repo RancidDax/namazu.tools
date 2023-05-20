@@ -320,10 +320,10 @@ This phase is very mechanically heavy, having 3 trios and lasting approximately 
 Each trio is split into a "mechanic" section and a "Hello World" section. During the Hello World sections, two players are assigned the debuffs:
 
 **Hello, Distant World**
- > Causes a large AOE on the player, inflicting them with 1 stack of **Spark of Hope**. The AOE will then "bounce" to the **furthest player** away causing a smaller AOE and inflicting that player with 1 stack of **Spark of Hope**. The AOE will bounce once more to the **furthest player** away, causing the same small AOE and inflicting the player with 1 stack of **Spark of Hope**
+ > Causes a large AOE on the player, inflicting them with 1 stack of **Quickening Dynamis**. The AOE will then "bounce" to the **furthest player** away causing a smaller AOE and inflicting that player with 1 stack of **Quickening Dynamis**. The AOE will bounce once more to the **furthest player** away, causing the same small AOE and inflicting the player with 1 stack of **Quickening Dynamis**
 
 **Hello, Near World**
- > Causes a large AOE on the player, inflicting them with 1 stack of **Spark of Hope**. The AOE will then "bounce" to the **closest player** to them, causing a smaller AOE and inflicting that player with 1 stack of **Spark of Hope**. The AOE will bounce once more to the **closest player** again, causing the same small AOE and inflicting the player with 1 stack of **Spark of Hope**
+ > Causes a large AOE on the player, inflicting them with 1 stack of **Quickening Dynamis**. The AOE will then "bounce" to the **closest player** to them, causing a smaller AOE and inflicting that player with 1 stack of **Quickening Dynamis**. The AOE will bounce once more to the **closest player** again, causing the same small AOE and inflicting the player with 1 stack of **Quickening Dynamis**
 
 The goal of the entirety of phase 5 is to end the phase with three stacks of **Spark of Hope** on every player, as this is required to complete phase 6.
 
@@ -382,7 +382,7 @@ After the Monitors resolve, **Beetle Omega** will cleave one side of the arena w
 > Similarly, the second **Christmas Tether** break can be done at ~2 seconds.
 
 {: .note }
-> If solved correctly, 6 players will have 1 stack of **Spark of Hope**.
+> If solved correctly, 6 players will have 1 stack of **Quickening Dynamis**.
 
 Omega-M will then do another **Solar Ray** tank buster which the OT will invuln, before casting:
 
@@ -428,7 +428,7 @@ Players will then move into their **Hello World** positions as seen below:
 > If you are not running AMs players can pre-position in a line up while they are waiting for the rotating AOE to begin, indicating which position they will take.
 
 {: .note }
-> If solved correctly, 4 players will have 1 stack of **Spark of Hope**, and 4 players will have 2 stacks of **Spark of Hope**.
+> If solved correctly, 4 players will have 1 stack of **Quickening Dynamis**, and 4 players will have 2 stacks of **Spark of Hope**.
 
 **Omega-F** will then spawn in the center and become targetable.
 
@@ -461,29 +461,27 @@ Anyone who fails to make this dodge will take **HEAVY** damage and be inflicted 
 
 After the dodges are resolved, **Omega-F** will become untargetable and disappear. **Final Omega** will then point a monitor at either true East or true West. Like before, two players must be hit by this monitor while the rest need to line up for the **first Hello World** section.
 
+The two players that must be hit by the monitor are picked to be players with 2 stacks of **Quickening Dynamis**. Players with 2 stacks *and* **Second in Line** take priority for this position.
+
 The party will then line up as seen below:
 
 (image)
 
-> If you are not running AMs, the two players that must be hit by the monitor are picked to be players with 2 stacks of **Spark of Hope**. Players with 2 stacks *and* **Second in Line** take priority for this position.
-> 
-> However, the line up used in this strategy can prove awkward and difficult to pre-position for if not using AMs.
+> If you are not running AMs, the line up used in this strategy can prove awkward and difficult to pre-position for.
 
 {: .note }
-If solved correctly, 2 players will have 3 stacks of **Spark of Hope** and the remaining 6 will have 2 stacks of **Spark of Hope**
+If solved correctly, 2 players will have 3 stacks of **Quickening Dynamis** and the remaining 6 will have 2 stacks of **Spark of Hope**
 
-**Beetle Omega** will then spawn on a random cardinal, and a second **Hello World** line up must be formed. The players with **3 stacks** of **Spark of Hope** must take two tethers from **Beetle Omega** while the other 6 players position themselves as seen below:
+**Beetle Omega** will then spawn on a random cardinal, and a second **Hello World** line up must be formed. The players with **3 stacks** of **Quickening Dynamis** must take two tethers from **Beetle Omega** while the other 6 players position themselves as seen below:
 
 (image)
 
 {: .note }
-> If solved correctly **all 8 players will have 3 stacks of Spark of Hope**.
+> If solved correctly all 8 players will have 3 stacks of **Quickening Dynamis**.
 
 Omega-F will then become targetable and do one last **Solar Ray** tank buster, forcing a tank swap.
 
-Omega-F must be below 20% health before she finishes casting her enrage: **Blind Faith**
-
-All players will be knocked back to the edge of the arena before the cutscene plays.
+Omega-F must be below 20% health before she finishes casting her enrage: **Blind Faith**, which will knock back all players to the edge of the arena before the cutscene plays.
 
 {: .note }
 > Where you are knocked back to is where you will begin the next phase. Everyone should be knocked to **true South** as mitigation is applied early in phase 6.
