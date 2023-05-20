@@ -560,6 +560,25 @@ After towers resolve, party stack and heal for a {% glossary Gigaflare %}, follo
 ### Fellruin Trio (FRT)
 [FRT Toolbox](https://ff14.toolboxgaming.space/?id=810783368854861&preview=1){: .btn .btn-blue }
 
+Nael, Bahamut and Twin will spawn on a {% glossary Neurolink %}.
+
+Party should move to Nael, this becomes **South**
+
+Nael will do another set of Quotes:
+- "From hallowed moon I descend, a rain of stars to bring!" = {% glossary Lunar Dynamo %} → {% glossary Raven's Dive %} → {% glossary Meteor Stream %}
+- "From on high I descend, the moon and stars to bring!" = {% glossary Raven's Dive %} → {% glossary Lunar Dynamo %} → {% glossary Meteor Stream %}
+
+This resolves into either **SPREAD > IN** or **IN > SPREAD**.
+
+Spread is centered on Nael using the same spread pattern as Nael phase.
+
+![image](https://github.com/The-Seat-of-Namazu/namazu.tools/assets/85346345/69fa32e9-bb34-42f0-bbf2-1ddb63c50740)
+
+Depending on the Quote, Nael will either jump to a player and then perform a {% glossary Lunar Dynamo %} or {% glossary Raven's Dive %}, and then {% glossary Raven's Dive %} or {% glossary Lunar Dynamo %}.
+
+Tanks need to grab the two {% glossary Tempest Wing %} Tethers coming from Bahamut. MT runs to Bahamut and OT runs to Twintania.
+
+
 
 ## Phase 4: Adds
 Coming Soon
