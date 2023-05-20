@@ -2,6 +2,7 @@
 layout: default
 title: TOP
 parent: Ultimates
+nav_order: 1
 ---
 
 {% include custom.html %}
