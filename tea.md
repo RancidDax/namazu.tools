@@ -2,6 +2,7 @@
 layout: default
 title: TEA
 parent: Ultimates
+nav_order: 3
 ---
 
 {% include custom.html %}
