@@ -425,12 +425,15 @@ If you have an experience party member, they will often call the bait positions 
 <summary>More Examples..</summary>
 
 Solution: **3 7 10**
+
 ![image](https://github.com/The-Seat-of-Namazu/namazu.tools/assets/85346345/00b5589c-8430-4b5b-af15-2f22f0180db6)
 
 Solution: **5 9 12**
+
 ![image](https://github.com/The-Seat-of-Namazu/namazu.tools/assets/85346345/bd087b32-a861-406b-b791-2b21cc9ff614)
 
 Solution: **11 5 7**
+
 ![image](https://github.com/The-Seat-of-Namazu/namazu.tools/assets/85346345/6d04b1c7-5842-4d4f-be86-3ad29e863d6a)
 
 </details>
