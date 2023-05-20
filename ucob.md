@@ -558,6 +558,8 @@ Before towers resolve, Nael will send out two {% glossary Hypernova %}, wait for
 After towers resolve, party stack and heal for a {% glossary Gigaflare %}, followed by {% glossary Flare Breath %} followed by {% glossary Flatten %} on Tanks.
 
 ### Fellruin Trio (FRT)
+[FRT Toolbox](https://ff14.toolboxgaming.space/?id=810783368854861&preview=1){: .btn .btn-blue }
+
 
 ## Phase 4: Adds
 Coming Soon
