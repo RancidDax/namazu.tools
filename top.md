@@ -550,18 +550,31 @@ Each player will get a large puddle AOE under them and they will spread to their
 {: .note }
 > Players should be standing on the front edge of their waymark to ensure they receive healing.
 
-The Caster will then LB3 the dead center of the arena to kill the **Cosmo Comets** and significantly damage to the **Cosmo Meteors**. Four random players will then be hit by a **Cosmo Meteor** attack that deals proximity damage to surrounding players. Shortly after the remaining four players will take another set of **Cosmo Meteor** attacks. As soon as possible, the physical ranged player must LB3 **Alpha Omega** to cleave both **Cosmo Meteors** and kill them.
+The Caster will then LB3 the dead center of the arena to kill the **Cosmo Comets** and deal significant damage to the **Cosmo Meteors**. All 8 players will get hit by 2 sets of 4 **Cosmo Meteors** that will deal proximity damage to surrounding players.  As soon as possible, the physical ranged player must LB3 **Alpha Omega** to cleave both **Cosmo Meteors** and kill them.
 
-While they are locked in their LB3 animation, 3 random players will be marked with **flares**. If the physical ranged player **does not** have a flare, the party will stack on them (the **A waymark**). If they **do** have a flare, the party will stack on the **C waymark**. The flares will spread to the other 3 cardinals that the party is not stacking on.
+While they are locked in their LB3 animation, 3 random players will be marked with **flares**. If the physical ranged player **does not** have a flare, the party will stack on them (the **A waymark**). If they **do** have a flare, the party will stack on the opposite side of the arena (the **C waymark**). The flares will spread to the other 3 cardinals that the party is not stacking on.
 
 A random **non-flare** player will then be targeted with a non-telegraphed stack that will be soaked with the party.
 
 {: .healers }
-> Healers will top up everyone to full for the last time after cosmo meteor, as there is no more lethal damage after this point.
+> Healers will top up everyone to full for the very last time after cosmo meteor, as there is no more lethal damage after this point.
 
 **Alpha Omega** will then begin to cast:
 
 ### Magic Number
+
+**Alpha Omega** will then cast the first **Magic Number**. Tanks must LB3 this to survive. Shortly after the hit a 6s **Magic Number** <img src="./assets/images/icons/magic-number.png" class="bufficon"> debuff will be applied to the party, killing the player once the debuff falls off. This debuff is cleansed by a healer LB3.
+
+{: .note }
+> Although I said before that it's important to not have players die in p6, there is an exception. DRK is able to **click off** the tank LB3 for both magic numbers, and get resurrected by the healer LB3. This results in **no weakness** and **full mana** when they are resurrected, netting a DPS gain.
+
+{: .healers }
+> Healers should wait for the debuff to actually appear before casting their LB3, as **Magic Number** <img src="./assets/images/icons/magic-number.png" class="bufficon"> takes a second or two to apply after the initial damage goes out.
+
+This set of mechanics repeats twice, until **Alpha Omega** casts the final enrage:
+
+##### **Run: Dynamis**
+
 
 
 
