@@ -287,6 +287,8 @@ Two players will now get {% glossary Thunderstruck %} followed by the first set 
 <details markdown=1>
 <summary>Nael Quotes Explained</summary>
 
+#### Nael Quotes Explained
+
 Through the phase Nael will say various quotes, these are indicators for upcoming mechanics, if you cannot translate the quotes then you will die to the mechanics. Each quote translates to a pair of mechanics in this phase. 
 
 Here are all the possible quotes from this phase:
@@ -339,7 +341,7 @@ During the first quotes, a player will also get targetted with a **Fire Tether**
 <details markdown=1>
 <summary>Fire Tethers Explained</summary>
 
-### Icebitten and Firescorched Debuffs
+#### Icebitten and Firescorched Debuffs
 
 Through the phase, dragons will attack players with iceballs and AOE other players with a fire tether, each applies a debuff or removes the opposite debuff. If you have either debuff and you are hit by the same effect again (ie: hit by fireball and you already have firescorched <img src="./assets/images/icons/firescorched.png" class="bufficon">) you will die.
 
