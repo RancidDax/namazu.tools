@@ -494,8 +494,6 @@ Use heavy heals during the **Calamitous Flames**, you want to make sure the part
 
 Bahamut will follow this up with Tank mechanics, First a {% glossary Flare Breath %} followed by {% glossary Flatten %}.
 
-This will then begin Quickmarch Trio, the first of the Trios.
-
 ### Quickmarch Trio (QMT)
 [QMT Toolbox](https://ff14.toolboxgaming.space/?id=877146678916361&preview=1){: .btn .btn-blue }
 
@@ -538,7 +536,25 @@ This is heavy damage and needs to be topped up fast. Suggest saving swift-cast a
 
 Party will split into roles at the wall, **Tanks and Healers split left** and **DPS right**.
 
+![image](https://github.com/The-Seat-of-Namazu/namazu.tools/assets/85346345/1277de86-0f8a-4472-8a7a-7de7058646ac)
 
+All players run south, Two DPS and Two Tank/Healers get stack markers, run these to south of the {% glossary Liquid Hell %} puddles.
+
+Non-stack markers should move **NEAR** one of the four towers that have spawned. 
+
+Priority for Towers (relative north to south)
+```
+MT     Nael   D1
+ST            D2
+H1            D3
+H2    STACK   D4
+```
+
+Before towers resolve, Nael will send out two {% glossary Hypernova %}, wait for these to go out **Before** moving into the towers.
+
+After towers resolve, party stack and heal for a {% glossary Gigaflare %}, followed by {% glossary Flare Breath %} followed by {% glossary Flatten %} on Tanks.
+
+### Fellruin Trio (FRT)
 
 ## Phase 4: Adds
 Coming Soon
