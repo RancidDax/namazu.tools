@@ -454,8 +454,7 @@ After the towers are soaked, **Final Omega's Blades** will spawn in the center w
 
 Players will then move into their **Hello World** positions as seen below:
 
-(image) 
-
+[![](https://github.com/The-Seat-of-Namazu/namazu.tools/assets/104756079/e096327b-c6f3-4e75-8484-5b6a314de6c4)](https://github.com/The-Seat-of-Namazu/namazu.tools/assets/104756079/e096327b-c6f3-4e75-8484-5b6a314de6c4)
 
 > If you are not running AMs players can pre-position in a line up while they are waiting for the rotating AOE to begin, indicating which position they will take.
 
@@ -505,7 +504,7 @@ If these players are not given the monitor position, they cannot line up for the
 
 The party will then line up as seen below:
 
-(image)
+[![](https://github.com/The-Seat-of-Namazu/namazu.tools/assets/104756079/939c9abc-6e5b-411f-8992-b59d4f560487)](https://github.com/The-Seat-of-Namazu/namazu.tools/assets/104756079/939c9abc-6e5b-411f-8992-b59d4f560487)
 
 > If you are not running AMs, the line up used in this strategy can prove awkward and difficult to pre-position for, so a different line up (such as in JP strats) can be used to make it more comfy.
 
@@ -514,7 +513,7 @@ The party will then line up as seen below:
 
 **Beetle Omega** will then spawn on a random cardinal, and a second and final **Hello World** line up must be formed. The players with **3 stacks** of **Quickening Dynamis** <img src="./assets/images/icons/quickening-dynamis.png" class="bufficon"> must take two tethers from **Beetle Omega** while the other 6 players position themselves as seen below:
 
-(image)
+[![](https://github.com/The-Seat-of-Namazu/namazu.tools/assets/104756079/939c9abc-6e5b-411f-8992-b59d4f560487)](https://github.com/The-Seat-of-Namazu/namazu.tools/assets/104756079/939c9abc-6e5b-411f-8992-b59d4f560487)
 
 {: .note }
 > If solved correctly all 8 players will have 3 stacks of **Quickening Dynamis** <img src="./assets/images/icons/quickening-dynamis.png" class="bufficon">.
