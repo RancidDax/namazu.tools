@@ -403,6 +403,8 @@ The **North-most** pair of **1 marker** will move to the North-West and South-Ea
 
 Players will move to their designated positions, stepping in front of their waymarker for **Mid Glitch**, and moving to the wall for **Remote Glitch**. The 2 players with **no marker**, must be in the **relative North-East** and **relative North-West** position to bait two line AOEs from the Arms. This is to ensure that none of the players already being targeted get hit and killed.
 
+(image here)
+
 After the AOEs resolve, **Omega-M will change to Omega-F** and towers will spawn. If the party is inflicted with **Mid Glitch**, 6 towers in a "smiley face" pattern will spawn. If inflicted with **Remote Glitch**, 5 towers in a "star" pattern will spawn. This pattern will spawn relative to the **Relative North Omega-F**, and can also be flipped vertically. Because these towers must be soaked whilst also **resolving Mid/Remote Glitch** everyone must take a particular tower. 
 
 Player's tower positions are designated by the waymark that they **originally spread to**:
@@ -428,7 +430,31 @@ Players will then move into their **Hello World** positions as seen below:
 After another tankbuster that the MT invulns, **Omega-F** casts:
 
 ### Run: Dynamis (Omega Version)
-Coming Soon
+
+After the initial raid-wide, 4 players are assigned **Hello World** debuffs. Two players are assigned with **First in Line** <img src="./assets/images/icons/first-in-line.png" class="bufficon">, and two others will be assigned with **Second in Line** <img src="./assets/images/icons/first-in-line.png" class="bufficon">. One player from each pair will be assigned **Hello, Distant World** and the other **Hello, Near World**.
+
+**Omega-F** will remain targetable and **Final Omega** will spawn in the center of the arena. Clones of **Omega-M** and **Omega-F** will appear on opposite intercardinals next to **Final Omega** with the same **Staff/Skates + Sword/Shield** combo that's seen in phase 2. **Final Omega** will then cleave two opposite cardinals of the arena, before cleaving the opposite cardinals.
+
+This dodge sounds incredibly complicated but it can be split up into several segments to quickly solve it:
+
+> Players will first determine **which Omega clone** will have the safe side on it, i.e. **shield Omega-M** will always be the safe side to avoid the dynamo hit.
+>
+> Players must then determine if the dodge is going to be an **inner, mid, or outer** dodge as shown by the diagram below:
+>
+> The 2 cardinals adjacent to the safe clone will be the two possible safe spots after that. **Final Omega** will then point it's blades either North/South or East/West for it's cleave, leaving the one cardinal that is uncleaved to be the safespot.
+
+Before the first dodge is made a 2nd set of clones will spawn. As **Final Omega** always cleaves the opposite cardinals of the first cleave, the 2nd dodge **will always** be a 90 degree dodge from the first position.
+
+{: .warning }
+> If a pattern occurs where the safe spots have a large distance between them: Inner C to Outer B, players should pop **Sprint** to make the timing comfy as the cleaves happen in quick succession.
+
+User **sausoftheroll** has compiled a list of possible dodges into a YouTube playlist:
+[DODGES](https://www.youtube.com/playlist?list=PLFRB_87JHX5WmAGqkThmV0laFQurUdoak){: .btn }
+
+{: .note }
+Anyone who fails to make this dodge will take **HEAVY** damage, and be inflicted by a damage down debuff.
+
+After the dodges are resolved **Omega-F** will become untargetable and dissapear. **Final Omega** will then point a monitor at either true East or true West. Like before, two players must be hit by this monitor
 
 ## Phase 6: Alpha Omega
 Coming Soon
