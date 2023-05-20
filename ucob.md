@@ -463,7 +463,68 @@ As the Dives are going off, the Party will need to prepare for Quotes, these wil
 Nael should now be dead, if not prepared for the other quotes to be recycled and used again until Nael dies.
 
 ## Phase 3: Bahamut
-Coming Soon
+
+<details markdown=1>
+<summary>Mechanics Summary</summary>
+
+{: .tanks }
+> **Flare Breath**: Conal cleave dealing very significant magic damage. Treat it like a mini-tankbuster.
+>
+> **Flatten**: Physical tankbuster dealing massive physical damage, that must be mitigated.
+> 
+> **Tempest Wing**: A tether will extend from Bahamut to a random target. This tether can be intercepted by standing between Bahamut and it's target. Deals magical spash damage that knocks back and stuns any party member except it's target.
+
+{: .everyone }
+> **Earth Shaker**: Bahamut will place a marker over a party member, targetting them with a huge conal AoE between Bahamut and his target (The range is approximately a full 90 degree slice of the arena). Deals significant physical damage, and leaves a fire puddle (not unlike Liquid Hell puddles). Standing in the puddle will inflict Sludge, a heavy and severe dot that will likely kill you.
+> 
+> **Megaflare**: 2+ players will get marked by a circle surrounding them, indicating them to stack. Splash damage will target random players, so everyone must spread out. Players without splash damage must not get hit by another player's splash damage, as they likely will likely either die, or not have enough HP to survive a later mechanic. AOE circles will also appear on the ground to dodge.
+> 
+> **Gigaflare**: Raid-wide AoE dealing massive magic damage.
+
+</details>
+
+### Transition
+After Nael dies, party to stack on south {% glossary Neurolink %} ready for the **Seventh Umbral Era**, a heavy Raid-wide and knockback, this will be followed by three **Calamitous Flame** raid-wides and **Calamitous Blaze** another heavy raid-wide. **Calamitous Blaze** is fatal without Tank LB2, but LB3 is preferred. 
+
+{: .tanks }
+Use the Tanks LB immediately after you get knocked back.
+
+{: .healers }
+Use heavy heals during the **Calamitous Flames**, you want to make sure the party is topped up for the last hit from **Calamitous Blaze**, especially if its LB2.
+
+Bahamut will follow this up with Tank mechanics, First a {% glossary Flare Breath %} followed by {% glossary Flatten %}.
+
+This will then begin Quickmarch Trio, the first of the Trios.
+
+### Quickmarch Trio (QMT)
+[QMT Toolbox](https://ff14.toolboxgaming.space/?id=877146678916361&preview=1){: .btn .btn-blue }
+
+Party Stacks middle and looks for the Three dragons to spawn on a wall and prepare to dive across the room, this becomes **Relative North**. 
+
+Light parties split, **LP1 relative West**, **LP2 relative East** and spread out on the wall, from top to bottom **(Tanks > Healers > Melee > Range)**.
+
+![image](https://github.com/The-Seat-of-Namazu/namazu.tools/assets/85346345/a15141be-7fd0-428c-967c-ba2cc0ae16a2)
+
+Players will drop a {% glossary Twister %} when the dragons dive, start moving inwards when you see the dragons begin their dive across the arena.
+
+Stay spread out as players are about to drop **Megaflare Puddles** followed by some players being hit with **Megaflare AoEs**. Players now all need to check debuffs and move into the following positions.
+
+![image](https://github.com/The-Seat-of-Namazu/namazu.tools/assets/85346345/ef856845-11c2-4363-b0ef-165c977f6a3b)
+
+One DPS and both healers get {% glossary Earth Shaker %}. H1 moves to relative West. H2 moves to relative East. DPS with {% glossary Earth Shaker %} moves to relative North.
+
+All other DPS stack relative south.
+
+Tanks will intercept the {% glossary Tempest Wing %} Tethers and take these East and West in line with the Healers.
+
+![image](https://github.com/The-Seat-of-Namazu/namazu.tools/assets/85346345/c5b80af1-68ac-483c-8a86-685af73a501c)
+
+{: .healers }
+You may need to run into the middle after **Megaflares** to top up the party as there is heavy damage here, just make sure you get to your relative position quickly after. Suggest using sprint here. Also make sure you are not too close to tanks for {% glossary Tempest Wing %}.
+
+{% glossary Earth Shaker %} DPS wait until {% glossary Tempest Wing %} resolves before moving back to party stack.
+
+Once more, Bahamut will use {% glossary Flare Breath %} followed by {% glossary Flatten %}.
 
 ## Phase 4: Adds
 Coming Soon
