@@ -403,6 +403,14 @@ Following the fireball will be another set of {% glossary Doom %} and {% glossar
 
 ### Divebombs and Fourth Quotes
 
+Nael will call out the fourth quote:
+
+**Fourth Quote**
+- Fleeting light! 'Neath the red moon, scorch you the earth! = {% glossary Dalamud Dive %} → {% glossary Thermionic Beam %}
+- Fleeting light! Amid a rain of stars, exalt you the red moon! = {% glossary Meteor Stream %} → {% glossary Dalamud Dive %}
+
+This quote will not resolve until after the Second Dive finishes.
+
 The dragons on the outside of the room will start targetting players for Dives, Three players will be fixated with a green marker on their head, these go out one at a time.
 
 <img src="./assets/images/divemarker.png" alt="Dive Marker" style="height: 200px">
@@ -411,15 +419,15 @@ The Dragons will dive in sets of **2-1-2** starting at True North. The 1st and 2
 
 Your goal is to position the three marked players in such a way that they bait the Dragon Dives away from the middle of the room.
 
-There are 8 possible locations for the Dragons to spawn.
+There are 8 possible locations for the Dragons to spawn. Only 5 dragons will spawn.
 
 ![image](https://github.com/The-Seat-of-Namazu/namazu.tools/assets/85346345/c687614b-96af-4f14-b6d3-5f42866b8482)
 
 You need to bait the dives in such a way to avoid the middle of the room, such as the following example where RED is the first dive, YELLOW is the second dive and BLUE is the third dive.
 
-If you have an experience party member, they will often call the bait positions using clock numbers to indicate where each bait should go, the solution for this example would be: **"2 6 10"**
+If you have an experience party member, they will often call the bait positions using **Clock Positions** (indicated in the following image) to loosely indicate where each bait should go, the solution for this example would be: **"2 6 10"**
 
-![image](https://github.com/The-Seat-of-Namazu/namazu.tools/assets/85346345/f15b6fa4-c5e2-493e-ade0-3ec4c5374370)
+![image](https://github.com/The-Seat-of-Namazu/namazu.tools/assets/85346345/2641ce2c-55fb-48a4-b67d-81693202d511)
 
 <details markdown=1>
 <summary>More Examples..</summary>
@@ -447,6 +455,9 @@ Nael will also be targetting the furthest players with {% glossary Hypernova %},
 {: .note }
 The Dragons will lock on to the players position when the green marker above them **dissapears**. This might mean dodging some {% glossary Hypernova %} before moving into the correct position.
 
+As the Dives are going off, the Party will need to prepare for Quotes, these will be either a Spread followed by a Tankbuster or a Tankbuster followed by a Stack. 
+
+Nael should now be dead, if not prepared for the other quotes to be recycled and used again until Nael dies.
 
 ## Phase 3: Bahamut
 Coming Soon
