@@ -576,9 +576,14 @@ Spread is centered on Nael using the same spread pattern as Nael phase.
 
 Depending on the Quote, Nael will either jump to a player and then perform a {% glossary Lunar Dynamo %} or {% glossary Raven's Dive %}, and then {% glossary Raven's Dive %} or {% glossary Lunar Dynamo %}.
 
-Tanks need to grab the two {% glossary Tempest Wing %} Tethers coming from Bahamut. MT runs to Bahamut and OT runs to Twintania.
+Tanks need to grab the two {% glossary Tempest Wing %} Tethers coming from Bahamut. MT runs to Bahamut and OT runs to Twintania. Suggest using sprint to reach the {% glossary Neurolink %} in time.
 
+Party must stack in south {% glossary Neurolink %} for Aetheric Profusion, this is a heavy raidwide. After this immediately spread for {% glossary Meteor Stream %}.
 
+Bahamut will use {% glossary Gigaflare %} followed by another set of tank busters with {% glossary Flare Breath %} followed by {% glossary Flatten %}.
+
+### Heavensfall Trio (HFT)
+[HFT Toolbox](https://ff14.toolboxgaming.space/?id=740246169786361&preview=1){: .btn .btn-blue }
 
 ## Phase 4: Adds
 Coming Soon
