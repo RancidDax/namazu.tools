@@ -686,7 +686,7 @@ Tank LB and Knockback Resist will be used to cheese the dive from Twintania and 
 
 Ensure that at least one party member is in a tower and prepare for {% glossary Twister %} when Twintania completes their Dive.
 
-If you are soaking a tower, walk **across** the tower as the dive goes off to ensure you do not leave the tower early and you don't get clipped by your own {% glossary Twisters %}.
+If you are soaking a tower, walk **across** the tower as the dive goes off to ensure you do not leave the tower early and you don't get clipped by your own {% glossary Twister %}.
 
 ![image](https://github.com/The-Seat-of-Namazu/namazu.tools/assets/85346345/7d0c9d70-8300-443b-8e29-c6b9b1001697)
 
