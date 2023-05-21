@@ -19,15 +19,16 @@ This guide is based off the original and very detailed guide by Clees, which can
 
 [Clees Guide](https://clees.me/guides/ucob/){: .btn .btn-purple }
 
-### Credits
+## Credits
 {: .no_toc }
 Written Guide by Em'gram
 
 PoVs by Kur Rumi
 
-### Toolboxes
+## Toolboxes
 {: .no_toc }
 
+### Bahamut Toolboxes
 [QMT](https://ff14.toolboxgaming.space/?id=877146678916361&preview=1){: .btn .btn-blue }
 [BFT](https://ff14.toolboxgaming.space/?id=838145884536361&preview=1){: .btn .btn-blue }
 [FRT](https://ff14.toolboxgaming.space/?id=810783368854861&preview=1){: .btn .btn-blue }
@@ -35,14 +36,14 @@ PoVs by Kur Rumi
 [TST](https://ff14.toolboxgaming.space/?id=141245760517361&preview=1){: .btn .btn-blue }
 [GO](https://ff14.toolboxgaming.space/?id=803246524767361&preview=1){: .btn .btn-blue }
 
-### PoVs
+## PoVs
 {: .no_toc }
 
 [DPS](https://www.youtube.com/watch?v=nYFW4YKTk-8){: .btn }
 [Healer](https://www.youtube.com/watch?v=wfVuqFvT0AE){: .btn }
 [Tank](https://www.youtube.com/watch?v=4R_b3AauWGk){: .btn }
 
-### Macros
+## Macros
 {: .no_toc }
 
 <details markdown=1>
