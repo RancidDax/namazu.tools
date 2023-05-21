@@ -602,7 +602,9 @@ Party to stack mid, similar to QMT the party will split left and right from wher
 
 Pay attention to the position of Nael and spread out in the safe spaces that are not being dived. When the dive goes off, move inwards to avoid a {% glossary Twister %}. Players will drop megaflare puddles as they move in, do not rush in otherwise you might place these too close to the middle. 
 
-8 towers will now spawn in positions around the room, each player will need to position to be knocked back into one of the towers. LP1 will count towers Counter-Clockwise from Nael and LP2 will count Clockwise. Find your tower using the following priority system:
+**8 towers** will now spawn in positions around the room, each player will need to position to be knocked back into one of the towers. LP1 will count towers **Counter-Clockwise** from Nael and LP2 will count **Clockwise**. 
+
+Find your tower using the following priority system:
 
 ```
                   <NAEL>
@@ -610,7 +612,7 @@ D3 < D1 < H1 < MT < ST > H2 > D2 > D4
 ```
 
 {: .note }
-If a tower spawns infront of Nael, this belongs to ST.
+If a tower spawns infront of Nael, this belongs to **ST**.
 
 Avoiding the Megaflare puddles that drop, preposition yourself to be knocked back into your tower by **Heavensfall**, if you miss the tower, you have some time to adjust into the tower before it explodes.
 
