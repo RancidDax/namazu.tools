@@ -684,7 +684,7 @@ Once you are past Bahamut, one player will get targetted with a **Red** beacon. 
 {: .note }
 Tank LB and Knockback Resist will be used to cheese the dive from Twintania and the Stack markers, **these can be completely ignored**.
 
-Ensure that at least one party member is in a tower and prepare for {% glossary Twisters %} when Twintania completes their Dive.
+Ensure that at least one party member is in a tower and prepare for {% glossary Twister %} when Twintania completes their Dive.
 
 If you are soaking a tower, walk **across** the tower as the dive goes off to ensure you do not leave the tower early and you don't get clipped by your own {% glossary Twisters %}.
 
