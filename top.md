@@ -327,7 +327,7 @@ If solved correctly, Omega will cast it's enrage: **Ion Efflux**.
 [P4 Blue Screen Toolbox](https://ff14.toolboxgaming.space/?id=595188367474761&preview=1){: .btn .btn-blue }
 
 {: .damage }
-> Depending on team comp or damage needs, DPS LB3 can be sent at the end of P3 or at the start of P4. Sending in P4 requires 2 mins to be used during **monitors**.
+> Depending on team composition or damage needs, DPS LB3 can be sent at the end of P3 or at the start of P4. Sending in P4 requires 2 minutes raid buffs to be used during **monitors**.
 
 This phase is fairly straight forward, with each player taking a protean and then taking two stacks south of the boss. This set of mechanics repeats 3 times. Just before the 2nd proteans, the party must step in to avoid **Wave Repeater**. Similiarly, after the 3rd stack the party must wait, and then step in to avoid another **Wave Repeater**.
 
@@ -359,7 +359,7 @@ The goal of the entirety of phase 5 is to end the phase with 3 stacks of **Quick
 {: .note }
 > MUR employs blasphemous strategies of using AMs (they're actually really nice for the last trio), that simplifies the **Hello World** sections of Sigma and Omega. This guide is written assuming players will be using these, though I will explain why some players are *required* to be in certain positions.
 
-After Omega-M becomes targetable, he will immediately cast a **Solar Ray** tank buster on the player with the highest emnity. This should be tank swapped. 
+After Omega-M becomes targetable, he will immediately cast a **Solar Ray** tank buster on the player with the highest emnity.
 
 {: .note } 
 > Party member's 15 second mitigations can be used at the 2nd tank buster hit, allowing it to be up for the future trios.  
@@ -418,7 +418,7 @@ After the Monitors resolve, **Beetle Omega** will cleave one side of the arena w
 {: .note }
 > If solved correctly, 6 players will have 1 stack of **Quickening Dynamis** <img src="./assets/images/icons/quickening-dynamis.png" class="bufficon">.
 
-Omega-M will then do another **Solar Ray** tank buster which the OT will invuln, before casting:
+**Omega-M** will then do another **Solar Ray** tank buster before casting:
 
 ### Run: Dynamis (Sigma Version)
 [P5 Dynamis Sigma Toolbox](https://ff14.toolboxgaming.space/?id=107380954136761&preview=1){: .btn .btn-blue }
@@ -463,7 +463,7 @@ Players will then move into their **Hello World** positions as seen below:
 
 **Omega-F** will then spawn in the center and become targetable.
 
-After another **Solar Ray** tank buster that the MT invulns, **Omega-F** casts:
+After another **Solar Ray** tank buster, **Omega-F** casts:
 
 ### Run: Dynamis (Omega Version)
 [P5 Dynamis Omega Toolbox](https://ff14.toolboxgaming.space/?id=078384491946761&preview=1){: .btn .btn-blue }
@@ -518,9 +518,9 @@ The party will then line up as seen below:
 {: .note }
 > If solved correctly all 8 players will have 3 stacks of **Quickening Dynamis** <img src="./assets/images/icons/quickening-dynamis.png" class="bufficon">.
 
-Omega-F will then become targetable and do one last **Solar Ray** tank buster, forcing a tank swap.
+**Omega-F** will then become targetable and do one last **Solar Ray** tank buster.
 
-Omega-F must be below 20% health before she finishes casting her enrage: **Blind Faith**, which will knock back all players into the killzone at the edge of the arena before the cutscene plays.
+**Omega-F** must be below 20% health before she finishes casting her enrage: **Blind Faith**, which will knock back all players into the killzone at the edge of the arena before the cutscene plays.
 
 {: .note }
 > Where you are knocked back to is where you will begin the next phase. Everyone should be knocked to **true South** as mitigation is applied early in phase 6.
@@ -534,7 +534,7 @@ Omega-F must be below 20% health before she finishes casting her enrage: **Blind
 > This phase requires heavy mitigation on almost every mechanic.  
 
 {: .tanks }
-> Between every mechanic Alpha Omega will do 2 AOE auto-attacks. These will target the player with the highest emnity and the player who is **furthest** from the boss. The OT should stand outside the hitbox between mechanics to take these.
+> Between every mechanic **Alpha Omega** will do 2 AOE auto-attacks. These will target the player with the highest emnity and the player who is **furthest** from the boss. The OT should stand outside the hitbox between mechanics to take these.
 
 **Alpha Omega** will become targetable and immediately begin casting **Cosmo Memory**, which requires a tank LB3 to survive. Upon taking damage from **Cosmo Memory**, everyone's 3 stacks of **Quickening Dynamis** <img src="./assets/images/icons/quickening-dynamis.png" class="bufficon"> will be transformed to **Brilliant Dynamis** <img src="./assets/images/icons/brilliant-dynamis.png" class="bufficon">.
 
