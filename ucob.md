@@ -25,6 +25,16 @@ Written Guide by Em'gram
 
 PoVs by Kur Rumi
 
+### Toolboxes
+{: .no_toc }
+
+[QMT](https://ff14.toolboxgaming.space/?id=877146678916361&preview=1){: .btn .btn-blue }
+[BFT](https://ff14.toolboxgaming.space/?id=838145884536361&preview=1){: .btn .btn-blue }
+[FRT](https://ff14.toolboxgaming.space/?id=810783368854861&preview=1){: .btn .btn-blue }
+[HFT](https://ff14.toolboxgaming.space/?id=740246169786361&preview=1){: .btn .btn-blue }
+[TST](https://ff14.toolboxgaming.space/?id=141245760517361&preview=1){: .btn .btn-blue }
+[GO](https://ff14.toolboxgaming.space/?id=803246524767361&preview=1){: .btn .btn-blue }
+
 ### PoVs
 {: .no_toc }
 
@@ -584,6 +594,37 @@ Bahamut will use {% glossary Gigaflare %} followed by another set of tank buster
 
 ### Heavensfall Trio (HFT)
 [HFT Toolbox](https://ff14.toolboxgaming.space/?id=740246169786361&preview=1){: .btn .btn-blue }
+
+Party to stack mid, similar to QMT the party will split left and right from where the Trio spawns on the wall. The Trio will be in a random order with Nael positioned either Left, Middle or Right. Two of the Trio will be doing a dive across the room, Nael will not be diving. 
+
+Screenshots from the toolbox below show the possible spawns and respective spreads, Nael is highlighted **RED**.
+
+![image](https://github.com/The-Seat-of-Namazu/namazu.tools/assets/85346345/3dca53e3-88c6-4fc7-b04f-d7f05a62f4d1)
+![image](https://github.com/The-Seat-of-Namazu/namazu.tools/assets/85346345/52a6c820-214a-4e31-96eb-bab73657f889)
+![image](https://github.com/The-Seat-of-Namazu/namazu.tools/assets/85346345/2935b116-f5ca-4e7e-b9b8-20f587702bd5)
+
+Pay attention to the position of Nael and spread out in the safe spaces that are not being dived. When the dive goes off, move inwards to avoid a {% glossary Twister %}.
+
+Players will drop megaflare puddles as they move in, do not rush in otherwise you might place these too close to the middle. 
+
+8 towers will now spawn in positions around the room, each player will need to position to be knocked back into one of the towers. Find your tower using the following priority system:
+
+```
+                  <NAEL>
+D3 < D1 < H1 < MT < ST > H2 > D2 > D4
+```
+
+{: .note }
+If a tower spawns infront of Nael, this belongs to ST.
+
+Avoiding the Megaflare puddles that drop, preposition yourself to be knocked back into your tower by **Heavensfall**, if you miss the tower, you have some time to adjust into the tower before it explodes.
+
+Once the towers resolve, rotating AoEs will begin spinning around the room, avoid the AoEs and stay near the wall while Nael sends out two {% glossary Hypernova %}, after the {% glossary Hypernova %} make your way into the center of the room for another **Party Stack**.
+
+Finally, Bahamut will use another {% glossary Gigaflare %} followed by three {% glossary Flare Breath %}.
+
+### Tenstrike Trio (TST)
+[TST Toolbox](https://ff14.toolboxgaming.space/?id=141245760517361&preview=1){: .btn .btn-blue }
 
 ## Phase 4: Adds
 Coming Soon
