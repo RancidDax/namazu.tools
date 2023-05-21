@@ -660,7 +660,37 @@ The remaining players should head to south waymark to avoid {% glossary Earth Sh
 After the final {% glossary Earth Shaker %} resolve, the phase will end with {% glossary Gigaflare %} followed by {% glossary Flatten %} and {% glossary Flare Breath %}.
 
 ### Grand Octet (GO)
-[GO Toolbox](https://ff14.toolboxgaming.space/?id=803246524767361&preview=1){: .btn .btn-blue }
+[GO Toolbox](https://ff14.toolboxgaming.space/?id=620787600564861&preview=1){: .btn .btn-blue }
+
+Party should stack middle, Bahamut, Nael, Twin and the 5 Dragons will spawn on all Cardinals and Intercardinals. Look at Bahamuts position, this will tell you which direction you rotate around the room in GO.
+
+If Bahamut is on a...
+- **CARDINAL** you will rotate **Counter-Clockwise** around the room.
+- **INTERCARDINAL** you will rotate **Clockwise** around the room.
+
+Once you find Bahamut, look to the opposite direction. 
+
+- **IF** Nael is **NOT** opposite Bahamut, run directly to the wall.
+- **IF** Nael **IS** opposite Bahamut, offset by one dragon position Clockwise or Counter-Clockwise in the direction you will be rotating.
+
+Once you are at the wall, wait for the first Dive go off, then start running in the CCW or CW direction mentioned before.
+
+After the second dragon dive goes off, use **Sprint** and continue running around the wall past Bahamut (Do **NOT** use sprint if you had to adjust for Nael opposite Bahamut)
+
+Once you are past Bahamut, one player will get targetted with a **Red** beacon. Once this appears, all players turn and run into the middle of the room.
+
+**Tanks** use LB when towers appear and **ALL** party members use **Knockback Resist** when you see the Tank LB. 
+
+{: .note }
+Tank LB and Knockback Resist will be used to cheese the dive from Twintania and the Stack markers, **these can be completely ignored**.
+
+Ensure that at least one party member is in a tower and prepare for {% glossary Twisters %} when Twintania completes their Dive.
+
+If you are soaking a tower, walk **across** the tower as the dive goes off to ensure you do not leave the tower early and you don't get clipped by your own {% glossary Twisters %}.
+
+![image](https://github.com/The-Seat-of-Namazu/namazu.tools/assets/85346345/7d0c9d70-8300-443b-8e29-c6b9b1001697)
+
+Once {% glossary Twisters %} resolve, you will finish the phase and go into Adds.
 
 ## Phase 4: Adds
 Coming Soon
