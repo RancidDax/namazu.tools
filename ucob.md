@@ -690,7 +690,7 @@ If you are soaking a tower, walk **across** the tower as the dive goes off to en
 
 ![image](https://github.com/The-Seat-of-Namazu/namazu.tools/assets/85346345/7d0c9d70-8300-443b-8e29-c6b9b1001697)
 
-Once {% glossary Twisters %} resolve, you will finish the phase and go into Adds.
+Once {% glossary Twister %} resolve, you will finish the phase and go into Adds.
 
 ## Phase 4: Adds
 Coming Soon
