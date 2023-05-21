@@ -591,8 +591,13 @@ Party must stack in south {% glossary Neurolink %} for Aetheric Profusion, this 
 
 Party to stack mid, similar to QMT the party will split left and right from where the Trio spawns on the wall. The Trio will be in a random order with Nael positioned either Left, Middle or Right. Two of the Trio will be doing a dive across the room, Nael will not be diving. Screenshots from the toolbox below show the possible spawns and respective spreads, Nael is highlighted **RED**.
 
+#### Nael Left
 ![image](https://github.com/The-Seat-of-Namazu/namazu.tools/assets/85346345/3dca53e3-88c6-4fc7-b04f-d7f05a62f4d1)
+
+#### Nael Right
 ![image](https://github.com/The-Seat-of-Namazu/namazu.tools/assets/85346345/52a6c820-214a-4e31-96eb-bab73657f889)
+
+#### Nael Middle
 ![image](https://github.com/The-Seat-of-Namazu/namazu.tools/assets/85346345/2935b116-f5ca-4e7e-b9b8-20f587702bd5)
 
 Pay attention to the position of Nael and spread out in the safe spaces that are not being dived. When the dive goes off, move inwards to avoid a {% glossary Twister %}. Players will drop megaflare puddles as they move in, do not rush in otherwise you might place these too close to the middle. 
