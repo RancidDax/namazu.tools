@@ -589,7 +589,11 @@ Party must stack in south {% glossary Neurolink %} for Aetheric Profusion, this 
 ### Heavensfall Trio (HFT)
 [HFT Toolbox](https://ff14.toolboxgaming.space/?id=740246169786361&preview=1){: .btn .btn-blue }
 
-Party to stack mid, similar to QMT the party will split left and right from where the Trio spawns on the wall. The Trio will be in a random order with Nael positioned either Left, Middle or Right. Two of the Trio will be doing a dive across the room, Nael will not be diving. Screenshots from the toolbox below show the possible spawns and respective spreads, Nael is highlighted **RED**.
+Party to stack mid, similar to QMT the party will split left and right from where the Trio spawns on the wall.
+
+The Trio will be in a random order with Nael positioned either Left, Middle or Right. Two of the Trio will be doing a dive across the room, Nael will not be diving. 
+
+Screenshots from the toolbox below show the possible spawns and respective spreads, Nael is highlighted **RED**.
 
 #### Nael Left
 ![image](https://github.com/The-Seat-of-Namazu/namazu.tools/assets/85346345/3dca53e3-88c6-4fc7-b04f-d7f05a62f4d1)
