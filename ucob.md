@@ -620,10 +620,42 @@ If a tower spawns infront of Nael, this belongs to **ST**.
 
 Avoiding the Megaflare puddles that drop, preposition yourself to be knocked back into your tower by **Heavensfall**, if you miss the tower, you have some time to adjust into the tower before it explodes.
 
-Once the towers resolve, rotating AoEs will begin spinning around the room, avoid the AoEs and stay near the wall while Nael sends out two {% glossary Hypernova %}, after the {% glossary Hypernova %} make your way into the center of the room for another **Party Stack**. Finally, Bahamut will use another {% glossary Gigaflare %} followed by three {% glossary Flare Breath %}.
+Once the towers resolve, rotating AoEs will begin spinning around the room, avoid the AoEs by rotating around the room and stay near the wall while Nael sends out two {% glossary Hypernova %}, after the {% glossary Hypernova %} make your way into the center of the room for another **Party Stack**. Finally, Bahamut will use another {% glossary Gigaflare %} followed by three {% glossary Flare Breath %}.
 
 ### Tenstrike Trio (TST)
 [TST Toolbox](https://ff14.toolboxgaming.space/?id=141245760517361&preview=1){: .btn .btn-blue }
+
+Preposition in QMT spreads around the middle of the room. The three players will get two {% glossary Hatch %}'s one after another. Targetted players should move to a {% glossary Neurolink %}, other players spread out away from the Neurolinks.
+
+The players with {% glossary Hatch %} will take the first {% glossary Hatch %} in the {% glossary Neurolink %}.
+
+![image](https://github.com/The-Seat-of-Namazu/namazu.tools/assets/85346345/e61c4564-690f-4ca3-a9d9-45573ad6adb8)
+
+Targetted players will then run directly out to the wall to bait the second {% glossary Hatch %} to go through the {% glossary Neurolink %}. Another player will need to intercept the {% glossary Hatch %} by standing in the {% glossary Neurolink %}.
+
+Nerolink targets move to the wall marked in **RED**
+Intercepts move into {% glossary Neurolink %} to catch Orbs marked in **YELLOW**
+
+![image](https://github.com/The-Seat-of-Namazu/namazu.tools/assets/85346345/ea2d1ed5-b7d8-4693-8be5-9a7c44c8a74c)
+
+After the {% glossary Hatch %} resolve, four players will be targetted with {% glossary Earth Shaker %}.
+
+Players with {% glossary Earth Shaker %} head to the 4 outer waymarks. 
+
+![image](https://github.com/The-Seat-of-Namazu/namazu.tools/assets/85346345/97071fb0-e936-42f3-96f5-f5ceecce14e0)
+
+The remaining players should head to south waymark to avoid {% glossary Earth Shaker %}. These players will now get {% glossary Earth Shaker %} and need to swap positions with the first four players.
+
+{: .note }
+> Pre-position around the south waymark to indicate which outer waymark you will be heading too.
+>
+> ![image](https://github.com/The-Seat-of-Namazu/namazu.tools/assets/85346345/5997bb46-72d6-4337-bbed-55e93c0486f6)
+> Image from Tessian's UCOB Guide Video
+
+After the final {% glossary Earth Shaker %} resolve, the phase will end with {% glossary Gigaflare %} followed by {% glossary Flatten %} and {% glossary Flare Breath %}.
+
+### Grand Octet (GO)
+[GO Toolbox](https://ff14.toolboxgaming.space/?id=803246524767361&preview=1){: .btn .btn-blue }
 
 ## Phase 4: Adds
 Coming Soon
