@@ -634,9 +634,13 @@ The players with {% glossary Hatch %} will take the first {% glossary Hatch %} i
 Targetted players will then run directly out to the wall to bait the second {% glossary Hatch %} to go through the {% glossary Neurolink %}. Another player will need to intercept the {% glossary Hatch %} by standing in the {% glossary Neurolink %}.
 
 Nerolink targets move to the wall marked in **RED**
+
 Intercepts move into {% glossary Neurolink %} to catch Orbs marked in **YELLOW**
 
 ![image](https://github.com/The-Seat-of-Namazu/namazu.tools/assets/85346345/ea2d1ed5-b7d8-4693-8be5-9a7c44c8a74c)
+
+{: .note }
+Intercepts on south waymark may need to side-step a bit to catch the incoming orb as it sometimes spawns slightly offset to the right. Your job is to act like a goalkeeper and catch the orb as it goes past the {% glossary Neurolink %}.
 
 After the {% glossary Hatch %} resolve, four players will be targetted with {% glossary Earth Shaker %}.
 
