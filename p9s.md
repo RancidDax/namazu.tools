@@ -9,7 +9,7 @@ nav_order: 3
 
 <img src="" alt="P9S" width="150" style="float: right">
 
-# P9S
+# Anabaseios: The Ninth Circle (Savage)
 
 MUR Strats 
 {: .label .label-purple }
@@ -39,3 +39,5 @@ Toolboxes are an interactive guide that allows you to click through each phase i
 　Odd: W　Even: E　wait: N　No debuff: S
 　※ Bait defamation onto H1 H2 D3 D4
 ```
+
+## Strategy Writeup (coming soon)
