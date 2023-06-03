@@ -37,7 +37,7 @@ Coming Soon
 [P7S](/){: .btn }
 [P8S](/){: .btn }
 
-[P9S](/){: .btn }
+[P9S](/p9s){: .btn .btn-purple}
 [P10S](/){: .btn }
 [P11S](/){: .btn }
 [P12S](/){: .btn }
