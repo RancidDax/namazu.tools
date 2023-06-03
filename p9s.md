@@ -7,8 +7,6 @@ nav_order: 3
 
 {% include custom.html %}
 
-<img src="" alt="P9S" width="150" style="float: right">
-
 # Anabaseios: The Ninth Circle (Savage)
 
 MUR Strats 
