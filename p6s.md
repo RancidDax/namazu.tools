@@ -2,6 +2,7 @@
 layout: default
 title: P6S
 parent: Savage
+nav_order: 6
 ---
 
 # P6S
