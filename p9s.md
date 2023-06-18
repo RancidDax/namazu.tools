@@ -2,7 +2,7 @@
 layout: default
 title: P9S
 parent: Savage
-nav_order: 3
+nav_order: 1
 ---
 
 {% include custom.html %}
