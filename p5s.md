@@ -2,6 +2,7 @@
 layout: default
 title: P5S
 parent: Savage
+nav_order: 5
 ---
 
 # P5S
