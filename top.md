@@ -1,4 +1,4 @@
----
+![ffxiv_30052023_002734_700](https://github.com/The-Seat-of-Namazu/namazu.tools/assets/104756079/5c9d1155-91f5-4985-8ffd-6e1f36e7b05c)---
 layout: default
 title: TOP
 parent: Ultimates
@@ -374,7 +374,7 @@ I highly recommend looking at the toolbox for this trio as well as reading this 
 {: .healers}
 > This is a very hard hitting mechanic and it becomes difficult to heal due to tethers. When able, healers should be given priority for inner tethers and after the initial monitor hit, players should squeeze in for healing.
 
-Omega-M will become untargetable and disappear, **Beetle Omega** and **Final Omega** will then spawn randomly on the East/West cardinals, and **Omega's Eye** will spawn at North. Each player will then be inflicted with **Local Code Smell** and **Remote Code Smell**, such that there will be **2 Blue Tethers** and **2 Christmas Tethers**.
+Omega-M will become untargetable and disappear, **Beetle Omega** and **Final Omega** will then spawn randomly on two opposite cardinals, and **Omega's Eye** will spawn on one of the remaining cardinals, and will treated as north. Each player will then be inflicted with **Local Code Smell** and **Remote Code Smell**, such that there will be **2 Blue Tethers** and **2 Christmas Tethers**.
 
 Two **Blue Tether Players** will also receive **Hello, Distant World** <img src="./assets/images/icons/distant-world.png" class="bufficon"> and **Hello, Near World** <img src="./assets/images/icons/near-world.png" class="bufficon">.
 
@@ -435,7 +435,7 @@ The **North-most** pair of **1 marker** will move to the North-West and South-Ea
 
 Players will move to their designated positions, stepping in front of their waymarker for **Mid Glitch**, and moving to the wall for **Remote Glitch**. The 2 players with **no marker**, must be in the **relative North-East** and **relative North-West** position to bait two line AOEs from the Arms. This is to ensure that none of the players already being targeted get hit and killed.
 
-(image here)
+[![](https://github.com/The-Seat-of-Namazu/namazu.tools/assets/104756079/8e00e58c-2c31-4407-9ae1-50f012b05275)](https://github.com/The-Seat-of-Namazu/namazu.tools/assets/104756079/8e00e58c-2c31-4407-9ae1-50f012b05275)
 
 After the AOEs resolve, **Omega-M will change to Omega-F** and towers will spawn. If the party is inflicted with **Mid Glitch**, 6 towers in a "smiley face" pattern will spawn. If inflicted with **Remote Glitch**, 5 towers in a "star" pattern will spawn. This pattern will spawn relative to the **Relative North Omega-F**, and can also be flipped vertically. Because these towers must be soaked whilst also **resolving Mid/Remote Glitch** everyone must take a particular tower. 
 
