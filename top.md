@@ -1,4 +1,4 @@
-![ffxiv_30052023_002734_700](https://github.com/The-Seat-of-Namazu/namazu.tools/assets/104756079/5c9d1155-91f5-4985-8ffd-6e1f36e7b05c)---
+---
 layout: default
 title: TOP
 parent: Ultimates
