@@ -73,7 +73,7 @@ Mitigation Plan Spreadsheet
 
 ## Phase 1: Knights
 
-This phase begins with two targetable bosses: Adelphel and Charibert
+This phase begins with two targetable bosses: Adelphel and Grinnaux.
 Once pulled, tanks will stack the bosses and the party will stay south.
 
 {: .damage }
