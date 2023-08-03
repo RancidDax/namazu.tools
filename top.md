@@ -44,7 +44,7 @@ Toolboxes are an interactive guide that allows you to click through each phase i
 
 <details markdown=1>
 <summary>View Cheatsheet</summary>
-<a href="https://cdn.discordapp.com/attachments/1102126227264905257/1108266166763405432/OCE_TOP_Cheat_Sheet_Alt.png" target="_blank"><img src="https://cdn.discordapp.com/attachments/1102126227264905257/1108266166763405432/OCE_TOP_Cheat_Sheet_Alt.png"></a>
+<a href="./assets/topcheatsheet.png" target="_blank"><img src="./assets/topcheatsheet.png"></a>
 </details>
 
 ### Waymarks (Soon™)
@@ -219,7 +219,9 @@ Upon defeating Omega-F, the transition begins:
 ### Phase 2 -> Phase 3 Transition
 
 {: .everyone }
->The party should line-up from East to West as seen in the cheatsheet before debuffs are assigned. 
+>The party should line-up from East to West as seen in the cheatsheet before debuffs are assigned.
+>
+>![image](https://github.com/The-Seat-of-Namazu/namazu.tools/assets/85346345/3552b589-9eaf-45be-8de0-c2b79cacf2f4)
 
 {: .healers }
 > To survive this transition the party must have *at least* a barrier healer's shield covering the hits.
