@@ -249,7 +249,7 @@ The phase begins with a hard-hitting raid wide cast:
 
 ### Hello World
 
-This mechanic assigns **a lot** of debuffs to players. Thankfully, most of them can be ignored as they will resolve themselves simply by doing the mechanic and are only present as fail conditions for doing it *incorrectly*.
+This mechanic assigns **a lot** of debuffs to players. Thankfully, a few of them can be ignored as they will resolve themselves simply by doing the mechanic and are only present as fail conditions for doing it *incorrectly*.
 
 For those interested I've attached the ignorable debuffs in the dropdown below:
 
