@@ -69,7 +69,6 @@ Mitigation Plan Spreadsheet
 </details>
 
 ## Fight Writeup
-<coming soon>
 
 ## Phase 1: Knights
 
