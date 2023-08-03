@@ -151,6 +151,9 @@ The party is inflicted with either **Mid Glitch** <img src="./assets/images/icon
 > 
 > The furthest West symbol of a pair will be designated as Light Party 1, whilst the furthest East will be designated Light Party 2.
 
+[![](https://github.com/RancidDax/namazu.tools/assets/104756079/0069116b-8199-4dcc-8d26-8fa56403ccad)](https://github.com/RancidDax/namazu.tools/assets/104756079/0069116b-8199-4dcc-8d26-8fa56403ccad)
+> As seen above, because I am the western most cross player I move to Light Party 1. 
+
 At the same time, **Omega's Eye** will spawn on a random cardinal/intercardinal. **This will be designated as relative north**.
 
 Clones will then spawn around the center of the arena, 2 Omega-M, and 2 Omega-F. An Omega-M and Omega-F pair will always be facing eachother and should be focused on. These two clones will perform a set of AOEs that are dependant on the weapons they are holding.
@@ -171,7 +174,7 @@ The possible combinations are:
 > 
 > These waymarks also help to position during **Mid/Remote Glitch.**
 
-Once the dodge is made, all players must resolve their **Mid/Remote Glitch** by splitting into the previously designated light parties and moving to the West (LP1) and East (LP2) **relative to Omega's Eye**. 
+Once the dodge is made, all players must resolve their **Mid/Remote Glitch** by splitting into the previously designated light parties and moving to the West (LP1) and East (LP2) **relative to Omega's Eye**. If **Remote Glitch** <img src="./assets/images/icons/remote-glitch.png" class="bufficon"> is being solved, the cross and triangle players in Light Party 2 will swap positions.
 
 After each player takes an AOE, two stacks will then appear on two random players. Multiple clones will spawn around the arena, including a line of 3 Males, and 1 Female in the center. Using the **middle of the 3 males as relative north**, the party must form two stacks in their designated light parties around the female to get pushed back to 1 of 3 safe spots.
 
