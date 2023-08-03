@@ -70,3 +70,13 @@ Mitigation Plan Spreadsheet
 
 ## Fight Writeup
 <coming soon>
+
+## Phase 1: Knights
+
+This phase begins with two targetable bosses: Adelphel and Grinnaux.
+Once pulled, tanks will stack the bosses and the party will stay south.
+
+{: .damage }
+> As Adelphel goes untargetable soon after the phase starts, players should spend their buffs and openers on him.
+
+After a **Holiest of Holy** raid wide Grinnaux will cast **Empty Dimension**, forming a donut AOE centered on him. At the same time Adelphel will cast **Holy Shield Bash**, a tethered AOE tankbuster that is targeted on a random player. A tank must walk through this tether and bring it north of the bosses to take the tankbuster. At the same time the party will take a **Heavensblaze** stack at the south.
