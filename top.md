@@ -44,7 +44,7 @@ Toolboxes are an interactive guide that allows you to click through each phase i
 
 <details markdown=1>
 <summary>View Cheatsheet</summary>
-<a href="./assets/topcheatsheet.png" target="_blank"><img src="./assets/topcheatsheet.png"></a>
+<a href="./assets/images/topcheatsheet.png" target="_blank"><img src="./assets/images/topcheatsheet.png"></a>
 </details>
 
 ### Waymarks (Soon™)
