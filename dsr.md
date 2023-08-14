@@ -21,7 +21,8 @@ Toolboxes are an interactive guide that allows you to click through each phase i
 [Phase 2: Thordan](https://ff14.toolboxgaming.space/?id=110786314454861&preview=1){: .btn .btn-blue }
 [Phase 3: Nidhogg](https://ff14.toolboxgaming.space/?id=654299805191961&preview=1){: .btn .btn-blue }
 [Phase 4: Eyes](https://ff14.toolboxgaming.space/?id=674291612991961&preview=1){: .btn .btn-blue }
-[Phase 5: Dark Thordan](){: .btn }
+[Phase 5: Dark Thordan: Wrath](https://ff14.toolboxgaming.space/?id=143466228734561&preview=1){: .btn .btn-blue }
+[Phase 5: Dark Thordan: Death](https://ff14.toolboxgaming.space/?id=268588669900861&preview=1){: .btn .btn-blue }
 [Phase 6: Double Dragons](https://ff14.toolboxgaming.space/?id=610785126654861&preview=1){: .btn .btn-blue }
 [Phase 7: Dragon King Thordan](){: .btn }
 
