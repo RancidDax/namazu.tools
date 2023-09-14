@@ -37,7 +37,7 @@ Toolboxes are an interactive guide that allows you to click through each phase i
 
 [DPS](ADD LINK HERE){: .btn }
 [Healer](ADD LINK HERE){: .btn }
-[Tank](ADD LINK HERE){: .btn }
+[Tank](https://www.youtube.com/watch?v=XHEpxUdz_6Q){: .btn }
 
 ### Cheatsheet
 {: .no_toc }
