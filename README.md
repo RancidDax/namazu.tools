@@ -1,8 +1,8 @@
 # STOP - This page has been deprecated
 
-To simplify management, we have retired this page and moved over to a new Repo here: [https://github.com/materiaraiding/materiaraiding](https://github.com/materiaraiding/materiaraiding)
+We have retired this page and moved over to a new Repo here: [https://github.com/materiaraiding/materiaraiding](https://github.com/materiaraiding/materiaraiding)
 
-## [Materia Raiding Website](https://materiaraiding.com/)
+The website can now be found at: [Materia Raiding Website](https://materiaraiding.com/)
 
 
 
