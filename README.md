@@ -4,6 +4,21 @@ To simplify management, we have retired this page and moved over to a new Repo h
 
 ## [Materia Raiding Website](https://materiaraiding.com/)
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ----------------------------------------------------------------------------------
 
 # Namazu.tools
