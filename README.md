@@ -1,3 +1,26 @@
+# STOP - This page has been deprecated
+
+We have retired this page and moved over to a new Repo here: [https://github.com/materiaraiding/materiaraiding](https://github.com/materiaraiding/materiaraiding)
+
+The website can now be found at: [Materia Raiding Website](https://materiaraiding.com/)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+----------------------------------------------------------------------------------
+
 # Namazu.tools
 
 Namazu tools is a community driven project to collate the various guides and tools created for raiding in the FF14 Materia Datacenter.
